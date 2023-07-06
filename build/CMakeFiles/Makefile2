@@ -81,12 +81,12 @@ clean: CMakeFiles/PhotoshopLite.dir/clean
 CMakeFiles/PhotoshopLite.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=1,2 "Built target PhotoshopLite"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=1,2,3 "Built target PhotoshopLite"
 .PHONY : CMakeFiles/PhotoshopLite.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/PhotoshopLite.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/PhotoshopLite.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles 0
 .PHONY : CMakeFiles/PhotoshopLite.dir/rule

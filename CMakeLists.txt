@@ -7,7 +7,8 @@ find_package(SDL2 REQUIRED)
 
 # Set source and header files
 set(SOURCES
-    src/display/imageDisplay.cpp
+    src/display/userInterface.cpp
+    src/display/windowConfig.cpp
 )
 
 # Add the executable target

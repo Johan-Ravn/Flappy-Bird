@@ -129,29 +129,53 @@ PhotoshopLite/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/build
 .PHONY : PhotoshopLite/fast
 
-src/display/imageDisplay.o: src/display/imageDisplay.cpp.o
-.PHONY : src/display/imageDisplay.o
+src/display/userInterface.o: src/display/userInterface.cpp.o
+.PHONY : src/display/userInterface.o
 
 # target to build an object file
-src/display/imageDisplay.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/imageDisplay.cpp.o
-.PHONY : src/display/imageDisplay.cpp.o
+src/display/userInterface.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/userInterface.cpp.o
+.PHONY : src/display/userInterface.cpp.o
 
-src/display/imageDisplay.i: src/display/imageDisplay.cpp.i
-.PHONY : src/display/imageDisplay.i
+src/display/userInterface.i: src/display/userInterface.cpp.i
+.PHONY : src/display/userInterface.i
 
 # target to preprocess a source file
-src/display/imageDisplay.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/imageDisplay.cpp.i
-.PHONY : src/display/imageDisplay.cpp.i
+src/display/userInterface.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/userInterface.cpp.i
+.PHONY : src/display/userInterface.cpp.i
 
-src/display/imageDisplay.s: src/display/imageDisplay.cpp.s
-.PHONY : src/display/imageDisplay.s
+src/display/userInterface.s: src/display/userInterface.cpp.s
+.PHONY : src/display/userInterface.s
 
 # target to generate assembly for a file
-src/display/imageDisplay.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/imageDisplay.cpp.s
-.PHONY : src/display/imageDisplay.cpp.s
+src/display/userInterface.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/userInterface.cpp.s
+.PHONY : src/display/userInterface.cpp.s
+
+src/display/windowConfig.o: src/display/windowConfig.cpp.o
+.PHONY : src/display/windowConfig.o
+
+# target to build an object file
+src/display/windowConfig.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/windowConfig.cpp.o
+.PHONY : src/display/windowConfig.cpp.o
+
+src/display/windowConfig.i: src/display/windowConfig.cpp.i
+.PHONY : src/display/windowConfig.i
+
+# target to preprocess a source file
+src/display/windowConfig.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/windowConfig.cpp.i
+.PHONY : src/display/windowConfig.cpp.i
+
+src/display/windowConfig.s: src/display/windowConfig.cpp.s
+.PHONY : src/display/windowConfig.s
+
+# target to generate assembly for a file
+src/display/windowConfig.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/display/windowConfig.cpp.s
+.PHONY : src/display/windowConfig.cpp.s
 
 # Help Target
 help:
@@ -162,9 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... PhotoshopLite"
-	@echo "... src/display/imageDisplay.o"
-	@echo "... src/display/imageDisplay.i"
-	@echo "... src/display/imageDisplay.s"
+	@echo "... src/display/userInterface.o"
+	@echo "... src/display/userInterface.i"
+	@echo "... src/display/userInterface.s"
+	@echo "... src/display/windowConfig.o"
+	@echo "... src/display/windowConfig.i"
+	@echo "... src/display/windowConfig.s"
 .PHONY : help
 
 
