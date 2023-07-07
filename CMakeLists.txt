@@ -6,7 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 set(SOURCES
     src/main.cpp
     src/display/image.cpp
-    src/display/imageDisplay.cpp
 )
 
 # Add the executable target
@@ -18,5 +17,4 @@ if(CMAKE_C_COMPILER_ID MATCHES "GNU|Clang")
 endif()
 
 # Opencv
-find_package(OpenCV REQUIRED)
-target_link_libraries(main ${OpenCV_LIBS})
+

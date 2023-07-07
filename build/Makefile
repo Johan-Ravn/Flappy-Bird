@@ -153,30 +153,6 @@ src/display/image.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/image.cpp.s
 .PHONY : src/display/image.cpp.s
 
-src/display/imageDisplay.o: src/display/imageDisplay.cpp.o
-.PHONY : src/display/imageDisplay.o
-
-# target to build an object file
-src/display/imageDisplay.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageDisplay.cpp.o
-.PHONY : src/display/imageDisplay.cpp.o
-
-src/display/imageDisplay.i: src/display/imageDisplay.cpp.i
-.PHONY : src/display/imageDisplay.i
-
-# target to preprocess a source file
-src/display/imageDisplay.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageDisplay.cpp.i
-.PHONY : src/display/imageDisplay.cpp.i
-
-src/display/imageDisplay.s: src/display/imageDisplay.cpp.s
-.PHONY : src/display/imageDisplay.s
-
-# target to generate assembly for a file
-src/display/imageDisplay.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageDisplay.cpp.s
-.PHONY : src/display/imageDisplay.cpp.s
-
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -213,9 +189,6 @@ help:
 	@echo "... src/display/image.o"
 	@echo "... src/display/image.i"
 	@echo "... src/display/image.s"
-	@echo "... src/display/imageDisplay.o"
-	@echo "... src/display/imageDisplay.i"
-	@echo "... src/display/imageDisplay.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
