@@ -21,15 +21,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Compiler/Clang.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Compiler/GNU.cmake"
-  "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/FeatureSummary.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Apple-Clang.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Darwin.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/UnixPaths.cmake"
-  "/usr/local/lib/cmake/SDL2/sdl2-config-version.cmake"
-  "/usr/local/lib/cmake/SDL2/sdl2-config.cmake"
   )
 
 # The corresponding makefile is:
@@ -45,5 +42,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/PhotoshopLite.dir/DependInfo.cmake"
+  "CMakeFiles/main.dir/DependInfo.cmake"
   )
