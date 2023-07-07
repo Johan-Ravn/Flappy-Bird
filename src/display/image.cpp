@@ -93,23 +93,56 @@ ImageType Image::getFileType(const char *filename)
     return PNG;
 }
 
-Image &Image::greyScale_average() 
+Image &Image::greyScale_average()
 {
-    if (channels < 3) {
+    if (channels < 3)
+    {
         std::cout << "Image has less than 3 channels. Assumed to be already grayscaled" << std::endl;
         return *this;
     }
     // (r+g+b) / 3
-    for (int i = 0; i < width * height * channels; i += channels)
+    for (int i = 0; i < size; i += channels)
     {
         // r, g, b = data[i], data[i + 1], data[i + 2]
-        uint8_t average = (data[i] + data[i + 1] + data[i + 2]) / 3;
-        memset(data + i, average, 3);
+        uint8_t gray = (data[i] + data[i + 1] + data[i + 2]) / 3;
+        memset(data + i, gray, 3);
     }
     return *this;
 }
 
 Image &Image::greyScale_lumen()
 {
+    if (channels < 3)
+    {
+        std::cout << "Image has less than 3 channels. Assumed to be already grayscaled" << std::endl;
+        return *this;
+    }
+    for (int i = 0; i < size; i += channels)
+    {
+        // r, g, b = data[i], data[i + 1], data[i + 2]
+        int gray = 0.2126 * data[i] + 0.7152 * data[i + 1] + 0.0772 * data[i + 2];
+        memset(data + i, gray, 3);
+    }
+    return *this;
+}
 
+Image &Image::colorMask(float r, float g, float b) {
+    if (channels < 3)
+    {
+        std::cout << "Image needs 3 channels" << std::endl;
+        return *this;
+    }
+
+    if (r > 1 || g > 1 || b > 1) {
+        std::cout << "Some color mask values exceeds 1: " << r << " " << g << " " << b << std::endl;
+        return *this;
+    }
+
+    for (int i = 0; i < size; i += channels) {
+        data[i] *= r;
+        data[i + 1] *= g;
+        data[i + 2] *= b;
+    }
+
+    return *this;
 }

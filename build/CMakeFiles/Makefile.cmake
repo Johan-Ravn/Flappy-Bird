@@ -21,12 +21,18 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Compiler/Clang.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Compiler/GNU.cmake"
+  "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+  "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/FindPackageMessage.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Apple-Clang.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/Darwin.cmake"
   "/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/Platform/UnixPaths.cmake"
+  "/usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake"
+  "/usr/local/lib/cmake/opencv4/OpenCVConfig.cmake"
+  "/usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake"
+  "/usr/local/lib/cmake/opencv4/OpenCVModules.cmake"
   )
 
 # The corresponding makefile is:

@@ -30,6 +30,8 @@ struct Image
 
     Image &greyScale_average();
     Image &greyScale_lumen();
+
+    Image &colorMask(float r, float g, float b);
 };
 
 #endif

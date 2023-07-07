@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(SOURCES
     src/main.cpp
     src/display/image.cpp
+    src/display/imageDisplay.cpp
 )
 
 # Add the executable target
@@ -16,10 +17,6 @@ if(CMAKE_C_COMPILER_ID MATCHES "GNU|Clang")
     add_compile_options(-Wno-deprecated-declarations)
 endif()
 
-# Custom command for running the executable
-add_custom_command(TARGET main POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E echo "Running main..."
-    COMMAND $<TARGET_FILE:main>
-    WORKING_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}
-    COMMENT "Build and run ${TARGET_NAME}"
-)
+# Opencv
+find_package(OpenCV REQUIRED)
+target_link_libraries(main ${OpenCV_LIBS})
