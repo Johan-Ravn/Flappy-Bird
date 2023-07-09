@@ -1,0 +1,147 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"qtshadertools/tools/qsb/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtshadertools/src/shadertools/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"file" : 4,
+				"line" : -1,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 4
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 9
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "ShaderTools_sync_headers::@484bb1c56e28263ebe8f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qpa_default_plugins::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Core::@03825b256518b1168c29"
+		}
+	],
+	"id" : "qsb_autogen::@3a860c13ae1d73cd1ff7",
+	"isGeneratorProvided" : true,
+	"name" : "qsb_autogen",
+	"paths" : 
+	{
+		"build" : "qtshadertools/tools/qsb",
+		"source" : "qtshadertools/tools/qsb"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/tools/qsb/CMakeFiles/qsb_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/tools/qsb/CMakeFiles/qsb_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

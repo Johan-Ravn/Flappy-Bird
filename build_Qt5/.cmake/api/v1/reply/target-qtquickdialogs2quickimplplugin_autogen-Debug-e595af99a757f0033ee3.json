@@ -1,0 +1,73 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		}
+	],
+	"id" : "qtquickdialogs2quickimplplugin_autogen::@41a59b2ff1f2e91f4e79",
+	"isGeneratorProvided" : true,
+	"name" : "qtquickdialogs2quickimplplugin_autogen",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl",
+		"source" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/qtquickdialogs2quickimplplugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/qtquickdialogs2quickimplplugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

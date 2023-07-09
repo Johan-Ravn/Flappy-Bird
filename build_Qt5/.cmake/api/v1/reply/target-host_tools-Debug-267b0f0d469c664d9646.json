@@ -1,0 +1,970 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"add_dependencies",
+			"qt_internal_add_tool",
+			"qt_internal_add_configure_time_tool"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtToolHelpers.cmake",
+			"qtbase/src/tools/uic/CMakeLists.txt",
+			"qtbase/src/tools/qdbuscpp2xml/CMakeLists.txt",
+			"qtbase/src/tools/qdbusxml2cpp/CMakeLists.txt",
+			"qtbase/src/tools/qlalr/CMakeLists.txt",
+			"qtbase/src/tools/qvkgen/CMakeLists.txt",
+			"qtbase/src/tools/qtpaths/CMakeLists.txt",
+			"qtbase/src/tools/androiddeployqt/CMakeLists.txt",
+			"qtbase/src/tools/androidtestrunner/CMakeLists.txt",
+			"qtbase/src/tools/macdeployqt/macdeployqt/CMakeLists.txt",
+			"qtbase/qmake/CMakeLists.txt",
+			"qtdeclarative/tools/qmlcachegen/CMakeLists.txt",
+			"qtdeclarative/tools/qmldom/CMakeLists.txt",
+			"qtdeclarative/tools/qmllint/CMakeLists.txt",
+			"qtdeclarative/tools/qmltc/CMakeLists.txt",
+			"qtdeclarative/tools/qmltyperegistrar/CMakeLists.txt",
+			"qtdeclarative/tools/qmlimportscanner/CMakeLists.txt",
+			"qtdeclarative/tools/qmlformat/CMakeLists.txt",
+			"qtdeclarative/tools/qmlprofiler/CMakeLists.txt",
+			"qtdeclarative/tools/qmltime/CMakeLists.txt",
+			"qtdeclarative/tools/qmlplugindump/CMakeLists.txt",
+			"qtdeclarative/tools/qmltestrunner/CMakeLists.txt",
+			"qtdeclarative/tools/qmljsrootgen/CMakeLists.txt",
+			"qtbase/src/tools/syncqt/CMakeLists.txt",
+			"qtbase/src/tools/moc/CMakeLists.txt",
+			"qtbase/src/tools/rcc/CMakeLists.txt",
+			"qtbase/src/tools/tracepointgen/CMakeLists.txt",
+			"qtbase/src/tools/tracegen/CMakeLists.txt",
+			"qtbase/src/tools/cmake_automoc_parser/CMakeLists.txt",
+			"qtshadertools/tools/qsb/CMakeLists.txt",
+			"qtquick3d/tools/balsam/CMakeLists.txt",
+			"qtquick3d/tools/balsamui/CMakeLists.txt",
+			"qtquick3d/tools/meshdebug/CMakeLists.txt",
+			"qtquick3d/tools/shadergen/CMakeLists.txt",
+			"qtquick3d/tools/instancer/CMakeLists.txt",
+			"qtquick3d/tools/shapegen/CMakeLists.txt",
+			"qtquick3d/tools/materialeditor/CMakeLists.txt",
+			"qttools/src/linguist/lconvert/CMakeLists.txt",
+			"qttools/src/linguist/lprodump/CMakeLists.txt",
+			"qttools/src/linguist/lrelease/CMakeLists.txt",
+			"qttools/src/linguist/lrelease-pro/CMakeLists.txt",
+			"qttools/src/linguist/lupdate/CMakeLists.txt",
+			"qttools/src/linguist/lupdate-pro/CMakeLists.txt",
+			"qttools/src/assistant/qhelpgenerator/CMakeLists.txt",
+			"qttools/src/qtattributionsscanner/CMakeLists.txt",
+			"qtremoteobjects/tools/repc/CMakeLists.txt",
+			"qtscxml/tools/qscxmlc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 529,
+				"parent" : 1
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 9,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 4
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 9,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 7
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 9,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 10
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 6,
+				"line" : 9,
+				"parent" : 12
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 13
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 9,
+				"parent" : 15
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 16
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 8,
+				"line" : 9,
+				"parent" : 18
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 19
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 9,
+				"line" : 9,
+				"parent" : 21
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 22
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 10,
+				"line" : 9,
+				"parent" : 24
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 25
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 3,
+				"file" : 11,
+				"line" : 9,
+				"parent" : 27
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 28
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 57,
+				"parent" : 30
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 31
+			},
+			{
+				"file" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 13,
+				"line" : 11,
+				"parent" : 33
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 34
+			},
+			{
+				"file" : 14
+			},
+			{
+				"command" : 3,
+				"file" : 14,
+				"line" : 9,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 37
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 3,
+				"file" : 15,
+				"line" : 11,
+				"parent" : 39
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 40
+			},
+			{
+				"file" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 16,
+				"line" : 5,
+				"parent" : 42
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 43
+			},
+			{
+				"file" : 17
+			},
+			{
+				"command" : 3,
+				"file" : 17,
+				"line" : 9,
+				"parent" : 45
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 46
+			},
+			{
+				"file" : 18
+			},
+			{
+				"command" : 3,
+				"file" : 18,
+				"line" : 11,
+				"parent" : 48
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 49
+			},
+			{
+				"file" : 19
+			},
+			{
+				"command" : 3,
+				"file" : 19,
+				"line" : 11,
+				"parent" : 51
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 52
+			},
+			{
+				"file" : 20
+			},
+			{
+				"command" : 3,
+				"file" : 20,
+				"line" : 11,
+				"parent" : 54
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 55
+			},
+			{
+				"file" : 21
+			},
+			{
+				"command" : 3,
+				"file" : 21,
+				"line" : 11,
+				"parent" : 57
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 58
+			},
+			{
+				"file" : 22
+			},
+			{
+				"command" : 3,
+				"file" : 22,
+				"line" : 11,
+				"parent" : 60
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 61
+			},
+			{
+				"file" : 23
+			},
+			{
+				"command" : 3,
+				"file" : 23,
+				"line" : 11,
+				"parent" : 63
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 64
+			},
+			{
+				"file" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 24,
+				"line" : 5,
+				"parent" : 66
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 67
+			},
+			{
+				"file" : 25
+			},
+			{
+				"command" : 4,
+				"file" : 25,
+				"line" : 50,
+				"parent" : 69
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 738,
+				"parent" : 70
+			},
+			{
+				"file" : 26
+			},
+			{
+				"command" : 3,
+				"file" : 26,
+				"line" : 9,
+				"parent" : 72
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 73
+			},
+			{
+				"file" : 27
+			},
+			{
+				"command" : 3,
+				"file" : 27,
+				"line" : 9,
+				"parent" : 75
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 76
+			},
+			{
+				"file" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 28,
+				"line" : 9,
+				"parent" : 78
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 79
+			},
+			{
+				"file" : 29
+			},
+			{
+				"command" : 3,
+				"file" : 29,
+				"line" : 9,
+				"parent" : 81
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 82
+			},
+			{
+				"file" : 30
+			},
+			{
+				"command" : 3,
+				"file" : 30,
+				"line" : 9,
+				"parent" : 84
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 85
+			},
+			{
+				"file" : 31
+			},
+			{
+				"command" : 3,
+				"file" : 31,
+				"line" : 11,
+				"parent" : 87
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 88
+			},
+			{
+				"file" : 32
+			},
+			{
+				"command" : 3,
+				"file" : 32,
+				"line" : 11,
+				"parent" : 90
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 91
+			},
+			{
+				"file" : 33
+			},
+			{
+				"command" : 3,
+				"file" : 33,
+				"line" : 11,
+				"parent" : 93
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 94
+			},
+			{
+				"file" : 34
+			},
+			{
+				"command" : 3,
+				"file" : 34,
+				"line" : 11,
+				"parent" : 96
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 97
+			},
+			{
+				"file" : 35
+			},
+			{
+				"command" : 3,
+				"file" : 35,
+				"line" : 11,
+				"parent" : 99
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 100
+			},
+			{
+				"file" : 36
+			},
+			{
+				"command" : 3,
+				"file" : 36,
+				"line" : 9,
+				"parent" : 102
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 103
+			},
+			{
+				"file" : 37
+			},
+			{
+				"command" : 3,
+				"file" : 37,
+				"line" : 5,
+				"parent" : 105
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 106
+			},
+			{
+				"file" : 38
+			},
+			{
+				"command" : 3,
+				"file" : 38,
+				"line" : 9,
+				"parent" : 108
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 109
+			},
+			{
+				"file" : 39
+			},
+			{
+				"command" : 3,
+				"file" : 39,
+				"line" : 9,
+				"parent" : 111
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 112
+			},
+			{
+				"file" : 40
+			},
+			{
+				"command" : 3,
+				"file" : 40,
+				"line" : 9,
+				"parent" : 114
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 115
+			},
+			{
+				"file" : 41
+			},
+			{
+				"command" : 3,
+				"file" : 41,
+				"line" : 9,
+				"parent" : 117
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 118
+			},
+			{
+				"file" : 42
+			},
+			{
+				"command" : 3,
+				"file" : 42,
+				"line" : 9,
+				"parent" : 120
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 121
+			},
+			{
+				"file" : 43
+			},
+			{
+				"command" : 3,
+				"file" : 43,
+				"line" : 19,
+				"parent" : 123
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 124
+			},
+			{
+				"file" : 44
+			},
+			{
+				"command" : 3,
+				"file" : 44,
+				"line" : 9,
+				"parent" : 126
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 127
+			},
+			{
+				"file" : 45
+			},
+			{
+				"command" : 3,
+				"file" : 45,
+				"line" : 9,
+				"parent" : 129
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 130
+			},
+			{
+				"file" : 46
+			},
+			{
+				"command" : 3,
+				"file" : 46,
+				"line" : 9,
+				"parent" : 132
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 133
+			},
+			{
+				"file" : 47
+			},
+			{
+				"command" : 3,
+				"file" : 47,
+				"line" : 11,
+				"parent" : 135
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 136
+			},
+			{
+				"file" : 48
+			},
+			{
+				"command" : 3,
+				"file" : 48,
+				"line" : 11,
+				"parent" : 138
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 169,
+				"parent" : 139
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "uic::@59bab6873281db6cb111"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "qdbuscpp2xml::@c747b5442ca007c50723"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "qdbusxml2cpp::@1ee37bc5ddca4e2b74cc"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "qlalr::@ecb544f71456712e280e"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "qvkgen::@80841f345d6f872004c9"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "qtpaths::@ea11be33f36c6e61d8b2"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "androiddeployqt::@eab96fd73bae807edd48"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "androidtestrunner::@85882832de68261a5b05"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "macdeployqt::@b12a93cc2414d228e016"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "qmake::@6c23daa751e2220a3dfd"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "qmlcachegen::@e720dc932ac7ed76011b"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "qmldom::@995d3d001c0ac8f9bb23"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "qmllint::@37993fb73c5436d04ed4"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "qmltc::@5c4f603dd1dd79ffc823"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "qmltyperegistrar::@b7d96742f61bda066508"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "qmlimportscanner::@e136f4179b63101c9178"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "qmlformat::@3095e1cc049b9a00b8ac"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "qmlprofiler::@e8ea86c4cb5199966a71"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "qmltime::@bc38895fa0e26383e47b"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "qmlplugindump::@12574ef75c437c717158"
+		},
+		{
+			"backtrace" : 65,
+			"id" : "qmltestrunner::@146bf929be086b6f48ff"
+		},
+		{
+			"backtrace" : 68,
+			"id" : "qmljsrootgen::@319383766498e4cdc997"
+		},
+		{
+			"backtrace" : 71,
+			"id" : "syncqt_build::@bde8fd3945225648c441"
+		},
+		{
+			"backtrace" : 74,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 77,
+			"id" : "rcc::@bea154ae34688698a385"
+		},
+		{
+			"backtrace" : 80,
+			"id" : "tracepointgen::@38148e19e96711678f97"
+		},
+		{
+			"backtrace" : 83,
+			"id" : "tracegen::@b1a545e05c9a1ce910b7"
+		},
+		{
+			"backtrace" : 86,
+			"id" : "cmake_automoc_parser::@b677eb6370b713a1988b"
+		},
+		{
+			"backtrace" : 89,
+			"id" : "qsb::@3a860c13ae1d73cd1ff7"
+		},
+		{
+			"backtrace" : 92,
+			"id" : "balsam::@43c936705a10808a37c5"
+		},
+		{
+			"backtrace" : 95,
+			"id" : "balsamui::@b65f34e8a007b0c4a567"
+		},
+		{
+			"backtrace" : 98,
+			"id" : "meshdebug::@d9dd654925e8da39b97e"
+		},
+		{
+			"backtrace" : 101,
+			"id" : "shadergen::@f10e5e0510e60121a169"
+		},
+		{
+			"backtrace" : 104,
+			"id" : "instancer::@6194fb2c1bacd51bb9a3"
+		},
+		{
+			"backtrace" : 107,
+			"id" : "shapegen::@a0dd1414dce1151d00e1"
+		},
+		{
+			"backtrace" : 110,
+			"id" : "materialeditor::@0841771b6ddbe839295f"
+		},
+		{
+			"backtrace" : 113,
+			"id" : "lconvert::@002fda16e778f0863335"
+		},
+		{
+			"backtrace" : 116,
+			"id" : "lprodump::@6f2fbcbb1043d2d9a9d0"
+		},
+		{
+			"backtrace" : 119,
+			"id" : "lrelease::@392205beb4572d25495b"
+		},
+		{
+			"backtrace" : 122,
+			"id" : "lrelease-pro::@c0826f3de5976205ea89"
+		},
+		{
+			"backtrace" : 125,
+			"id" : "lupdate::@03ed3dee48fc81eaf8a9"
+		},
+		{
+			"backtrace" : 128,
+			"id" : "lupdate-pro::@a327ef8033cddaff5587"
+		},
+		{
+			"backtrace" : 131,
+			"id" : "qhelpgenerator::@8dd31d61caaa7912cae3"
+		},
+		{
+			"backtrace" : 134,
+			"id" : "qtattributionsscanner::@37d3ac53dbac8fe58e57"
+		},
+		{
+			"backtrace" : 137,
+			"id" : "repc::@ae928a6b8eee265a75ba"
+		},
+		{
+			"backtrace" : 140,
+			"id" : "qscxmlc::@c1b8f39eed0a64cc8490"
+		}
+	],
+	"id" : "host_tools::@e5137009cee4d36dff54",
+	"name" : "host_tools",
+	"paths" : 
+	{
+		"build" : "qtbase",
+		"source" : "qtbase"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

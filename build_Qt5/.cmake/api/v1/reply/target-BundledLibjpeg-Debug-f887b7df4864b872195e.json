@@ -1,0 +1,735 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt6BundledLibjpeg_debug.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_common_qt_library_helper",
+			"qt_internal_add_3rdparty_library",
+			"install",
+			"qt_install",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_generate_3rdparty_lib_pri_file",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"qtbase/src/corelib/Qt6CoreMacros.cmake",
+			"qtbase/cmake/Qt3rdPartyLibraryHelpers.cmake",
+			"qtbase/src/3rdparty/libjpeg/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 292,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 233,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 162,
+				"parent" : 7
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 256,
+				"parent" : 1
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 598,
+				"parent" : 9
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 13,
+				"file" : 9,
+				"line" : 127,
+				"parent" : 11
+			},
+			{
+				"command" : 12,
+				"file" : 8,
+				"line" : 411,
+				"parent" : 12
+			},
+			{
+				"command" : 11,
+				"file" : 8,
+				"line" : 249,
+				"parent" : 13
+			},
+			{
+				"file" : 7,
+				"parent" : 14
+			},
+			{
+				"command" : 11,
+				"file" : 7,
+				"line" : 360,
+				"parent" : 15
+			},
+			{
+				"file" : 6,
+				"parent" : 16
+			},
+			{
+				"command" : 10,
+				"file" : 6,
+				"line" : 34,
+				"parent" : 17
+			},
+			{
+				"command" : 15,
+				"file" : 1,
+				"line" : 228,
+				"parent" : 1
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 231,
+				"parent" : 19
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 16,
+				"file" : 10,
+				"line" : 230,
+				"parent" : 19
+			},
+			{
+				"command" : 17,
+				"file" : 4,
+				"line" : 154,
+				"parent" : 7
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 138,
+				"parent" : 7
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "-w"
+				},
+				{
+					"backtrace" : 20,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 21,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 23,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/3rdparty/libjpeg/src"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					4
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 8,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "BundledLibjpeg_ext_pri::@48ef2ba2aaf08e41e5e7"
+		}
+	],
+	"id" : "BundledLibjpeg::@48ef2ba2aaf08e41e5e7",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"name" : "BundledLibjpeg",
+	"nameOnDisk" : "libQt6BundledLibjpeg_debug.a",
+	"paths" : 
+	{
+		"build" : "qtbase/src/3rdparty/libjpeg",
+		"source" : "qtbase/src/3rdparty/libjpeg"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jaricom.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcapimin.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcapistd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcarith.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jccoefct.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jccolor.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcdctmgr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jchuff.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcinit.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcmainct.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcmarker.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcmaster.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcomapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcparam.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcphuff.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcprepct.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jcsample.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jctrans.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdapimin.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdapistd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdarith.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdatadst.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdatasrc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdcoefct.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdcolor.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jddctmgr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdhuff.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdinput.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdmainct.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdmarker.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdmaster.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdmerge.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdphuff.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdpostct.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdsample.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jdtrans.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jerror.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jfdctflt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jfdctfst.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jfdctint.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jidctflt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jidctfst.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jidctint.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jidctred.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jmemmgr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jmemnobs.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jquant1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jquant2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jsimd_none.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/libjpeg/src/jutils.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

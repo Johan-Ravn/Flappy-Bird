@@ -1,0 +1,73 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qtremoteobjects/src/remoteobjectsqml/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		}
+	],
+	"id" : "declarative_remoteobjects_autogen::@fb77bf45dde7ef01fa93",
+	"isGeneratorProvided" : true,
+	"name" : "declarative_remoteobjects_autogen",
+	"paths" : 
+	{
+		"build" : "qtremoteobjects/src/remoteobjectsqml",
+		"source" : "qtremoteobjects/src/remoteobjectsqml"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtremoteobjects/src/remoteobjectsqml/CMakeFiles/declarative_remoteobjects_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtremoteobjects/src/remoteobjectsqml/CMakeFiles/declarative_remoteobjects_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

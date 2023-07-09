@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/Qt5Compat/GraphicalEffects/private/">
+    <file alias="DropShadowBase.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/DropShadowBase.qml</file>
+    <file alias="FastGlow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/FastGlow.qml</file>
+    <file alias="FastInnerShadow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/FastInnerShadow.qml</file>
+    <file alias="GaussianDirectionalBlur.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/GaussianDirectionalBlur.qml</file>
+    <file alias="GaussianGlow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/GaussianGlow.qml</file>
+    <file alias="GaussianInnerShadow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/GaussianInnerShadow.qml</file>
+    <file alias="GaussianMaskedBlur.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/private/GaussianMaskedBlur.qml</file>
+  </qresource>
+</RCC>
+

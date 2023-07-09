@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQml/Base">
+    <file alias="qmldir">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQml/Base/qmldir</file>
+  </qresource>
+</RCC>
+

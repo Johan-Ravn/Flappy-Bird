@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="/defaultMeshes">
+    <file alias="arrow">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/arrowFlat.obj</file>
+    <file alias="arrowSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/arrowSmooth.obj</file>
+    <file alias="background">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/background.obj</file>
+    <file alias="backgroundNoFloor">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/backgroundNoFloor.obj</file>
+    <file alias="bevelbarFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/barFilledFlat.obj</file>
+    <file alias="bevelbarSmoothFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/barFilledSmooth.obj</file>
+    <file alias="bevelbar">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/barFlat.obj</file>
+    <file alias="bevelbarSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/barSmooth.obj</file>
+    <file alias="coneFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/coneFilledFlat.obj</file>
+    <file alias="coneSmoothFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/coneFilledSmooth.obj</file>
+    <file alias="cone">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/coneFlat.obj</file>
+    <file alias="coneSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/coneSmooth.obj</file>
+    <file alias="barFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cubeFilledFlat.obj</file>
+    <file alias="barSmoothFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cubeFilledSmooth.obj</file>
+    <file alias="bar">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cubeFlat.obj</file>
+    <file alias="barSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cubeSmooth.obj</file>
+    <file alias="cylinderFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cylinderFilledFlat.obj</file>
+    <file alias="cylinderSmoothFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cylinderFilledSmooth.obj</file>
+    <file alias="cylinder">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cylinderFlat.obj</file>
+    <file alias="cylinderSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/cylinderSmooth.obj</file>
+    <file alias="minimal">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/minimalFlat.obj</file>
+    <file alias="minimalSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/minimalSmooth.obj</file>
+    <file alias="plane">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/plane.obj</file>
+    <file alias="pyramidFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/pyramidFilledFlat.obj</file>
+    <file alias="pyramidSmoothFull">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/pyramidFilledSmooth.obj</file>
+    <file alias="pyramid">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/pyramidFlat.obj</file>
+    <file alias="pyramidSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/pyramidSmooth.obj</file>
+    <file alias="sphere">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/sphere.obj</file>
+    <file alias="sphereSmooth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/meshes/sphereSmooth.obj</file>
+  </qresource>
+</RCC>
+

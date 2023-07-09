@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Imagine/impl/">
+    <file alias="OpacityMask.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/impl/OpacityMask.qml</file>
+  </qresource>
+</RCC>
+

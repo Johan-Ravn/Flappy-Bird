@@ -1,0 +1,61 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtqa/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 512,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 517,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "install_html_docs_qtqualityassurance::@9910c6c0e6f015a91a83"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "install_qch_docs_qtqualityassurance::@9910c6c0e6f015a91a83"
+		}
+	],
+	"id" : "install_docs_qtqualityassurance::@9910c6c0e6f015a91a83",
+	"name" : "install_docs_qtqualityassurance",
+	"paths" : 
+	{
+		"build" : "qtqa",
+		"source" : "qtqa"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,160 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_command",
+			"_qt_internal_target_enable_qmlcachegen",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"qtdeclarative/tools/qml/CMakeLists.txt",
+			"qtdeclarative/src/qml/Qt6QmlMacros.cmake",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/src/corelib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 633,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2210,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 1029,
+				"parent" : 3
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 248,
+				"parent" : 8
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Widgets::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "qmlcachegen::@e720dc932ac7ed76011b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qml_tooling::@c63a63e0aa568036f055"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		}
+	],
+	"id" : "qml_autogen::@c63a63e0aa568036f055",
+	"isGeneratorProvided" : true,
+	"name" : "qml_autogen",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/tools/qml",
+		"source" : "qtdeclarative/tools/qml"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/tools/qml/CMakeFiles/qml_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/tools/qml/CMakeFiles/qml_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/tools/qml/.rcc/qmlcache/qml_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

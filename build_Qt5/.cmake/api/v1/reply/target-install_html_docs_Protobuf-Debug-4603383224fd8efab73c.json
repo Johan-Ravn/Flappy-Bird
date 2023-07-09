@@ -1,0 +1,43 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_docs"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtDocsHelpers.cmake",
+			"qtgrpc/src/protobuf/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 231,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "install_html_docs_Protobuf::@4f868ff39b2644eda829",
+	"name" : "install_html_docs_Protobuf",
+	"paths" : 
+	{
+		"build" : "qtgrpc/src/protobuf",
+		"source" : "qtgrpc/src/protobuf"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

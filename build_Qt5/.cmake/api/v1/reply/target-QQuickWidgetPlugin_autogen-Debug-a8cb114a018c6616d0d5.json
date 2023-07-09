@@ -1,0 +1,89 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qttools/src/designer/src/plugins/qquickwidget/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "QuickWidgets::@136fedb76f1ad7cf5c8d"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Widgets::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Designer::@3c0d5573d61ad1bf16bb"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Designer_sync_headers::@3c0d5573d61ad1bf16bb"
+		}
+	],
+	"id" : "QQuickWidgetPlugin_autogen::@6ad6b632e415479f162c",
+	"isGeneratorProvided" : true,
+	"name" : "QQuickWidgetPlugin_autogen",
+	"paths" : 
+	{
+		"build" : "qttools/src/designer/src/plugins/qquickwidget",
+		"source" : "qttools/src/designer/src/plugins/qquickwidget"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qttools/src/designer/src/plugins/qquickwidget/CMakeFiles/QQuickWidgetPlugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qttools/src/designer/src/plugins/qquickwidget/CMakeFiles/QQuickWidgetPlugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

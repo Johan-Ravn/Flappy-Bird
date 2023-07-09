@@ -1,0 +1,114 @@
+{
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt6_extract_metatypes",
+			"_qt_internal_qml_type_registration",
+			"qt6_add_qml_module",
+			"qt_internal_add_qml_module",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Qml/Qt6QmlBuildInternals.cmake",
+			"qtvirtualkeyboard/src/plugins/thai/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 305,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 540,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2464,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1047,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1062,
+				"parent" : 4
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "qtvkbthaiplugin_autogen::@9c3ebf2f052463911be5"
+		},
+		{
+			"id" : "cmake_automoc_parser::@b677eb6370b713a1988b"
+		}
+	],
+	"id" : "qtvkbthaiplugin_automoc_json_extraction::@9c3ebf2f052463911be5",
+	"name" : "qtvkbthaiplugin_automoc_json_extraction",
+	"paths" : 
+	{
+		"build" : "qtvirtualkeyboard/src/plugins/thai",
+		"source" : "qtvirtualkeyboard/src/plugins/thai"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/thai/CMakeFiles/qtvkbthaiplugin_automoc_json_extraction",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/thai/CMakeFiles/qtvkbthaiplugin_automoc_json_extraction.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/brushes">
+    <file alias="defaultbrushes.xml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../formeditor/defaultbrushes.xml</file>
+  </qresource>
+</RCC>
+

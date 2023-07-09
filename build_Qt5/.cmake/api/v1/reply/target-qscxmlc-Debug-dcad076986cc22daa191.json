@@ -1,0 +1,747 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/libexec/qscxmlc"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt_internal_add_executable",
+			"qt_internal_add_tool",
+			"install",
+			"qt_install",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"target_sources",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt_internal_add_resource"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtExecutableHelpers.cmake",
+			"qtbase/cmake/QtToolHelpers.cmake",
+			"qtscxml/tools/qscxmlc/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtscxml/CMakeLists.txt",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtResourceHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 111,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 603,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 219,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 21,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 120,
+				"parent" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 7
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 576,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 605,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 12
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 9
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 1,
+				"parent" : 14
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 902,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 248,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 3,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"file" : 13
+			},
+			{
+				"command" : 15,
+				"file" : 13,
+				"line" : 23,
+				"parent" : 19
+			},
+			{
+				"command" : 14,
+				"file" : 12,
+				"line" : 597,
+				"parent" : 20
+			},
+			{
+				"command" : 13,
+				"file" : 12,
+				"line" : 411,
+				"parent" : 21
+			},
+			{
+				"command" : 12,
+				"file" : 12,
+				"line" : 249,
+				"parent" : 22
+			},
+			{
+				"file" : 11,
+				"parent" : 23
+			},
+			{
+				"command" : 12,
+				"file" : 11,
+				"line" : 360,
+				"parent" : 24
+			},
+			{
+				"file" : 10,
+				"parent" : 25
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 34,
+				"parent" : 26
+			},
+			{
+				"command" : 17,
+				"file" : 1,
+				"line" : 152,
+				"parent" : 2
+			},
+			{
+				"command" : 16,
+				"file" : 14,
+				"line" : 231,
+				"parent" : 28
+			},
+			{
+				"command" : 18,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 7
+			},
+			{
+				"command" : 19,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 2
+			},
+			{
+				"command" : 18,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 31
+			},
+			{
+				"command" : 18,
+				"file" : 14,
+				"line" : 230,
+				"parent" : 28
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 7
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 7
+			},
+			{
+				"command" : 24,
+				"file" : 3,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"command" : 23,
+				"file" : 15,
+				"line" : 30,
+				"parent" : 36
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 37
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 38
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIE -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 27,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 27,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 29,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 30,
+					"define" : "BUILD_QSCXMLC"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_NO_CAST_FROM_ASCII"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtscxml/tools/qscxmlc/qscxmlc_autogen/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtscxml/tools/qscxmlc"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtscxml/tools/qscxmlc"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtScxml"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtscxml/src/scxml"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtScxml/6.7.0"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtScxml/6.7.0/QtScxml"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					8
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4,
+				6,
+				10,
+				12,
+				14,
+				17,
+				19,
+				22
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "qscxmlc_autogen::@c1b8f39eed0a64cc8490"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "rcc::@bea154ae34688698a385"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "Scxml_sync_headers::@eb449b438aadb6e38810"
+		}
+	],
+	"id" : "qscxmlc::@c1b8f39eed0a64cc8490",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "./libexec"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-fPIE -Xlinker -pie",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path/../lib -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "qscxmlc",
+	"nameOnDisk" : "qscxmlc",
+	"paths" : 
+	{
+		"build" : "qtscxml/tools/qscxmlc",
+		"source" : "qtscxml/tools/qscxmlc"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4,
+				6,
+				10,
+				12,
+				14,
+				17,
+				19,
+				22
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				7,
+				8,
+				9,
+				11,
+				13,
+				15,
+				16,
+				18,
+				20,
+				21
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				23
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtscxml/tools/qscxmlc/qscxmlc_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/src/scxml/qscxmlcompiler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmlcompiler.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmlcompiler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/src/scxml/qscxmlerror.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmlerror.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/src/scxml/qscxmlexecutablecontent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmlexecutablecontent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmlexecutablecontent_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmlglobals.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/src/scxml/qscxmltabledata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/src/scxml/qscxmltabledata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/tools/qscxmlc/generator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/tools/qscxmlc/generator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/tools/qscxmlc/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/tools/qscxmlc/moc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/tools/qscxmlc/outputrevision.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/tools/qscxmlc/qscxmlc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/tools/qscxmlc/qscxmlc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtscxml/tools/qscxmlc/scxmlcppdumper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/tools/qscxmlc/scxmlcppdumper.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtscxml/tools/qscxmlc/utils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 39,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtscxml/tools/qscxmlc/.rcc/qrc_templates.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtscxml/tools/qscxmlc/.rcc/qrc_templates.cpp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "EXECUTABLE"
+}

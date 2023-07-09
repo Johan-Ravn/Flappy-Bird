@@ -1,0 +1,265 @@
+{
+	"BUILD_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/NetworkAuth_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.26.4/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/CMakeLists.txt",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtModuleConfig.cmake.in",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtCMakePackageVersionFile.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/ModuleDescription.json.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/PkgConfigLibrary.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/CMakeFiles/NetworkAuth.dir/cmake_pch.hxx",
+			"Mu",
+			"EVPJM6ZVEC/moc_cmake_pch.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauth.h",
+			"Mu",
+			"EWIEGA46WW/moc_qabstractoauth.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauth2.h",
+			"Mu",
+			"EWIEGA46WW/moc_qabstractoauth2.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauth2_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qabstractoauth2_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauth_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qabstractoauth_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauthreplyhandler.h",
+			"Mu",
+			"EWIEGA46WW/moc_qabstractoauthreplyhandler.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauthreplyhandler_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qabstractoauthreplyhandler_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth1.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauth1.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth1_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauth1_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth1signature.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauth1signature.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth1signature_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauth1signature_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth2authorizationcodeflow.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauth2authorizationcodeflow.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth2authorizationcodeflow_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauth2authorizationcodeflow_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauthglobal.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauthglobal.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauthhttpserverreplyhandler.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauthhttpserverreplyhandler.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauthhttpserverreplyhandler_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauthhttpserverreplyhandler_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauthoobreplyhandler.h",
+			"Mu",
+			"EWIEGA46WW/moc_qoauthoobreplyhandler.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/NetworkAuth_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/NetworkAuth_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GL_SILENCE_DEPRECATION",
+		"NetworkAuth_EXPORTS",
+		"QT_ASCII_CAST_WARNINGS",
+		"QT_BUILDING_QT",
+		"QT_BUILD_NETWORKAUTH_LIB",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_UP_TO=0x050000",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_MOC_COMPAT",
+		"QT_NETWORK_LIB",
+		"QT_NO_AS_CONST",
+		"QT_NO_AS_CONST=1",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_EXCEPTIONS",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_STRICT_QLIST_ITERATORS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WARN_DEPRECATED_UP_TO=0x070000",
+		"_LARGEFILE64_SOURCE",
+		"_LARGEFILE_SOURCE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetworkAuth",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetworkAuth/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetworkAuth/6.7.0/QtNetworkAuth",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/NetworkAuth_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/qtnetworkauth-config.h",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/qtnetworkauth-config_p.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/CMakeFiles/NetworkAuth_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/CMakeFiles/NetworkAuth_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtnetworkauth/src/oauth/CMakeFiles/NetworkAuth.dir/cmake_pch.hxx.cxx",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauth.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauth2.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qabstractoauthreplyhandler.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth1.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth1signature.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauth2authorizationcodeflow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauthhttpserverreplyhandler.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtnetworkauth/src/oauth/qoauthoobreplyhandler.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

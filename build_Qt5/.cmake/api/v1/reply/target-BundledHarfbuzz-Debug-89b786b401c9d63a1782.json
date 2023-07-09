@@ -1,0 +1,1552 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt6BundledHarfbuzz_debug.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_common_qt_library_helper",
+			"qt_internal_add_3rdparty_library",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_internal_add_sync_header_dependencies",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"qtbase/src/corelib/Qt6CoreMacros.cmake",
+			"qtbase/cmake/Qt3rdPartyLibraryHelpers.cmake",
+			"qtbase/src/3rdparty/harfbuzz-ng/CMakeLists.txt",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 233,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 162,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 306,
+				"parent" : 7
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 11,
+				"file" : 8,
+				"line" : 127,
+				"parent" : 9
+			},
+			{
+				"command" : 10,
+				"file" : 7,
+				"line" : 411,
+				"parent" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 249,
+				"parent" : 11
+			},
+			{
+				"file" : 6,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 360,
+				"parent" : 13
+			},
+			{
+				"file" : 5,
+				"parent" : 14
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 34,
+				"parent" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 1,
+				"line" : 228,
+				"parent" : 1
+			},
+			{
+				"command" : 12,
+				"file" : 9,
+				"line" : 231,
+				"parent" : 17
+			},
+			{
+				"command" : 14,
+				"file" : 3,
+				"line" : 159,
+				"parent" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"command" : 14,
+				"file" : 3,
+				"line" : 159,
+				"parent" : 20
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 0
+			},
+			{
+				"command" : 14,
+				"file" : 3,
+				"line" : 159,
+				"parent" : 22
+			},
+			{
+				"command" : 14,
+				"file" : 9,
+				"line" : 230,
+				"parent" : 17
+			},
+			{
+				"command" : 15,
+				"file" : 3,
+				"line" : 154,
+				"parent" : 5
+			},
+			{
+				"command" : 16,
+				"file" : 3,
+				"line" : 138,
+				"parent" : 5
+			},
+			{
+				"command" : 16,
+				"file" : 3,
+				"line" : 138,
+				"parent" : 20
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-w"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HAVE_ATEXIT"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HAVE_CONFIG_H"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "HAVE_OT"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "HAVE_PTHREAD"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "HAVE_SCHED_H"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "HAVE_SCHED_YIELD"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HB_EXTERN="
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HB_NDEBUG"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HB_NO_UNICODE_FUNCS"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "QT_NO_VERSION_TAGGING"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/3rdparty/harfbuzz-ng/include/harfbuzz"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib/Core_autogen/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib/global"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib/kernel"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/corelib/../3rdparty/tinycbor/src"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/corelib/../3rdparty/double-conversion/double-conversion"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/corelib/../3rdparty/double-conversion"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/corelib/../3rdparty/forkfd"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib/.rcc"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/3rdparty/pcre2/src"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/3rdparty/harfbuzz-ng"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					6
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				6,
+				8,
+				14,
+				15,
+				20,
+				23,
+				26,
+				27,
+				28,
+				33,
+				35,
+				39,
+				41,
+				44,
+				48,
+				52,
+				54,
+				57,
+				62,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				72,
+				74,
+				81,
+				82,
+				84,
+				85,
+				86,
+				93,
+				100,
+				102,
+				106,
+				107,
+				108,
+				114,
+				117,
+				119,
+				125,
+				127,
+				128,
+				129,
+				131,
+				132,
+				135,
+				137,
+				138,
+				140,
+				143,
+				144,
+				148,
+				149
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		}
+	],
+	"id" : "BundledHarfbuzz::@edb5b04c33dabee87c3d",
+	"name" : "BundledHarfbuzz",
+	"nameOnDisk" : "libQt6BundledHarfbuzz_debug.a",
+	"paths" : 
+	{
+		"build" : "qtbase/src/3rdparty/harfbuzz-ng",
+		"source" : "qtbase/src/3rdparty/harfbuzz-ng"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				6,
+				8,
+				14,
+				15,
+				20,
+				23,
+				26,
+				27,
+				28,
+				33,
+				35,
+				39,
+				41,
+				44,
+				48,
+				52,
+				54,
+				57,
+				62,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				72,
+				74,
+				81,
+				82,
+				84,
+				85,
+				86,
+				93,
+				100,
+				102,
+				106,
+				107,
+				108,
+				114,
+				117,
+				119,
+				125,
+				127,
+				128,
+				129,
+				131,
+				132,
+				135,
+				137,
+				138,
+				140,
+				143,
+				144,
+				148,
+				149
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				4,
+				5,
+				7,
+				9,
+				10,
+				11,
+				12,
+				13,
+				16,
+				17,
+				18,
+				19,
+				21,
+				22,
+				24,
+				25,
+				29,
+				30,
+				31,
+				32,
+				34,
+				36,
+				37,
+				38,
+				40,
+				42,
+				43,
+				45,
+				46,
+				47,
+				49,
+				50,
+				51,
+				53,
+				55,
+				56,
+				58,
+				59,
+				60,
+				61,
+				63,
+				71,
+				73,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				83,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				101,
+				103,
+				104,
+				105,
+				109,
+				110,
+				111,
+				112,
+				113,
+				115,
+				116,
+				118,
+				120,
+				121,
+				122,
+				123,
+				124,
+				126,
+				130,
+				133,
+				134,
+				136,
+				139,
+				141,
+				142,
+				145,
+				146,
+				147,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/hb-dummy.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-aat-layout.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-aat-map.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-algs.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-atomic.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-blob.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-blob.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer-deserialize-json.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer-deserialize-text-glyphs.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer-deserialize-text-unicode.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer-serialize.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-buffer-verify.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-cache.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-common.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-debug.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-deprecated.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-draw.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-draw.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-draw.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-face.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-face.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-face.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-face-builder.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-fallback-shape.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-font.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-font.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-font.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ft-colr.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-limits.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-map.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-mutex.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-number.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-object.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-open-file.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-open-type.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-outline.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-outline.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-paint.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-paint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-paint.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-paint-extents.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-paint-extents.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-priority-queue.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-repacker.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-set.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-set.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-set.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-set-digest.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shape.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shape.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shape-plan.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shape-plan.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shape-plan.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shaper.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shaper.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shaper-impl.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-shaper-list.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-string-array.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-style.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-style.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-cff-common.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-cff1.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-cff2.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-input.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-instancer-solver.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-plan.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-plan-member-list.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-repacker.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-repacker.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-unicode.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-unicode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-unicode.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-utf.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-version.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-cff1-std-str.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-cff1-table.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-cff2-table.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-cmap-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-color.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-face.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-font.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-font.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-glyf-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-head-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-hhea-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-hmtx-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-kern-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout-gdef-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout-gpos-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout-gsub-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-layout-jstf-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-map.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-map.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-math.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-math.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-math-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-maxp-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-meta.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-metrics.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-name.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-name-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-os2-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-post-macroman.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-post-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-post-table-v2subset.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape-fallback.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape-fallback.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape-normalize.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shape-normalize.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-arabic-fallback.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-arabic-joining-list.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-arabic-pua.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-arabic-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-arabic.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-arabic.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-default.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-hangul.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-hebrew.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-indic-machine.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-indic-table.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-indic.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-indic.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-khmer-machine.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-khmer.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-myanmar-machine.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-myanmar.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-syllabic.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-syllabic.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-thai.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-use-machine.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-use-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-use.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-vowel-constraints.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper-vowel-constraints.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-shaper.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-subset-accelerator.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-tag.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var-common.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var-avar-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var-fvar-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var-hvar-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/hb-ot-var-mvar-table.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Color/CBDT/CBDT.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Color/COLR/COLR.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Color/COLR/colrv1-closure.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Color/CPAL/CPAL.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Color/sbix/sbix.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Color/svg/svg.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/Layout/GDEF/GDEF.hh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"path" : "qtbase/src/3rdparty/harfbuzz-ng/src/OT/name/name.hh",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

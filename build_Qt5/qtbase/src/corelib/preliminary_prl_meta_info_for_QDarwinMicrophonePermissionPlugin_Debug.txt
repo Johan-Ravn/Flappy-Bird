@@ -1,0 +1,1 @@
+FINAL_PRL_FILE_PATH = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/./plugins/permissions/libqdarwinmicrophonepermission_debug.prl

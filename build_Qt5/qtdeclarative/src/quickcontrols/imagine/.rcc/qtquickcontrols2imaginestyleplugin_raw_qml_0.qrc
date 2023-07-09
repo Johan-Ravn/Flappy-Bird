@@ -1,0 +1,55 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Imagine/">
+    <file alias="ApplicationWindow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ApplicationWindow.qml</file>
+    <file alias="BusyIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/BusyIndicator.qml</file>
+    <file alias="Button.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Button.qml</file>
+    <file alias="CheckBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/CheckBox.qml</file>
+    <file alias="CheckDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/CheckDelegate.qml</file>
+    <file alias="ComboBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ComboBox.qml</file>
+    <file alias="DelayButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/DelayButton.qml</file>
+    <file alias="Dial.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Dial.qml</file>
+    <file alias="Dialog.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Dialog.qml</file>
+    <file alias="DialogButtonBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/DialogButtonBox.qml</file>
+    <file alias="Drawer.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Drawer.qml</file>
+    <file alias="Frame.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Frame.qml</file>
+    <file alias="GroupBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/GroupBox.qml</file>
+    <file alias="HorizontalHeaderView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/HorizontalHeaderView.qml</file>
+    <file alias="ItemDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ItemDelegate.qml</file>
+    <file alias="Label.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Label.qml</file>
+    <file alias="Menu.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Menu.qml</file>
+    <file alias="MenuItem.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/MenuItem.qml</file>
+    <file alias="MenuSeparator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/MenuSeparator.qml</file>
+    <file alias="PageIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/PageIndicator.qml</file>
+    <file alias="Page.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Page.qml</file>
+    <file alias="Pane.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Pane.qml</file>
+    <file alias="Popup.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Popup.qml</file>
+    <file alias="ProgressBar.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ProgressBar.qml</file>
+    <file alias="RadioButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/RadioButton.qml</file>
+    <file alias="RadioDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/RadioDelegate.qml</file>
+    <file alias="RangeSlider.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/RangeSlider.qml</file>
+    <file alias="RoundButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/RoundButton.qml</file>
+    <file alias="ScrollView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ScrollView.qml</file>
+    <file alias="ScrollBar.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ScrollBar.qml</file>
+    <file alias="ScrollIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ScrollIndicator.qml</file>
+    <file alias="SelectionRectangle.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/SelectionRectangle.qml</file>
+    <file alias="Slider.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Slider.qml</file>
+    <file alias="SpinBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/SpinBox.qml</file>
+    <file alias="SplitView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/SplitView.qml</file>
+    <file alias="StackView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/StackView.qml</file>
+    <file alias="SwipeDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/SwipeDelegate.qml</file>
+    <file alias="SwipeView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/SwipeView.qml</file>
+    <file alias="Switch.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Switch.qml</file>
+    <file alias="SwitchDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/SwitchDelegate.qml</file>
+    <file alias="TextField.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/TextField.qml</file>
+    <file alias="TextArea.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/TextArea.qml</file>
+    <file alias="TabBar.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/TabBar.qml</file>
+    <file alias="TabButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/TabButton.qml</file>
+    <file alias="ToolBar.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ToolBar.qml</file>
+    <file alias="ToolButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ToolButton.qml</file>
+    <file alias="ToolSeparator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ToolSeparator.qml</file>
+    <file alias="ToolTip.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/ToolTip.qml</file>
+    <file alias="Tumbler.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/Tumbler.qml</file>
+    <file alias="VerticalHeaderView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/imagine/VerticalHeaderView.qml</file>
+  </qresource>
+</RCC>
+

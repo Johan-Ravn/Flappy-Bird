@@ -1,0 +1,97 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qttools/src/uitools/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "OpenGL::@4647851a72f814f2421b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Widgets::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "OpenGLWidgets::@5c0e57a89c8c6a8b2532"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "UiPlugin::@1fa6a9cbad4ebcf3e5ea"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "UiTools_sync_headers::@e77ce7598941c41e0d73"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "UiTools_lib_pri::@e77ce7598941c41e0d73"
+		}
+	],
+	"id" : "UiTools_autogen::@e77ce7598941c41e0d73",
+	"isGeneratorProvided" : true,
+	"name" : "UiTools_autogen",
+	"paths" : 
+	{
+		"build" : "qttools/src/uitools",
+		"source" : "qttools/src/uitools"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qttools/src/uitools/CMakeFiles/UiTools_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qttools/src/uitools/CMakeFiles/UiTools_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

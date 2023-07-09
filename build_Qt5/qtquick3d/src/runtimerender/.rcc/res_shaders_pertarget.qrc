@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/rhishaders/ssaaresolve.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/ssaaresolve.vert.qsb</file>
+    <file alias="res/rhishaders/ssaaresolve.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/ssaaresolve.frag.qsb</file>
+    <file alias="res/rhishaders/progressiveaa.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/progressiveaa.vert.qsb</file>
+    <file alias="res/rhishaders/progressiveaa.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/progressiveaa.frag.qsb</file>
+    <file alias="res/rhishaders/simplequad.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/simplequad.vert.qsb</file>
+    <file alias="res/rhishaders/simplequad.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/simplequad.frag.qsb</file>
+  </qresource>
+</RCC>
+

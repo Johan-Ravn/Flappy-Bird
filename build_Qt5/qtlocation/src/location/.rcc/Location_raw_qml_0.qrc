@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtLocation/">
+    <file alias="MapView.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtlocation/src/location/maps/MapView.qml</file>
+  </qresource>
+</RCC>
+

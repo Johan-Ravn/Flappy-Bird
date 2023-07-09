@@ -1,0 +1,207 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/src/3rdparty/libpng/CMakeLists.txt",
+			"qtbase/src/3rdparty/libjpeg/CMakeLists.txt",
+			"qtbase/src/3rdparty/freetype/CMakeLists.txt",
+			"qtbase/src/3rdparty/harfbuzz-ng/CMakeLists.txt",
+			"qttools/src/qdoc/catch/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 455,
+				"parent" : 1
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 204,
+				"parent" : 6
+			},
+			{
+				"file" : 6
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 10
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 204,
+				"parent" : 11
+			},
+			{
+				"file" : 7
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 13
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 14
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 15
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 204,
+				"parent" : 16
+			},
+			{
+				"file" : 8
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 18
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 19
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 20
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 204,
+				"parent" : 21
+			},
+			{
+				"file" : 9
+			},
+			{
+				"file" : 9,
+				"line" : -1,
+				"parent" : 23
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 25
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 204,
+				"parent" : 26
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "PngPrivate_sync_headers::@c331489d0ba352928db4"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "JpegPrivate_sync_headers::@48ef2ba2aaf08e41e5e7"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "FreetypePrivate_sync_headers::@26321534fc8d066ee805"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "HarfbuzzPrivate_sync_headers::@edb5b04c33dabee87c3d"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "QDocCatchPrivate_sync_headers::@066ed7b9add31ab544ad"
+		}
+	],
+	"id" : "thirdparty_sync_headers::@e5137009cee4d36dff54",
+	"name" : "thirdparty_sync_headers",
+	"paths" : 
+	{
+		"build" : "qtbase",
+		"source" : "qtbase"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,1386 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"add_dependencies",
+			"qt_internal_add_plugin",
+			"qt_internal_add_qml_module"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtdeclarative/CMakeLists.txt",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtdeclarative/src/qml/Qt6QmlBuildInternals.cmake",
+			"qtdeclarative/src/qml/CMakeLists.txt",
+			"qtdeclarative/src/qmlmodels/CMakeLists.txt",
+			"qtdeclarative/src/core/CMakeLists.txt",
+			"qtdeclarative/src/qmlworkerscript/CMakeLists.txt",
+			"qtdeclarative/src/qmllocalstorage/CMakeLists.txt",
+			"qtdeclarative/src/qmlxmllistmodel/CMakeLists.txt",
+			"qtdeclarative/src/quick/CMakeLists.txt",
+			"qtdeclarative/src/quick/window/CMakeLists.txt",
+			"qtdeclarative/src/quicklayouts/CMakeLists.txt",
+			"qtdeclarative/src/qmltest/CMakeLists.txt",
+			"qtdeclarative/src/particles/CMakeLists.txt",
+			"qtdeclarative/src/effects/CMakeLists.txt",
+			"qtdeclarative/src/quickshapes/CMakeLists.txt",
+			"qtdeclarative/src/quicktemplates/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrolsimpl/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/basic/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/basic/impl/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/fusion/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/fusion/impl/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/imagine/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/imagine/impl/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/material/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/material/impl/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/universal/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/universal/impl/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/macos/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/ios/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/ios/impl/CMakeLists.txt",
+			"qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeLists.txt",
+			"qtdeclarative/src/quickdialogs/quickdialogs/CMakeLists.txt",
+			"qtdeclarative/src/quicknativestyle/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrolstestutils/CMakeLists.txt",
+			"qtdeclarative/src/labs/settings/CMakeLists.txt",
+			"qtdeclarative/src/labs/models/CMakeLists.txt",
+			"qtdeclarative/src/labs/folderlistmodel/CMakeLists.txt",
+			"qtdeclarative/src/labs/animation/CMakeLists.txt",
+			"qtdeclarative/src/labs/platform/CMakeLists.txt",
+			"qtdeclarative/src/labs/wavefrontmesh/CMakeLists.txt",
+			"qtdeclarative/src/labs/sharedimage/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_native/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_messages/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_profiler/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_debugger/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_nativedebugger/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_server/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_tcp/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_local/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_inspector/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_quickprofiler/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_preview/CMakeLists.txt",
+			"qtdeclarative/src/plugins/qmllint/quick/CMakeLists.txt",
+			"qtdeclarative/src/imports/tooling/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 597,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 473,
+				"parent" : 2
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 34,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 434,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 9
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 8,
+				"parent" : 11
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 13
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 4,
+				"parent" : 15
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 17
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 7,
+				"line" : 8,
+				"parent" : 19
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 20
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 21
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 8,
+				"line" : 4,
+				"parent" : 23
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 25
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 4,
+				"parent" : 27
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 29
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 10,
+				"line" : 8,
+				"parent" : 31
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 32
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 33
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 5,
+				"file" : 11,
+				"line" : 7,
+				"parent" : 35
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 36
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 37
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 5,
+				"file" : 12,
+				"line" : 4,
+				"parent" : 39
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 40
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 41
+			},
+			{
+				"file" : 13
+			},
+			{
+				"command" : 5,
+				"file" : 13,
+				"line" : 16,
+				"parent" : 43
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 44
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 45
+			},
+			{
+				"file" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 14,
+				"line" : 8,
+				"parent" : 47
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 48
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 49
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 5,
+				"file" : 15,
+				"line" : 8,
+				"parent" : 51
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 52
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 53
+			},
+			{
+				"file" : 16
+			},
+			{
+				"command" : 5,
+				"file" : 16,
+				"line" : 8,
+				"parent" : 55
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 56
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 57
+			},
+			{
+				"file" : 17
+			},
+			{
+				"command" : 5,
+				"file" : 17,
+				"line" : 8,
+				"parent" : 59
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 60
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 61
+			},
+			{
+				"file" : 18
+			},
+			{
+				"command" : 5,
+				"file" : 18,
+				"line" : 8,
+				"parent" : 63
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 64
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 65
+			},
+			{
+				"file" : 19
+			},
+			{
+				"command" : 5,
+				"file" : 19,
+				"line" : 8,
+				"parent" : 67
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 68
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 69
+			},
+			{
+				"file" : 20
+			},
+			{
+				"command" : 5,
+				"file" : 20,
+				"line" : 151,
+				"parent" : 71
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 72
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 73
+			},
+			{
+				"file" : 21
+			},
+			{
+				"command" : 5,
+				"file" : 21,
+				"line" : 8,
+				"parent" : 75
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 76
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 77
+			},
+			{
+				"file" : 22
+			},
+			{
+				"command" : 5,
+				"file" : 22,
+				"line" : 95,
+				"parent" : 79
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 80
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 81
+			},
+			{
+				"file" : 23
+			},
+			{
+				"command" : 5,
+				"file" : 23,
+				"line" : 17,
+				"parent" : 83
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 84
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 85
+			},
+			{
+				"file" : 24
+			},
+			{
+				"command" : 5,
+				"file" : 24,
+				"line" : 88,
+				"parent" : 87
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 88
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 89
+			},
+			{
+				"file" : 25
+			},
+			{
+				"command" : 5,
+				"file" : 25,
+				"line" : 12,
+				"parent" : 91
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 92
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 93
+			},
+			{
+				"file" : 26
+			},
+			{
+				"command" : 5,
+				"file" : 26,
+				"line" : 97,
+				"parent" : 95
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 96
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 97
+			},
+			{
+				"file" : 27
+			},
+			{
+				"command" : 5,
+				"file" : 27,
+				"line" : 20,
+				"parent" : 99
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 100
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 101
+			},
+			{
+				"file" : 28
+			},
+			{
+				"command" : 5,
+				"file" : 28,
+				"line" : 95,
+				"parent" : 103
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 104
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 105
+			},
+			{
+				"file" : 29
+			},
+			{
+				"command" : 5,
+				"file" : 29,
+				"line" : 14,
+				"parent" : 107
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 108
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 109
+			},
+			{
+				"file" : 30
+			},
+			{
+				"command" : 5,
+				"file" : 30,
+				"line" : 34,
+				"parent" : 111
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 112
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 113
+			},
+			{
+				"file" : 31
+			},
+			{
+				"command" : 5,
+				"file" : 31,
+				"line" : 60,
+				"parent" : 115
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 116
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 117
+			},
+			{
+				"file" : 32
+			},
+			{
+				"command" : 5,
+				"file" : 32,
+				"line" : 13,
+				"parent" : 119
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 120
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 121
+			},
+			{
+				"file" : 33
+			},
+			{
+				"command" : 5,
+				"file" : 33,
+				"line" : 58,
+				"parent" : 123
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 124
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 125
+			},
+			{
+				"file" : 34
+			},
+			{
+				"command" : 5,
+				"file" : 34,
+				"line" : 8,
+				"parent" : 127
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 128
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 129
+			},
+			{
+				"file" : 35
+			},
+			{
+				"command" : 5,
+				"file" : 35,
+				"line" : 32,
+				"parent" : 131
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 132
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 133
+			},
+			{
+				"file" : 36
+			},
+			{
+				"command" : 5,
+				"file" : 36,
+				"line" : 33,
+				"parent" : 135
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 136
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 137
+			},
+			{
+				"file" : 37
+			},
+			{
+				"command" : 5,
+				"file" : 37,
+				"line" : 4,
+				"parent" : 139
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 140
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 141
+			},
+			{
+				"file" : 38
+			},
+			{
+				"command" : 5,
+				"file" : 38,
+				"line" : 4,
+				"parent" : 143
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 144
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 145
+			},
+			{
+				"file" : 39
+			},
+			{
+				"command" : 5,
+				"file" : 39,
+				"line" : 4,
+				"parent" : 147
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 148
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 149
+			},
+			{
+				"file" : 40
+			},
+			{
+				"command" : 5,
+				"file" : 40,
+				"line" : 4,
+				"parent" : 151
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 152
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 153
+			},
+			{
+				"file" : 41
+			},
+			{
+				"command" : 5,
+				"file" : 41,
+				"line" : 8,
+				"parent" : 155
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 156
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 157
+			},
+			{
+				"file" : 42
+			},
+			{
+				"command" : 5,
+				"file" : 42,
+				"line" : 4,
+				"parent" : 159
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 160
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 161
+			},
+			{
+				"file" : 43
+			},
+			{
+				"command" : 5,
+				"file" : 43,
+				"line" : 4,
+				"parent" : 163
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 164
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 165
+			},
+			{
+				"file" : 44
+			},
+			{
+				"command" : 4,
+				"file" : 44,
+				"line" : 10,
+				"parent" : 167
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 168
+			},
+			{
+				"file" : 45
+			},
+			{
+				"command" : 4,
+				"file" : 45,
+				"line" : 10,
+				"parent" : 170
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 171
+			},
+			{
+				"file" : 46
+			},
+			{
+				"command" : 4,
+				"file" : 46,
+				"line" : 10,
+				"parent" : 173
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 174
+			},
+			{
+				"file" : 47
+			},
+			{
+				"command" : 4,
+				"file" : 47,
+				"line" : 10,
+				"parent" : 176
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 177
+			},
+			{
+				"file" : 48
+			},
+			{
+				"command" : 4,
+				"file" : 48,
+				"line" : 10,
+				"parent" : 179
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 180
+			},
+			{
+				"file" : 49
+			},
+			{
+				"command" : 4,
+				"file" : 49,
+				"line" : 10,
+				"parent" : 182
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 183
+			},
+			{
+				"file" : 50
+			},
+			{
+				"command" : 4,
+				"file" : 50,
+				"line" : 10,
+				"parent" : 185
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 186
+			},
+			{
+				"file" : 51
+			},
+			{
+				"command" : 4,
+				"file" : 51,
+				"line" : 10,
+				"parent" : 188
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 189
+			},
+			{
+				"file" : 52
+			},
+			{
+				"command" : 4,
+				"file" : 52,
+				"line" : 10,
+				"parent" : 191
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 192
+			},
+			{
+				"file" : 53
+			},
+			{
+				"command" : 4,
+				"file" : 53,
+				"line" : 10,
+				"parent" : 194
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 195
+			},
+			{
+				"file" : 54
+			},
+			{
+				"command" : 4,
+				"file" : 54,
+				"line" : 10,
+				"parent" : 197
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 198
+			},
+			{
+				"file" : 55
+			},
+			{
+				"command" : 4,
+				"file" : 55,
+				"line" : 4,
+				"parent" : 200
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 201
+			},
+			{
+				"file" : 56
+			},
+			{
+				"command" : 5,
+				"file" : 56,
+				"line" : 19,
+				"parent" : 203
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 217,
+				"parent" : 204
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 302,
+				"parent" : 205
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "qmlplugin::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QmlMeta::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "modelsplugin::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "qtqmlcoreplugin::@ea8e6f3566c9bb7c96e9"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "workerscriptplugin::@42b6f0f8b3b4b80d662a"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "qmllocalstorageplugin::@ca32027ba8675d0591ed"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "qmlxmllistmodelplugin::@dd86aef970258dca16e5"
+		},
+		{
+			"backtrace" : 34,
+			"id" : "qtquick2plugin::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "quickwindow::@8b6dfdc8decefdd73405"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "qquicklayoutsplugin::@bc8defaabb119a65668a"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "QuickTestplugin::@f3ea4e36fd753b337276"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "particlesplugin::@875c723dea18902783d5"
+		},
+		{
+			"backtrace" : 54,
+			"id" : "effectsplugin::@49de5fa3c6c96ef9984c"
+		},
+		{
+			"backtrace" : 58,
+			"id" : "qmlshapesplugin::@eeeec3ca80baff792628"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "qtquicktemplates2plugin::@d8e4b05793fe777813fb"
+		},
+		{
+			"backtrace" : 66,
+			"id" : "qtquickcontrols2implplugin::@43d63f53c887901ae31b"
+		},
+		{
+			"backtrace" : 70,
+			"id" : "qtquickcontrols2plugin::@d0a521f8df56dfe448b0"
+		},
+		{
+			"backtrace" : 74,
+			"id" : "qtquickcontrols2basicstyleplugin::@f3603730969a3f4688de"
+		},
+		{
+			"backtrace" : 78,
+			"id" : "qtquickcontrols2basicstyleimplplugin::@6f642b093556f00a058e"
+		},
+		{
+			"backtrace" : 82,
+			"id" : "qtquickcontrols2fusionstyleplugin::@bf51e4d6335e76f1f49b"
+		},
+		{
+			"backtrace" : 86,
+			"id" : "qtquickcontrols2fusionstyleimplplugin::@ebfc00cfcfb83e5b2275"
+		},
+		{
+			"backtrace" : 90,
+			"id" : "qtquickcontrols2imaginestyleplugin::@4f40d3ff401839b5c364"
+		},
+		{
+			"backtrace" : 94,
+			"id" : "qtquickcontrols2imaginestyleimplplugin::@44f8a69d5a70bae1feb4"
+		},
+		{
+			"backtrace" : 98,
+			"id" : "qtquickcontrols2materialstyleplugin::@a5aa0af7d22794615bdb"
+		},
+		{
+			"backtrace" : 102,
+			"id" : "qtquickcontrols2materialstyleimplplugin::@3227e0825ec2870064fd"
+		},
+		{
+			"backtrace" : 106,
+			"id" : "qtquickcontrols2universalstyleplugin::@26392891d9b1a1e52c80"
+		},
+		{
+			"backtrace" : 110,
+			"id" : "qtquickcontrols2universalstyleimplplugin::@28293bd7f3640a6ffead"
+		},
+		{
+			"backtrace" : 114,
+			"id" : "qtquickcontrols2macosstyleplugin::@32c353f3568dff84cddb"
+		},
+		{
+			"backtrace" : 118,
+			"id" : "qtquickcontrols2iosstyleplugin::@4e07468a276b4e7641e9"
+		},
+		{
+			"backtrace" : 122,
+			"id" : "qtquickcontrols2iosstyleimplplugin::@ea4ca26a51d01ea2e63a"
+		},
+		{
+			"backtrace" : 126,
+			"id" : "qtquickdialogs2quickimplplugin::@41a59b2ff1f2e91f4e79"
+		},
+		{
+			"backtrace" : 130,
+			"id" : "qtquickdialogsplugin::@ede857d7fff4529fe76a"
+		},
+		{
+			"backtrace" : 134,
+			"id" : "qtquickcontrols2nativestyleplugin::@bf06b91c3a582c78b910"
+		},
+		{
+			"backtrace" : 138,
+			"id" : "QuickControlsTestUtilsPrivateplugin::@d9c24100bd2cf0dd0413"
+		},
+		{
+			"backtrace" : 142,
+			"id" : "qmlsettingsplugin::@371d1e66b99c71ebe747"
+		},
+		{
+			"backtrace" : 146,
+			"id" : "labsmodelsplugin::@d6b636d05164fab310db"
+		},
+		{
+			"backtrace" : 150,
+			"id" : "qmlfolderlistmodelplugin::@49e40a148ca6b12eca5f"
+		},
+		{
+			"backtrace" : 154,
+			"id" : "labsanimationplugin::@ee3d3522990e8ca5cd97"
+		},
+		{
+			"backtrace" : 158,
+			"id" : "qtlabsplatformplugin::@04cd6d98e178dd0d4cfb"
+		},
+		{
+			"backtrace" : 162,
+			"id" : "qmlwavefrontmeshplugin::@30248578119210f9caad"
+		},
+		{
+			"backtrace" : 166,
+			"id" : "sharedimageplugin::@151db00aeb3bc1092094"
+		},
+		{
+			"backtrace" : 169,
+			"id" : "QQmlNativeDebugConnectorFactoryPlugin::@3fd5a1bb036a35387f72"
+		},
+		{
+			"backtrace" : 172,
+			"id" : "QDebugMessageServiceFactoryPlugin::@0f42665cfa9353e1d38f"
+		},
+		{
+			"backtrace" : 175,
+			"id" : "QQmlProfilerServiceFactoryPlugin::@b29a65948b008f90a347"
+		},
+		{
+			"backtrace" : 178,
+			"id" : "QQmlDebuggerServiceFactoryPlugin::@b9602edf1e79c5edce29"
+		},
+		{
+			"backtrace" : 181,
+			"id" : "QQmlNativeDebugServiceFactoryPlugin::@b459486d5b5936e1a43e"
+		},
+		{
+			"backtrace" : 184,
+			"id" : "QQmlDebugServerFactoryPlugin::@56ac7de375aede18651a"
+		},
+		{
+			"backtrace" : 187,
+			"id" : "QTcpServerConnectionFactoryPlugin::@f02bfed68a7cca76401c"
+		},
+		{
+			"backtrace" : 190,
+			"id" : "QLocalClientConnectionFactoryPlugin::@88997297b175863cc563"
+		},
+		{
+			"backtrace" : 193,
+			"id" : "QQmlInspectorServiceFactoryPlugin::@be944838655ca4abab70"
+		},
+		{
+			"backtrace" : 196,
+			"id" : "QQuickProfilerAdapterFactoryPlugin::@d4fe0ab1e1e8fe1f3d8b"
+		},
+		{
+			"backtrace" : 199,
+			"id" : "QQmlPreviewServiceFactoryPlugin::@c62e3b0b9e2afbafcba8"
+		},
+		{
+			"backtrace" : 202,
+			"id" : "QmlLintQuickPlugin::@142148266588762689ce"
+		},
+		{
+			"backtrace" : 206,
+			"id" : "quicktooling::@1f2106a3ebf47a6b2968"
+		}
+	],
+	"id" : "qt_plugins_qtdeclarative::@3f8b8320d1872f2fb4d4",
+	"name" : "qt_plugins_qtdeclarative",
+	"paths" : 
+	{
+		"build" : "qtdeclarative",
+		"source" : "qtdeclarative"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

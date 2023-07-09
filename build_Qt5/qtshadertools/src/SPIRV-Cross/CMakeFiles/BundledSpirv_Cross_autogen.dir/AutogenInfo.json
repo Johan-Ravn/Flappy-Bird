@@ -1,0 +1,206 @@
+{
+	"BUILD_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross/BundledSpirv_Cross_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/SPIRV-Cross",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.26.4/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/SPIRV-Cross/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cfg.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_cfg.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cpp.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_cpp.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_cross.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross_c.h",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_cross_c.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross_parsed_ir.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_cross_parsed_ir.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross_util.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_cross_util.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_glsl.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_glsl.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_hlsl.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_hlsl.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_msl.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_msl.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_parser.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_parser.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_reflect.hpp",
+			"Mu",
+			"2FZIKDQJJI/moc_spirv_reflect.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross/BundledSpirv_Cross_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross/BundledSpirv_Cross_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GL_SILENCE_DEPRECATION",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_NO_AS_CONST",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_STRICT_QLIST_ITERATORS",
+		"SPIRV_CROSS_C_API_GLSL=1",
+		"SPIRV_CROSS_C_API_HLSL=1",
+		"SPIRV_CROSS_C_API_MSL=1",
+		"_LARGEFILE64_SOURCE",
+		"_LARGEFILE_SOURCE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross/BundledSpirv_Cross_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross/CMakeFiles/BundledSpirv_Cross_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtshadertools/src/SPIRV-Cross/CMakeFiles/BundledSpirv_Cross_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cfg.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cpp.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross_c.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross_parsed_ir.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_cross_util.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_glsl.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_hlsl.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_msl.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_parser.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtshadertools/src/3rdparty/SPIRV-Cross/spirv_reflect.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

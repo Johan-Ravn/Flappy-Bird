@@ -1,0 +1,43 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_docs"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtDocsHelpers.cmake",
+			"qtquick3d/src/quick3d/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 112,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 232,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "install_qch_docs_Quick3D::@60de046a73c3f1bf5cbb",
+	"name" : "install_qch_docs_Quick3D",
+	"paths" : 
+	{
+		"build" : "qtquick3d/src/quick3d",
+		"source" : "qtquick3d/src/quick3d"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

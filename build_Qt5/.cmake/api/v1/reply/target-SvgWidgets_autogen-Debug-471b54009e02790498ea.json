@@ -1,0 +1,190 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"qtsvg/src/svgwidgets/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/widgets/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"file" : 4,
+				"line" : -1,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 4
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 9
+			},
+			{
+				"file" : 6
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 12
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 13
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 14
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Widgets::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Widgets_sync_headers::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Svg::@b467f01ce70acae3c20a"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SvgWidgets_sync_headers::@99ad5cef9565babef719"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SvgWidgets_lib_pri::@99ad5cef9565babef719"
+		}
+	],
+	"id" : "SvgWidgets_autogen::@99ad5cef9565babef719",
+	"isGeneratorProvided" : true,
+	"name" : "SvgWidgets_autogen",
+	"paths" : 
+	{
+		"build" : "qtsvg/src/svgwidgets",
+		"source" : "qtsvg/src/svgwidgets"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtsvg/src/svgwidgets/CMakeFiles/SvgWidgets_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtsvg/src/svgwidgets/CMakeFiles/SvgWidgets_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

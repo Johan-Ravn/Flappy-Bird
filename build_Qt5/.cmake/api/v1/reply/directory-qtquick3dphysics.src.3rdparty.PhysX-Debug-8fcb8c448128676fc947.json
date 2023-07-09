@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_3rdparty_library"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/Qt3rdPartyLibraryHelpers.cmake",
+			"qtquick3dphysics/src/3rdparty/PhysX/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 292,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6BundledPhysX_debug.a"
+			],
+			"targetId" : "BundledPhysX::@aef7e419e70b3f76ba4d",
+			"targetIndex" : 115,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtquick3dphysics/src/3rdparty/PhysX",
+		"source" : "qtquick3dphysics/src/3rdparty/PhysX"
+	}
+}

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="cppdatamodel.t">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtscxml/tools/qscxmlc/cppdatamodel.t</file>
+    <file alias="data.t">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtscxml/tools/qscxmlc/data.t</file>
+    <file alias="decl.t">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtscxml/tools/qscxmlc/decl.t</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,342 @@
+{
+	"BUILD_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin/QDarwinMediaPlugin_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.26.4/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/CMakeLists.txt",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtPluginConfig.cmake.in",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtCMakePackageVersionFile.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/avfaudiodecoder_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_avfaudiodecoder_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/avfvideobuffer_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_avfvideobuffer_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/avfvideosink_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_avfvideosink_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfaudiopreviewdelegate_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfaudiopreviewdelegate_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamera_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfcamera_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcameradebug_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfcameradebug_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamerarenderer_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfcamerarenderer_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcameraservice_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfcameraservice_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamerasession_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfcamerasession_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamerautility_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfcamerautility_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfimagecapture_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfimagecapture_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfmediaassetwriter_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfmediaassetwriter_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfmediaencoder_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_avfmediaencoder_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/qavfcamerabase_p.h",
+			"Mu",
+			"GHZOWQQRZX/moc_qavfcamerabase_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/common/avfmetadata_p.h",
+			"Mu",
+			"P66WHCG54J/moc_avfmetadata_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer/avfdisplaylink_p.h",
+			"Mu",
+			"4FWWO4K2JG/moc_avfdisplaylink_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer/avfmediaplayer_p.h",
+			"Mu",
+			"4FWWO4K2JG/moc_avfmediaplayer_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer/avfvideorenderercontrol_p.h",
+			"Mu",
+			"4FWWO4K2JG/moc_avfvideorenderercontrol_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/qavfhelpers_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qavfhelpers_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/qdarwinformatsinfo_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qdarwinformatsinfo_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/qdarwinintegration_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qdarwinintegration_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin/QDarwinMediaPlugin_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin/QDarwinMediaPlugin_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GL_SILENCE_DEPRECATION",
+		"QDarwinMediaPlugin_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_UP_TO=0x050000",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_AS_CONST",
+		"QT_NO_AS_CONST=1",
+		"QT_NO_EXCEPTIONS",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_PLUGIN",
+		"QT_STRICT_QLIST_ITERATORS",
+		"QT_WARN_DEPRECATED_UP_TO=0x070000",
+		"_LARGEFILE64_SOURCE",
+		"_LARGEFILE_SOURCE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/audio",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/common",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/multimedia",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtMultimedia/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtMultimedia/6.7.0/QtMultimedia",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtMultimedia",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin/QDarwinMediaPlugin_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin/CMakeFiles/QDarwinMediaPlugin_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/plugins/multimedia/darwin/CMakeFiles/QDarwinMediaPlugin_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/avfaudiodecoder.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/avfvideobuffer.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/avfvideosink.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfaudiopreviewdelegate.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamera.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamerarenderer.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcameraservice.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamerasession.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfcamerautility.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfimagecapture.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfmediaassetwriter.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/avfmediaencoder.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/camera/qavfcamerabase.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/common/avfmetadata.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer/avfdisplaylink.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer/avfmediaplayer.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/mediaplayer/avfvideorenderercontrol.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/qavfhelpers.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/qdarwinformatsinfo.mm",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/plugins/multimedia/darwin/qdarwinintegration.mm",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

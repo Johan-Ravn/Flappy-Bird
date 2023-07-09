@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="data/BlurItem.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/BlurItem.qml</file>
+    <file alias="data/shaders/bluritems.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/bluritems.vert.qsb</file>
+    <file alias="data/shaders/bluritems.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/bluritems.frag.qsb</file>
+    <file alias="data/shaders/multieffect_c.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_c.vert.qsb</file>
+    <file alias="data/shaders/multieffect_cs.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cs.vert.qsb</file>
+    <file alias="data/shaders/multieffect_c0.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_c0.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cb1.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cb1.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cb2.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cb2.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cb3.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cb3.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cbs1.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cbs1.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cbs2.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cbs2.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cbs3.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cbs3.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cm0.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cm0.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cmb1.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cmb1.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cmb2.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cmb2.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cmb3.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cmb3.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cmbs1.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cmbs1.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cmbs2.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cmbs2.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cmbs3.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cmbs3.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cms0.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cms0.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cms1.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cms1.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cms2.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cms2.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cms3.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cms3.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cs0.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cs0.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cs1.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cs1.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cs2.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cs2.frag.qsb</file>
+    <file alias="data/shaders/multieffect_cs3.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/effects/data/shaders/multieffect_cs3.frag.qsb</file>
+  </qresource>
+</RCC>
+

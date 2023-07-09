@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/propertyeditor">
+    <file alias="fontmapping.xml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../propertyeditor/fontmapping.xml</file>
+  </qresource>
+</RCC>
+

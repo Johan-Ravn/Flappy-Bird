@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qt3d/src/plugins/renderers/rhi/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "./plugins/renderers",
+			"paths" : 
+			[
+				"qtbase/plugins/renderers/librhirenderer_debug.dylib"
+			],
+			"targetId" : "RhiRendererPlugin::@6a5de3384383de8f84ec",
+			"targetIndex" : 1049,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qt3d/src/plugins/renderers/rhi",
+		"source" : "qt3d/src/plugins/renderers/rhi"
+	}
+}

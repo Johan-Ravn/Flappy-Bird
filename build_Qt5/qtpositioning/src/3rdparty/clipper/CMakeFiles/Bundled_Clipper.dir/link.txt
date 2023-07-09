@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../../../qtbase/lib/libQt6Bundled_Clipper_debug.a CMakeFiles/Bundled_Clipper.dir/clipper.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../../../qtbase/lib/libQt6Bundled_Clipper_debug.a

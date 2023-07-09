@@ -1,0 +1,1564 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt6SerialBus_debug.dylib"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"qt_generate_module_pri_file",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"set_property",
+			"qt_update_precompiled_header",
+			"qt_update_precompiled_header_with_library",
+			"target_sources",
+			"qt_internal_generate_cpp_global_exports",
+			"qt6_extract_metatypes",
+			"qt_generate_prl_file",
+			"qt_internal_generate_pkg_config_file"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtserialbus/src/serialbus/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtserialbus/CMakeLists.txt",
+			"qtbase/cmake/QtPrecompiledHeadersHelpers.cmake",
+			"qtbase/cmake/QtPrlHelpers.cmake",
+			"qtbase/cmake/QtPkgConfigHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 827,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 1
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 50,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 10
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 576,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 13
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 605,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 15
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 12
+			},
+			{
+				"command" : 11,
+				"file" : 8,
+				"line" : 1,
+				"parent" : 17
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 18
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 248,
+				"parent" : 19
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 8,
+				"line" : 1,
+				"parent" : 21
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 22
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 243,
+				"parent" : 23
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 914,
+				"parent" : 22
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 554,
+				"parent" : 25
+			},
+			{
+				"file" : 13
+			},
+			{
+				"command" : 17,
+				"file" : 13,
+				"line" : 46,
+				"parent" : 27
+			},
+			{
+				"command" : 16,
+				"file" : 12,
+				"line" : 597,
+				"parent" : 28
+			},
+			{
+				"command" : 15,
+				"file" : 12,
+				"line" : 411,
+				"parent" : 29
+			},
+			{
+				"command" : 14,
+				"file" : 12,
+				"line" : 249,
+				"parent" : 30
+			},
+			{
+				"file" : 11,
+				"parent" : 31
+			},
+			{
+				"command" : 14,
+				"file" : 11,
+				"line" : 360,
+				"parent" : 32
+			},
+			{
+				"file" : 10,
+				"parent" : 33
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 34,
+				"parent" : 34
+			},
+			{
+				"command" : 19,
+				"file" : 1,
+				"line" : 643,
+				"parent" : 1
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 36
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 8
+			},
+			{
+				"command" : 21,
+				"file" : 1,
+				"line" : 588,
+				"parent" : 1
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 39
+			},
+			{
+				"command" : 20,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 36
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 8
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 14,
+				"line" : 15,
+				"parent" : 43
+			},
+			{
+				"command" : 23,
+				"file" : 14,
+				"line" : 6,
+				"parent" : 44
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 14,
+				"line" : 15,
+				"parent" : 46
+			},
+			{
+				"command" : 23,
+				"file" : 14,
+				"line" : 6,
+				"parent" : 47
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 10
+			},
+			{
+				"command" : 24,
+				"file" : 14,
+				"line" : 15,
+				"parent" : 49
+			},
+			{
+				"command" : 23,
+				"file" : 14,
+				"line" : 6,
+				"parent" : 50
+			},
+			{
+				"command" : 27,
+				"file" : 1,
+				"line" : 431,
+				"parent" : 1
+			},
+			{
+				"command" : 26,
+				"file" : 1,
+				"line" : 1165,
+				"parent" : 52
+			},
+			{
+				"command" : 26,
+				"file" : 1,
+				"line" : 1178,
+				"parent" : 52
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 1
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 56
+			},
+			{
+				"command" : 28,
+				"file" : 1,
+				"line" : 740,
+				"parent" : 1
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 58
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 10
+			},
+			{
+				"command" : 29,
+				"file" : 1,
+				"line" : 913,
+				"parent" : 22
+			},
+			{
+				"command" : 26,
+				"file" : 15,
+				"line" : 205,
+				"parent" : 61
+			},
+			{
+				"command" : 30,
+				"file" : 1,
+				"line" : 915,
+				"parent" : 22
+			},
+			{
+				"command" : 26,
+				"file" : 16,
+				"line" : 149,
+				"parent" : 63
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/CMakeFiles/SerialBus.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/CMakeFiles/SerialBus.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_BUILD_SERIALBUS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_SERIALPORT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "SerialBus_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/SerialBus_autogen/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtserialbus/src/serialbus"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus/6.7.0"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus/6.7.0/QtSerialBus"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialPort"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 45,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 48,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork/QtNetwork"
+				},
+				{
+					"backtrace" : 51,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialPort/QtSerialPort"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0,
+				4,
+				6,
+				9,
+				12,
+				14,
+				16,
+				18,
+				21,
+				24,
+				27,
+				30,
+				35,
+				39,
+				41,
+				44,
+				46,
+				48,
+				50,
+				53,
+				56,
+				63,
+				66
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/CMakeFiles/SerialBus.dir/cmake_pch.hxx -x c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_BUILD_SERIALBUS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_SERIALPORT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "SerialBus_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/SerialBus_autogen/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtserialbus/src/serialbus"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus/6.7.0"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus/6.7.0/QtSerialBus"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialPort"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 45,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 48,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork/QtNetwork"
+				},
+				{
+					"backtrace" : 51,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialPort/QtSerialPort"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "SerialBus_autogen::@9e7a8ba87033816f279e"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "SerialPort::@7efc6946950f67b94485"
+		},
+		{
+			"id" : "SerialBus_automoc_json_extraction::@9e7a8ba87033816f279e"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "SerialBus_sync_headers::@9e7a8ba87033816f279e"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "SerialBus_lib_pri::@9e7a8ba87033816f279e"
+		}
+	],
+	"id" : "SerialBus::@9e7a8ba87033816f279e",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Network_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "../../../qtbase/lib/libQt6SerialPort_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "SerialBus",
+	"nameOnDisk" : "libQt6SerialBus_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtserialbus/src/serialbus",
+		"source" : "qtserialbus/src/serialbus"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4,
+				6,
+				9,
+				12,
+				14,
+				16,
+				18,
+				21,
+				24,
+				27,
+				30,
+				35,
+				39,
+				41,
+				44,
+				46,
+				48,
+				50,
+				53,
+				56,
+				63,
+				66
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				7,
+				8,
+				10,
+				11,
+				13,
+				15,
+				17,
+				19,
+				20,
+				22,
+				23,
+				25,
+				26,
+				28,
+				29,
+				31,
+				32,
+				33,
+				34,
+				36,
+				37,
+				38,
+				40,
+				42,
+				43,
+				45,
+				47,
+				49,
+				51,
+				52,
+				54,
+				55,
+				57,
+				58,
+				59,
+				60,
+				61,
+				64,
+				65,
+				67,
+				68
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				62,
+				69,
+				70
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				71
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				72,
+				73,
+				74
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/SerialBus_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/CMakeFiles/SerialBus.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 53,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus/qtserialbusexports.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 54,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSerialBus/6.7.0/QtSerialBus/private/qtserialbusexports_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanbus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbus.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanbusdevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbusdevice.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbusdevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanbusdeviceinfo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbusdeviceinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbusdeviceinfo_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanbusfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbusfactory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanbusframe.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanbusframe.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcancommondefinitions.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcancommondefinitions.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcandbcfileparser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcandbcfileparser.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcandbcfileparser_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanframeprocessor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanframeprocessor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanframeprocessor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanmessagedescription.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanmessagedescription.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanmessagedescription_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcansignaldescription.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcansignaldescription.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcansignaldescription_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qcanuniqueiddescription.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanuniqueiddescription.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qcanuniqueiddescription_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbus_symbols_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusadu_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusclient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusclient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusclient_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbuscommevent_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusdataunit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusdataunit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusdevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusdevice.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusdevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusdeviceidentification.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusdeviceidentification.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbuspdu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbuspdu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusreply.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusreply.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusserver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusserver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbusserver_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbustcpclient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbustcpclient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbustcpclient_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbustcpserver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbustcpserver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qmodbustcpserver_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtserialbus/src/serialbus/qtserialbusglobal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 57,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/qtserialbus-config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 57,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/qtserialbus-config_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 59,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/meta_types/qt6serialbus_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 60,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusrtuserialclient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 60,
+			"path" : "qtserialbus/src/serialbus/qmodbusrtuserialclient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 60,
+			"path" : "qtserialbus/src/serialbus/qmodbusrtuserialclient_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 60,
+			"compileGroupIndex" : 0,
+			"path" : "qtserialbus/src/serialbus/qmodbusrtuserialserver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 60,
+			"path" : "qtserialbus/src/serialbus/qmodbusrtuserialserver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 60,
+			"path" : "qtserialbus/src/serialbus/qmodbusrtuserialserver_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 62,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/preliminary_prl_for_SerialBus_step2_Debug.prl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 64,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6SerialBus_debug.pc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/CMakeFiles/SerialBus.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/meta_types/qt6serialbus_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/serialbus/preliminary_prl_for_SerialBus_step2_Debug.prl.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6SerialBus_debug.pc.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

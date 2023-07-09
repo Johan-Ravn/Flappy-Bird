@@ -1,0 +1,111 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_internals_add_toplevel_targets",
+			"qt_build_repo_end",
+			"qt_build_repo",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtquicktimeline/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtquicktimeline/src/timeline/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 604,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 573,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 295,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 297,
+				"parent" : 3
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 6
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 902,
+				"parent" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 248,
+				"parent" : 9
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "QuickTimeline::@ef27fa22df2fa175de50"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "qtquicktimelineplugin::@ef27fa22df2fa175de50"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QuickTimeline_sync_headers::@ef27fa22df2fa175de50"
+		}
+	],
+	"id" : "qtquicktimeline_src::@8f0eedf324c84ace99ed",
+	"name" : "qtquicktimeline_src",
+	"paths" : 
+	{
+		"build" : "qtquicktimeline",
+		"source" : "qtquicktimeline"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

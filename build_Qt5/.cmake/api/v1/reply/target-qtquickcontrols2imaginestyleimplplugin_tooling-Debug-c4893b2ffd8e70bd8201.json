@@ -1,0 +1,96 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_internal_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"qtdeclarative/src/qml/Qt6QmlMacros.cmake",
+			"qtdeclarative/src/qml/Qt6QmlBuildInternals.cmake",
+			"qtdeclarative/src/quickcontrols/imagine/impl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 305,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 633,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2322,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2325,
+				"parent" : 3
+			}
+		]
+	},
+	"id" : "qtquickcontrols2imaginestyleimplplugin_tooling::@44f8a69d5a70bae1feb4",
+	"name" : "qtquickcontrols2imaginestyleimplplugin_tooling",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/quickcontrols/imagine/impl",
+		"source" : "qtdeclarative/src/quickcontrols/imagine/impl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQuick/Controls/Imagine/impl/OpacityMask.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQuick/Controls/Imagine/impl/OpacityMask.qml.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/Qt/labs/folderlistmodel">
+    <file alias="qmldir">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/Qt/labs/folderlistmodel/qmldir</file>
+  </qresource>
+</RCC>
+

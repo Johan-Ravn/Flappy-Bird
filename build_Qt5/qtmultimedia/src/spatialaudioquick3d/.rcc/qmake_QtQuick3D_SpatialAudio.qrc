@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick3D/SpatialAudio">
+    <file alias="qmldir">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQuick3D/SpatialAudio/qmldir</file>
+  </qresource>
+</RCC>
+

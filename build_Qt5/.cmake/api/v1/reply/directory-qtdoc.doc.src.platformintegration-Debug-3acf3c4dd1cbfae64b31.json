@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtdoc/doc/src/platformintegration",
+		"source" : "qtdoc/doc/src/platformintegration"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_tool"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtToolHelpers.cmake",
+			"qtbase/qmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 57,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 219,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"qtbase/bin/qmake"
+			],
+			"targetId" : "qmake::@6c23daa751e2220a3dfd",
+			"targetIndex" : 2653,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtbase/qmake",
+		"source" : "qtbase/qmake"
+	}
+}

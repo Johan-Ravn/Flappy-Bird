@@ -1,0 +1,14 @@
+prefix=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+$<$<BOOL:>:mkspecsdir=${prefix}/mkspecs>
+$<1: >
+Name: Qt6 Quick3DPhysics
+Description: Qt Quick3DPhysics module
+Version: 6.7.0
+Libs: $<$<NOT:$<STREQUAL:$<TARGET_PROPERTY:Qt6::Quick3DPhysics,TYPE>,INTERFACE_LIBRARY>>:-L${libdir} -lQt6Quick3DPhysics> $<$<BOOL:loose_link_options-NOTFOUND>:$<JOIN:$<REMOVE_DUPLICATES:loose_link_options-NOTFOUND>, >> $<JOIN:$<REMOVE_DUPLICATES:>, >
+Cflags: $<$<BOOL:${includedir}/QtQuick3DPhysics;${includedir}>:-I$<JOIN:$<REMOVE_DUPLICATES:${includedir}/QtQuick3DPhysics;${includedir}>, -I>> $<$<BOOL:QT_QUICK3DPHYSICS_LIB>:-D$<JOIN:$<REMOVE_DUPLICATES:QT_QUICK3DPHYSICS_LIB>, -D>>
+Requires: $<JOIN:$<REMOVE_DUPLICATES:Qt6Core;Qt6Gui;Qt6Qml;Qt6Quick;Qt6Quick3D>, >

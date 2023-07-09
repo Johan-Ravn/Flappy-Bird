@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtbase/src/widgets/doc/snippets/filedialogurls",
+		"source" : "qtbase/src/widgets/doc/snippets/filedialogurls"
+	}
+}

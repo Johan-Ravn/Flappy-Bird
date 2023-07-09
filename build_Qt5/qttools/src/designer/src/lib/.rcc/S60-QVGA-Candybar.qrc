@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/skins">
+    <file alias="S60-QVGA-Candybar.skin">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/lib/../../../shared/deviceskin/skins/S60-QVGA-Candybar.skin</file>
+  </qresource>
+</RCC>
+

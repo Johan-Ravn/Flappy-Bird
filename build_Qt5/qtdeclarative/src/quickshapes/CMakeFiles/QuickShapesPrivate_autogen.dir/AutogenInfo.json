@@ -1,0 +1,269 @@
+{
+	"BUILD_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/QuickShapesPrivate_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.26.4/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/CMakeLists.txt",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/modulecppexports.h.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/modulecppexports_p.h.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtModuleConfig.cmake.in",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtCMakePackageVersionFile.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/ModuleDescription.json.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtPluginConfig.cmake.in",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtCMakePackageVersionFile.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qml/Qt6qmldirTemplate.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickShapes/6.7.0/QtQuickShapes/private/qtquickshapesexports_p.h",
+			"Mu",
+			"4FVWXW2LQY/moc_qtquickshapesexports_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickShapes/qtquickshapesexports.h",
+			"Mu",
+			"E6D2GXZ76O/moc_qtquickshapesexports.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/CMakeFiles/QuickShapesPrivate.dir/cmake_pch.hxx",
+			"Mu",
+			"NUISWKD5LU/moc_cmake_pch.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshape_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshape_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshape_p_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshape_p_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapecurverenderer_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshapecurverenderer_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapecurverenderer_p_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshapecurverenderer_p_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapegenericrenderer_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshapegenericrenderer_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapesglobal.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshapesglobal.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapesglobal_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshapesglobal_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapesoftwarerenderer_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qquickshapesoftwarerenderer_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/QuickShapesPrivate_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/QuickShapesPrivate_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GL_SILENCE_DEPRECATION",
+		"QT_ASCII_CAST_WARNINGS",
+		"QT_BUILDING_QT",
+		"QT_BUILD_QUICKSHAPES_LIB",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_UP_TO=0x050000",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_GUI_LIB",
+		"QT_LEAN_HEADERS=1",
+		"QT_MOC_COMPAT",
+		"QT_NETWORK_LIB",
+		"QT_NO_AS_CONST",
+		"QT_NO_AS_CONST=1",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_EXCEPTIONS",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_OPENGL_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_SHADERTOOLS_LIB",
+		"QT_STRICT_QLIST_ITERATORS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WARN_DEPRECATED_UP_TO=0x070000",
+		"QuickShapesPrivate_EXPORTS",
+		"_LARGEFILE64_SOURCE",
+		"_LARGEFILE_SOURCE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickShapes",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickShapes/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickShapes/6.7.0/QtQuickShapes",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0/QtQml",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlIntegration",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlintegration",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlintegration",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0/QtQuick",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0/QtQmlModels",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtShaderTools",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/QuickShapesPrivate_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_qmake_QtQuick_Shapes.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_qtquickshapes_shaders.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_cg.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_cg_stroke.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_lg.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_lg_stroke.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_rg.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_rg_stroke.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.rcc/qrc_shaders_stroke.cpp",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/qtquickshapes-config.h",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/qtquickshapes-config_p.h",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/quickshapesprivate_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/CMakeFiles/QuickShapesPrivate_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/CMakeFiles/QuickShapesPrivate_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/CMakeFiles/QuickShapesPrivate.dir/cmake_pch.hxx.cxx",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshape.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapecurverenderer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapegenericrenderer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qquickshapesoftwarerenderer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickshapes/qt_quadratic_bezier.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

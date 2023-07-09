@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/qml/doc/snippets/cmake/qt_target_qml_sources",
+		"source" : "qtdeclarative/src/qml/doc/snippets/cmake/qt_target_qml_sources"
+	}
+}

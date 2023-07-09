@@ -1,14 +1,16 @@
-#ifndef IMAGE_HPP
-#define IMAGE_HPP
+#pragma once
 
 #include <cstdint>
 #include <cstddef>
 #include <iostream>
-#include ""
 
-enum ImageType 
+
+enum ImageType
 {
-    PNG, JPG, BMP, TGA
+    PNG,
+    JPG,
+    BMP,
+    TGA
 };
 
 struct Image
@@ -18,6 +20,7 @@ struct Image
     int height;
     int width;
     int channels;
+    const char* filename = nullptr;
 
     Image(const char *filename);
     Image(int height, int width, int channels);
@@ -31,29 +34,7 @@ struct Image
 
     Image &greyScale_average();
     Image &greyScale_lumen();
+    Image &colorMask(float r, float g, float b);
 
-    Image &colorMask(float r, float g, float b);  
+    void displayImage();
 };
-
-struct Display
-{
-    cv::Mat image = cv::imread("path/to/your/image.jpg");
-    if (image.empty()) {
-        std::cout << "Failed to load the image." << std::endl;
-        return -1;
-    }
-
-    // Create a window to display the image
-    cv::namedWindow("Image", cv::WINDOW_NORMAL);
-
-    // Display the image in the window
-    cv::imshow("Image", image);
-
-    // Wait for a key press
-    cv::waitKey(0);
-
-    // Destroy the window
-    cv::destroyWindow("Image");
-};
-
-#endif

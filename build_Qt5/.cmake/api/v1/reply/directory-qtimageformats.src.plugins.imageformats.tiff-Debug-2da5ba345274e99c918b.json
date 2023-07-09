@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtimageformats/src/plugins/imageformats/tiff/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "./plugins/imageformats",
+			"paths" : 
+			[
+				"qtbase/plugins/imageformats/libqtiff_debug.dylib"
+			],
+			"targetId" : "QTiffPlugin::@7fabcfaa1588a4c7692e",
+			"targetIndex" : 605,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtimageformats/src/plugins/imageformats/tiff",
+		"source" : "qtimageformats/src/plugins/imageformats/tiff"
+	}
+}

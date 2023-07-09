@@ -1,0 +1,76 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_module"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtserialbus/src/serialbus/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6SerialBus_debug.6.7.0.dylib",
+				"qtbase/lib/libQt6SerialBus_debug.6.dylib"
+			],
+			"targetId" : "SerialBus::@9e7a8ba87033816f279e",
+			"targetIndex" : 1090,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6SerialBus_debug.dylib"
+			],
+			"targetId" : "SerialBus::@9e7a8ba87033816f279e",
+			"targetIndex" : 1090,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtserialbus/src/serialbus",
+		"source" : "qtserialbus/src/serialbus"
+	}
+}

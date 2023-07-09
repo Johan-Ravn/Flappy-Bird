@@ -1,0 +1,6046 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt6Widgets_debug.dylib"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"qt_generate_module_pri_file",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"set_property",
+			"qt_update_precompiled_header",
+			"target_sources",
+			"qt_internal_generate_cpp_global_exports",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt_internal_add_resource",
+			"qt_generate_prl_file",
+			"qt_internal_generate_pkg_config_file"
+		],
+		"files" : 
+		[
+			"qtbase/src/corelib/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/src/widgets/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtPrecompiledHeadersHelpers.cmake",
+			"qtbase/cmake/QtResourceHelpers.cmake",
+			"qtbase/cmake/QtPrlHelpers.cmake",
+			"qtbase/cmake/QtPkgConfigHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 827,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 1
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 315,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 10
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 376,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 13
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 962,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 15
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 576,
+				"parent" : 17
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 18
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 605,
+				"parent" : 17
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 20
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 12
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 1,
+				"parent" : 22
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 23
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 248,
+				"parent" : 24
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 1,
+				"parent" : 26
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 27
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 243,
+				"parent" : 28
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 914,
+				"parent" : 27
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 554,
+				"parent" : 30
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 17
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 1,
+				"parent" : 32
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 33
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 248,
+				"parent" : 34
+			},
+			{
+				"file" : 14
+			},
+			{
+				"command" : 16,
+				"file" : 14,
+				"line" : 127,
+				"parent" : 36
+			},
+			{
+				"command" : 15,
+				"file" : 13,
+				"line" : 411,
+				"parent" : 37
+			},
+			{
+				"command" : 14,
+				"file" : 13,
+				"line" : 249,
+				"parent" : 38
+			},
+			{
+				"file" : 12,
+				"parent" : 39
+			},
+			{
+				"command" : 14,
+				"file" : 12,
+				"line" : 360,
+				"parent" : 40
+			},
+			{
+				"file" : 11,
+				"parent" : 41
+			},
+			{
+				"command" : 13,
+				"file" : 11,
+				"line" : 34,
+				"parent" : 42
+			},
+			{
+				"command" : 18,
+				"file" : 1,
+				"line" : 643,
+				"parent" : 1
+			},
+			{
+				"command" : 17,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 44
+			},
+			{
+				"command" : 19,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 8
+			},
+			{
+				"command" : 20,
+				"file" : 1,
+				"line" : 588,
+				"parent" : 1
+			},
+			{
+				"command" : 19,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 47
+			},
+			{
+				"command" : 19,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 44
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 8
+			},
+			{
+				"command" : 23,
+				"file" : 5,
+				"line" : 226,
+				"parent" : 8
+			},
+			{
+				"command" : 22,
+				"file" : 15,
+				"line" : 6,
+				"parent" : 51
+			},
+			{
+				"command" : 25,
+				"file" : 1,
+				"line" : 431,
+				"parent" : 1
+			},
+			{
+				"command" : 24,
+				"file" : 1,
+				"line" : 1165,
+				"parent" : 53
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 1
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 56
+			},
+			{
+				"command" : 26,
+				"file" : 1,
+				"line" : 740,
+				"parent" : 1
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 58
+			},
+			{
+				"command" : 29,
+				"file" : 2,
+				"line" : 256,
+				"parent" : 0
+			},
+			{
+				"command" : 28,
+				"file" : 16,
+				"line" : 30,
+				"parent" : 60
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 61
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 62
+			},
+			{
+				"command" : 29,
+				"file" : 2,
+				"line" : 293,
+				"parent" : 0
+			},
+			{
+				"command" : 28,
+				"file" : 16,
+				"line" : 30,
+				"parent" : 64
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 65
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 66
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 10
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 330,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 69
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 336,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 71
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 344,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 73
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 349,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 75
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 355,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 77
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 360,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 79
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 365,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 81
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 370,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 83
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 376,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 85
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 382,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 87
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 387,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 89
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 392,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 91
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 397,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 93
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 402,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 95
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 407,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 97
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 412,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 99
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 417,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 101
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 422,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 103
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 427,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 105
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 433,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 107
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 438,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 109
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 443,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 111
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 448,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 113
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 453,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 115
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 458,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 117
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 463,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 119
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 469,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 121
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 475,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 123
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 481,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 125
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 486,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 127
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 491,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 129
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 496,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 131
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 501,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 133
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 506,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 135
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 511,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 137
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 516,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 139
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 521,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 141
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 526,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 143
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 531,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 145
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 536,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 147
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 541,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 149
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 547,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 151
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 552,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 153
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 557,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 155
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 562,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 157
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 567,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 159
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 572,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 161
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 578,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 163
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 583,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 165
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 588,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 167
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 596,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 169
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 601,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 171
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 607,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 173
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 613,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 175
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 618,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 177
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 623,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 179
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 628,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 181
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 633,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 183
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 641,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 185
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 646,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 187
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 651,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 189
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 656,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 191
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 661,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 193
+			},
+			{
+				"command" : 29,
+				"file" : 2,
+				"line" : 672,
+				"parent" : 0
+			},
+			{
+				"command" : 28,
+				"file" : 16,
+				"line" : 30,
+				"parent" : 195
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 196
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 197
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 682,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 199
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 688,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 201
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 707,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 203
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 718,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 205
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 723,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 207
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 735,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 209
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 741,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 211
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 746,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 213
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 751,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 215
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 756,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 217
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 761,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 219
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 766,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 221
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 771,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 223
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 778,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 225
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 802,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 227
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 807,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 229
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 812,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 231
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 819,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 233
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 824,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 235
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 829,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 237
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 839,
+				"parent" : 0
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 239
+			},
+			{
+				"command" : 30,
+				"file" : 1,
+				"line" : 913,
+				"parent" : 27
+			},
+			{
+				"command" : 24,
+				"file" : 17,
+				"line" : 205,
+				"parent" : 241
+			},
+			{
+				"command" : 31,
+				"file" : 1,
+				"line" : 915,
+				"parent" : 27
+			},
+			{
+				"command" : 24,
+				"file" : 18,
+				"line" : 149,
+				"parent" : 243
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILD_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_USING_NAMESPACE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "Widgets_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets/dialogs"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0/QtWidgets"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 52,
+					"header" : "kernel/qt_widgets_pch.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				8,
+				11,
+				13,
+				16,
+				18,
+				20,
+				22,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				39,
+				42,
+				44,
+				45,
+				47,
+				49,
+				53,
+				55,
+				58,
+				61,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				77,
+				79,
+				82,
+				85,
+				87,
+				90,
+				97,
+				99,
+				102,
+				105,
+				108,
+				111,
+				114,
+				115,
+				117,
+				119,
+				121,
+				124,
+				127,
+				130,
+				133,
+				136,
+				138,
+				140,
+				143,
+				145,
+				148,
+				150,
+				152,
+				155,
+				157,
+				159,
+				161,
+				164,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				182,
+				185,
+				188,
+				191,
+				193,
+				196,
+				198,
+				200,
+				203,
+				205,
+				208,
+				211,
+				213,
+				215,
+				218,
+				220,
+				222,
+				225,
+				227,
+				229,
+				232,
+				235,
+				238,
+				240,
+				242,
+				245,
+				247,
+				249,
+				251,
+				253,
+				255,
+				257,
+				261,
+				263,
+				266,
+				268,
+				272,
+				275,
+				279,
+				281,
+				284,
+				288,
+				290,
+				292,
+				294,
+				296,
+				298,
+				300,
+				302,
+				304,
+				307,
+				310,
+				312,
+				315,
+				317,
+				320,
+				323,
+				326,
+				328,
+				330,
+				333,
+				336,
+				339,
+				342,
+				345,
+				348,
+				352,
+				354,
+				356,
+				358,
+				360,
+				363,
+				365,
+				367,
+				370,
+				372,
+				374,
+				377,
+				380,
+				382,
+				384,
+				386,
+				388,
+				390,
+				393,
+				396,
+				398,
+				400,
+				402,
+				404,
+				407,
+				409,
+				412,
+				417,
+				419
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.objcxx.hxx -x objective-c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILD_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_USING_NAMESPACE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "Widgets_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets/dialogs"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0/QtWidgets"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "OBJCXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 52,
+					"header" : "kernel/qt_widgets_pch.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.hxx -x c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILD_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_USING_NAMESPACE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "Widgets_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets/dialogs"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0/QtWidgets"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 52,
+					"header" : "kernel/qt_widgets_pch.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILD_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_USING_NAMESPACE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "Widgets_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets/dialogs"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0/QtWidgets"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 52,
+					"header" : "kernel/qt_widgets_pch.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				4,
+				95,
+				96,
+				283
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.objcxx.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.objcxx.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILD_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_USING_NAMESPACE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "Widgets_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets/dialogs"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0/QtWidgets"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "OBJCXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 52,
+					"header" : "kernel/qt_widgets_pch.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				260
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_BUILD_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_NO_USING_NAMESPACE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "Widgets_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/widgets/dialogs"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/6.7.0/QtWidgets"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "OBJCXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 52,
+					"header" : "kernel/qt_widgets_pch.h"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				286
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Widgets_autogen::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"id" : "Widgets_automoc_json_extraction::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "Widgets_sync_headers::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "Widgets_lib_pri::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"id" : "rcc::@bea154ae34688698a385"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		}
+	],
+	"id" : "Widgets::@9a4b53f49ed997d8bad6",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Widgets",
+	"nameOnDisk" : "libQt6Widgets_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtbase/src/widgets",
+		"source" : "qtbase/src/widgets"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				5,
+				8,
+				11,
+				13,
+				16,
+				18,
+				20,
+				22,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				39,
+				42,
+				44,
+				45,
+				47,
+				49,
+				53,
+				55,
+				58,
+				61,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				77,
+				79,
+				82,
+				85,
+				87,
+				90,
+				95,
+				96,
+				97,
+				99,
+				102,
+				105,
+				108,
+				111,
+				114,
+				115,
+				117,
+				119,
+				121,
+				124,
+				127,
+				130,
+				133,
+				136,
+				138,
+				140,
+				143,
+				145,
+				148,
+				150,
+				152,
+				155,
+				157,
+				159,
+				161,
+				164,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				182,
+				185,
+				188,
+				191,
+				193,
+				196,
+				198,
+				200,
+				203,
+				205,
+				208,
+				211,
+				213,
+				215,
+				218,
+				220,
+				222,
+				225,
+				227,
+				229,
+				232,
+				235,
+				238,
+				240,
+				242,
+				245,
+				247,
+				249,
+				251,
+				253,
+				255,
+				257,
+				260,
+				261,
+				263,
+				266,
+				268,
+				272,
+				275,
+				279,
+				281,
+				283,
+				284,
+				286,
+				288,
+				290,
+				292,
+				294,
+				296,
+				298,
+				300,
+				302,
+				304,
+				307,
+				310,
+				312,
+				315,
+				317,
+				320,
+				323,
+				326,
+				328,
+				330,
+				333,
+				336,
+				339,
+				342,
+				345,
+				348,
+				352,
+				354,
+				356,
+				358,
+				360,
+				363,
+				365,
+				367,
+				370,
+				372,
+				374,
+				377,
+				380,
+				382,
+				384,
+				386,
+				388,
+				390,
+				393,
+				396,
+				398,
+				400,
+				402,
+				404,
+				407,
+				409,
+				412,
+				417,
+				419
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				6,
+				7,
+				9,
+				10,
+				12,
+				14,
+				15,
+				17,
+				19,
+				21,
+				23,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				37,
+				38,
+				40,
+				41,
+				43,
+				46,
+				48,
+				50,
+				51,
+				52,
+				54,
+				56,
+				57,
+				59,
+				60,
+				62,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				78,
+				80,
+				81,
+				83,
+				84,
+				86,
+				88,
+				89,
+				91,
+				92,
+				93,
+				98,
+				100,
+				101,
+				103,
+				104,
+				106,
+				107,
+				109,
+				110,
+				112,
+				113,
+				116,
+				118,
+				120,
+				122,
+				123,
+				125,
+				126,
+				128,
+				129,
+				131,
+				132,
+				134,
+				135,
+				137,
+				139,
+				141,
+				142,
+				144,
+				146,
+				147,
+				149,
+				151,
+				153,
+				154,
+				156,
+				158,
+				160,
+				162,
+				163,
+				165,
+				166,
+				168,
+				170,
+				172,
+				174,
+				176,
+				178,
+				180,
+				181,
+				183,
+				184,
+				186,
+				187,
+				189,
+				190,
+				192,
+				194,
+				195,
+				197,
+				199,
+				201,
+				202,
+				204,
+				206,
+				207,
+				209,
+				210,
+				212,
+				214,
+				216,
+				217,
+				219,
+				221,
+				223,
+				224,
+				226,
+				228,
+				230,
+				231,
+				233,
+				234,
+				236,
+				237,
+				239,
+				241,
+				243,
+				244,
+				246,
+				248,
+				250,
+				252,
+				254,
+				256,
+				258,
+				259,
+				262,
+				264,
+				265,
+				267,
+				269,
+				271,
+				273,
+				274,
+				276,
+				277,
+				278,
+				280,
+				282,
+				285,
+				287,
+				289,
+				291,
+				293,
+				295,
+				297,
+				299,
+				301,
+				303,
+				305,
+				306,
+				308,
+				309,
+				311,
+				313,
+				314,
+				316,
+				318,
+				319,
+				321,
+				322,
+				324,
+				325,
+				327,
+				329,
+				331,
+				332,
+				334,
+				335,
+				337,
+				338,
+				340,
+				341,
+				343,
+				344,
+				346,
+				347,
+				349,
+				350,
+				351,
+				353,
+				355,
+				357,
+				359,
+				361,
+				362,
+				364,
+				366,
+				368,
+				369,
+				371,
+				373,
+				375,
+				376,
+				378,
+				379,
+				381,
+				383,
+				385,
+				387,
+				389,
+				391,
+				392,
+				394,
+				395,
+				397,
+				399,
+				401,
+				403,
+				405,
+				406,
+				408,
+				410,
+				411,
+				413,
+				414,
+				415,
+				416,
+				418,
+				423,
+				424
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				94,
+				270,
+				420,
+				421
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				422
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				425,
+				426,
+				427,
+				428,
+				429,
+				430
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.objcxx.hxx.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 2,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 54,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtWidgets/qtwidgetsexports.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 3,
+			"path" : "qtbase/src/widgets/compat/removed_api.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qfileiconprovider.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/itemviews/qfileiconprovider.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/itemviews/qfileiconprovider_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qapplication.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qapplication.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qapplication_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qboxlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qboxlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qgesture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qgesture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qgesture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qgesturemanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qgesturemanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qgesturerecognizer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qgesturerecognizer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qgridlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qgridlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qlayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qlayoutengine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qlayoutengine_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qlayoutitem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qlayoutitem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qsizepolicy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qsizepolicy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qstackedlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qstackedlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qstandardgestures.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qstandardgestures_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qtestsupport_widgets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qtestsupport_widgets.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qtwidgetsglobal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qtwidgetsglobal_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qwidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwidgetrepaintmanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qwidgetrepaintmanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwidgetsvariant.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwidgetwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qwidgetwindow_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwindowcontainer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/kernel/qwindowcontainer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qcommonstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qcommonstyle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qcommonstyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qcommonstylepixmaps_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qdrawutil.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qdrawutil.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qpixmapstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qpixmapstyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qpixmapstyle_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qproxystyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qproxystyle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qproxystyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstyle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstylefactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstylefactory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstylehelper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstylehelper_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstyleoption.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstyleoption.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstylepainter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstylepainter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstyleplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstyleplugin.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstylesheetstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/styles/qstylesheetstyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstylesheetstyle_default.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qcolormap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/util/qcolormap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qsystemtrayicon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/util/qsystemtrayicon.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/util/qsystemtrayicon_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qabstractscrollarea.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/widgets/qabstractscrollarea.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/widgets/qabstractscrollarea_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qfocusframe.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/widgets/qfocusframe.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qframe.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/widgets/qframe.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/widgets/qframe_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qwidgetanimator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtbase/src/widgets/widgets/qwidgetanimator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 57,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/qtwidgets-config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 57,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/qtwidgets-config_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 59,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/meta_types/qt6widgets_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 63,
+			"compileGroupIndex" : 3,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/.rcc/qrc_qstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 3,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/.rcc/qrc_qstyle1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 68,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qmacgesturerecognizer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 68,
+			"path" : "qtbase/src/widgets/kernel/qmacgesturerecognizer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 70,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/effects/qgraphicseffect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 70,
+			"path" : "qtbase/src/widgets/effects/qgraphicseffect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 70,
+			"path" : "qtbase/src/widgets/effects/qgraphicseffect_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 70,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/effects/qpixmapfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 70,
+			"path" : "qtbase/src/widgets/effects/qpixmapfilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qtbase/src/widgets/kernel/qaction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qaction_widgets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qtbase/src/widgets/kernel/qaction_widgets_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qtbase/src/widgets/kernel/qactiongroup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwidgetaction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qtbase/src/widgets/kernel/qwidgetaction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qtbase/src/widgets/kernel/qwidgetaction_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 74,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qformlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 74,
+			"path" : "qtbase/src/widgets/kernel/qformlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 76,
+			"path" : "qtbase/src/widgets/kernel/qshortcut.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 76,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qshortcut_widgets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 78,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qtooltip.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 78,
+			"path" : "qtbase/src/widgets/kernel/qtooltip.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 80,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/kernel/qwhatsthis.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 80,
+			"path" : "qtbase/src/widgets/kernel/qwhatsthis.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 82,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qstyleanimation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 82,
+			"path" : "qtbase/src/widgets/styles/qstyleanimation_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 84,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qwindowsstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 84,
+			"path" : "qtbase/src/widgets/styles/qwindowsstyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 84,
+			"path" : "qtbase/src/widgets/styles/qwindowsstyle_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/styles/qfusionstyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 86,
+			"path" : "qtbase/src/widgets/styles/qfusionstyle_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"path" : "qtbase/src/widgets/styles/qfusionstyle_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 88,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qabstractbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 88,
+			"path" : "qtbase/src/widgets/widgets/qabstractbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 88,
+			"path" : "qtbase/src/widgets/widgets/qabstractbutton_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 90,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qabstractslider.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 90,
+			"path" : "qtbase/src/widgets/widgets/qabstractslider.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 90,
+			"path" : "qtbase/src/widgets/widgets/qabstractslider_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 92,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qbuttongroup.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 92,
+			"path" : "qtbase/src/widgets/widgets/qbuttongroup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 92,
+			"path" : "qtbase/src/widgets/widgets/qbuttongroup_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 94,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qcalendarwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 94,
+			"path" : "qtbase/src/widgets/widgets/qcalendarwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 96,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qcheckbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 96,
+			"path" : "qtbase/src/widgets/widgets/qcheckbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 98,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qcombobox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 98,
+			"path" : "qtbase/src/widgets/widgets/qcombobox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 98,
+			"path" : "qtbase/src/widgets/widgets/qcombobox_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 100,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qcommandlinkbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 100,
+			"path" : "qtbase/src/widgets/widgets/qcommandlinkbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 102,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qdatetimeedit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 102,
+			"path" : "qtbase/src/widgets/widgets/qdatetimeedit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 102,
+			"path" : "qtbase/src/widgets/widgets/qdatetimeedit_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 104,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qdial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 104,
+			"path" : "qtbase/src/widgets/widgets/qdial.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qdockarealayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 106,
+			"path" : "qtbase/src/widgets/widgets/qdockarealayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qdockwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 106,
+			"path" : "qtbase/src/widgets/widgets/qdockwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 106,
+			"path" : "qtbase/src/widgets/widgets/qdockwidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 108,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qeffects.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 108,
+			"path" : "qtbase/src/widgets/widgets/qeffects_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 110,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qfontcombobox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 110,
+			"path" : "qtbase/src/widgets/widgets/qfontcombobox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 112,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qgroupbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 112,
+			"path" : "qtbase/src/widgets/widgets/qgroupbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 114,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qkeysequenceedit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 114,
+			"path" : "qtbase/src/widgets/widgets/qkeysequenceedit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 114,
+			"path" : "qtbase/src/widgets/widgets/qkeysequenceedit_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 116,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qlabel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 116,
+			"path" : "qtbase/src/widgets/widgets/qlabel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 116,
+			"path" : "qtbase/src/widgets/widgets/qlabel_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 118,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qlcdnumber.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 118,
+			"path" : "qtbase/src/widgets/widgets/qlcdnumber.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qlineedit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtbase/src/widgets/widgets/qlineedit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qlineedit_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtbase/src/widgets/widgets/qlineedit_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qwidgetlinecontrol.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtbase/src/widgets/widgets/qwidgetlinecontrol_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 122,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qmainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 122,
+			"path" : "qtbase/src/widgets/widgets/qmainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 122,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qmainwindowlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 122,
+			"path" : "qtbase/src/widgets/widgets/qmainwindowlayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 124,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qmdiarea.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 124,
+			"path" : "qtbase/src/widgets/widgets/qmdiarea.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 124,
+			"path" : "qtbase/src/widgets/widgets/qmdiarea_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 124,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qmdisubwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 124,
+			"path" : "qtbase/src/widgets/widgets/qmdisubwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 124,
+			"path" : "qtbase/src/widgets/widgets/qmdisubwindow_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 126,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qmenu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 126,
+			"path" : "qtbase/src/widgets/widgets/qmenu.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 126,
+			"path" : "qtbase/src/widgets/widgets/qmenu_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 128,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qmenubar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 128,
+			"path" : "qtbase/src/widgets/widgets/qmenubar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 128,
+			"path" : "qtbase/src/widgets/widgets/qmenubar_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 130,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qprogressbar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 130,
+			"path" : "qtbase/src/widgets/widgets/qprogressbar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 132,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qpushbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 132,
+			"path" : "qtbase/src/widgets/widgets/qpushbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 132,
+			"path" : "qtbase/src/widgets/widgets/qpushbutton_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 134,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qradiobutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 134,
+			"path" : "qtbase/src/widgets/widgets/qradiobutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 136,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qwidgetresizehandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 136,
+			"path" : "qtbase/src/widgets/widgets/qwidgetresizehandler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 138,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qdialogbuttonbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 138,
+			"path" : "qtbase/src/widgets/widgets/qdialogbuttonbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 138,
+			"path" : "qtbase/src/widgets/widgets/qdialogbuttonbox_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 140,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qrubberband.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 140,
+			"path" : "qtbase/src/widgets/widgets/qrubberband.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 142,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qscrollarea.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 142,
+			"path" : "qtbase/src/widgets/widgets/qscrollarea.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 142,
+			"path" : "qtbase/src/widgets/widgets/qscrollarea_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 144,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qscrollbar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 144,
+			"path" : "qtbase/src/widgets/widgets/qscrollbar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 144,
+			"path" : "qtbase/src/widgets/widgets/qscrollbar_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 146,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qsizegrip.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 146,
+			"path" : "qtbase/src/widgets/widgets/qsizegrip.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 148,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qslider.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 148,
+			"path" : "qtbase/src/widgets/widgets/qslider.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 150,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qabstractspinbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 150,
+			"path" : "qtbase/src/widgets/widgets/qabstractspinbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 150,
+			"path" : "qtbase/src/widgets/widgets/qabstractspinbox_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 150,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qspinbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 150,
+			"path" : "qtbase/src/widgets/widgets/qspinbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 152,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qsplashscreen.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 152,
+			"path" : "qtbase/src/widgets/widgets/qsplashscreen.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 154,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qsplitter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 154,
+			"path" : "qtbase/src/widgets/widgets/qsplitter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 154,
+			"path" : "qtbase/src/widgets/widgets/qsplitter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 156,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qstackedwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 156,
+			"path" : "qtbase/src/widgets/widgets/qstackedwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 158,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qstatusbar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 158,
+			"path" : "qtbase/src/widgets/widgets/qstatusbar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 160,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtabbar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 160,
+			"path" : "qtbase/src/widgets/widgets/qtabbar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 160,
+			"path" : "qtbase/src/widgets/widgets/qtabbar_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 162,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qplaintextedit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 162,
+			"path" : "qtbase/src/widgets/widgets/qplaintextedit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 162,
+			"path" : "qtbase/src/widgets/widgets/qplaintextedit_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 162,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtextedit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 162,
+			"path" : "qtbase/src/widgets/widgets/qtextedit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 162,
+			"path" : "qtbase/src/widgets/widgets/qtextedit_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 164,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtextbrowser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 164,
+			"path" : "qtbase/src/widgets/widgets/qtextbrowser.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 166,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtabwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 166,
+			"path" : "qtbase/src/widgets/widgets/qtabwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 168,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 168,
+			"path" : "qtbase/src/widgets/widgets/qtoolbar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 168,
+			"path" : "qtbase/src/widgets/widgets/qtoolbar_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 168,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbararealayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 168,
+			"path" : "qtbase/src/widgets/widgets/qtoolbararealayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 168,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbarlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 168,
+			"path" : "qtbase/src/widgets/widgets/qtoolbarlayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 168,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbarseparator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 168,
+			"path" : "qtbase/src/widgets/widgets/qtoolbarseparator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 170,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 170,
+			"path" : "qtbase/src/widgets/widgets/qtoolbox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 172,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbarextension.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 172,
+			"path" : "qtbase/src/widgets/widgets/qtoolbarextension_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 172,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qtoolbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 172,
+			"path" : "qtbase/src/widgets/widgets/qtoolbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 174,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/widgets/qwidgettextcontrol.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 174,
+			"path" : "qtbase/src/widgets/widgets/qwidgettextcontrol_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 174,
+			"path" : "qtbase/src/widgets/widgets/qwidgettextcontrol_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 176,
+			"compileGroupIndex" : 4,
+			"path" : "qtbase/src/widgets/widgets/qmenu_mac.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 178,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qcolordialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 178,
+			"path" : "qtbase/src/widgets/dialogs/qcolordialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 180,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 180,
+			"path" : "qtbase/src/widgets/dialogs/qdialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 180,
+			"path" : "qtbase/src/widgets/dialogs/qdialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 182,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qerrormessage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 182,
+			"path" : "qtbase/src/widgets/dialogs/qerrormessage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 184,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qfiledialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 184,
+			"path" : "qtbase/src/widgets/dialogs/qfiledialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 184,
+			"path" : "qtbase/src/widgets/dialogs/qfiledialog.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 184,
+			"path" : "qtbase/src/widgets/dialogs/qfiledialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 184,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qsidebar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 184,
+			"path" : "qtbase/src/widgets/dialogs/qsidebar_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 186,
+			"path" : "qtbase/src/widgets/dialogs/qfilesystemmodel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 188,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qfontdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 188,
+			"path" : "qtbase/src/widgets/dialogs/qfontdialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 188,
+			"path" : "qtbase/src/widgets/dialogs/qfontdialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 190,
+			"path" : "qtbase/src/widgets/dialogs/qfscompleter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 192,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qinputdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 192,
+			"path" : "qtbase/src/widgets/dialogs/qinputdialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 194,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qmessagebox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 194,
+			"path" : "qtbase/src/widgets/dialogs/qmessagebox.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 198,
+			"compileGroupIndex" : 3,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/.rcc/qrc_qmessagebox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 200,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/dialogs/qprogressdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 200,
+			"path" : "qtbase/src/widgets/dialogs/qprogressdialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 202,
+			"compileGroupIndex" : 5,
+			"path" : "qtbase/src/widgets/dialogs/qwizard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 202,
+			"path" : "qtbase/src/widgets/dialogs/qwizard.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/complexwidgets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/complexwidgets_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblemenu.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblemenu_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblewidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblewidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblewidgetfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblewidgetfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblewidgets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/qaccessiblewidgets_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/rangecontrols.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/rangecontrols_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/simplewidgets.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtbase/src/widgets/accessible/simplewidgets_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 206,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/accessible/itemviews.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 206,
+			"path" : "qtbase/src/widgets/accessible/itemviews_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qabstractitemdelegate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qabstractitemdelegate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qabstractitemdelegate_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qabstractitemview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qabstractitemview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qabstractitemview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qbsptree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qbsptree_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qheaderview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qheaderview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qheaderview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qitemdelegate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qitemdelegate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qitemeditorfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qitemeditorfactory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qitemeditorfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qstyleditemdelegate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qstyleditemdelegate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 208,
+			"path" : "qtbase/src/widgets/itemviews/qwidgetitemdata_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 210,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qcolumnview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 210,
+			"path" : "qtbase/src/widgets/itemviews/qcolumnview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 210,
+			"path" : "qtbase/src/widgets/itemviews/qcolumnview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 210,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qcolumnviewgrip.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 210,
+			"path" : "qtbase/src/widgets/itemviews/qcolumnviewgrip_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 212,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qdatawidgetmapper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 212,
+			"path" : "qtbase/src/widgets/itemviews/qdatawidgetmapper.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 214,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qlistview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 214,
+			"path" : "qtbase/src/widgets/itemviews/qlistview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 214,
+			"path" : "qtbase/src/widgets/itemviews/qlistview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 216,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qlistwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 216,
+			"path" : "qtbase/src/widgets/itemviews/qlistwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 216,
+			"path" : "qtbase/src/widgets/itemviews/qlistwidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 218,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qtableview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 218,
+			"path" : "qtbase/src/widgets/itemviews/qtableview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 218,
+			"path" : "qtbase/src/widgets/itemviews/qtableview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 220,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qtablewidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 220,
+			"path" : "qtbase/src/widgets/itemviews/qtablewidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 220,
+			"path" : "qtbase/src/widgets/itemviews/qtablewidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 222,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qtreeview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 222,
+			"path" : "qtbase/src/widgets/itemviews/qtreeview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 222,
+			"path" : "qtbase/src/widgets/itemviews/qtreeview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 224,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qtreewidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 224,
+			"path" : "qtbase/src/widgets/itemviews/qtreewidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 224,
+			"path" : "qtbase/src/widgets/itemviews/qtreewidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 224,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/itemviews/qtreewidgetitemiterator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 224,
+			"path" : "qtbase/src/widgets/itemviews/qtreewidgetitemiterator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 224,
+			"path" : "qtbase/src/widgets/itemviews/qtreewidgetitemiterator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraph_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsanchorlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsanchorlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsanchorlayout_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsanchorlayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsgridlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsgridlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsgridlayoutengine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsgridlayoutengine_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsitem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsitem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsitem_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayout_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayout_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayoutitem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayoutitem.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayoutitem_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayoutstyleinfo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslayoutstyleinfo_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslinearlayout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicslinearlayout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsproxywidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsproxywidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsproxywidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscene.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscene.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscene_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscene_bsp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscene_bsp_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscenebsptreeindex.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscenebsptreeindex_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicssceneevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicssceneevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicssceneindex.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicssceneindex_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscenelinearindex.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsscenelinearindex_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicstransform.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicstransform.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicstransform_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsview_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicswidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicswidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicswidget_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicswidget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qsimplex_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"path" : "qtbase/src/widgets/graphicsview/qsimplex_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsitemanimation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtbase/src/widgets/graphicsview/qgraphicsitemanimation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 230,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qcompleter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 230,
+			"path" : "qtbase/src/widgets/util/qcompleter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 230,
+			"path" : "qtbase/src/widgets/util/qcompleter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qflickgesture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 232,
+			"path" : "qtbase/src/widgets/util/qflickgesture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qscroller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 232,
+			"path" : "qtbase/src/widgets/util/qscroller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"path" : "qtbase/src/widgets/util/qscroller_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qscrollerproperties.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 232,
+			"path" : "qtbase/src/widgets/util/qscrollerproperties.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"path" : "qtbase/src/widgets/util/qscrollerproperties_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 234,
+			"path" : "qtbase/src/widgets/util/qundostack.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 236,
+			"path" : "qtbase/src/widgets/util/qundogroup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 238,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qundoview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 238,
+			"path" : "qtbase/src/widgets/util/qundoview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 240,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/widgets/util/qsystemtrayicon_qpa.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 242,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/preliminary_prl_for_Widgets_step2_Debug.prl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 244,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6Widgets_debug.pc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/CMakeFiles/Widgets.dir/cmake_pch.objcxx.hxx",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/Widgets_autogen/include/dialogs/ui_qfiledialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/meta_types/qt6widgets_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/.rcc/qrc_qstyle.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/.rcc/qrc_qstyle1.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/.rcc/qrc_qmessagebox.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/widgets/preliminary_prl_for_Widgets_step2_Debug.prl.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6Widgets_debug.pc.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

@@ -1,0 +1,956 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/plugins/sceneparsers/libgltfsceneimport_debug.dylib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt_internal_add_plugin",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"qt_internal_add_module",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qt3d/src/plugins/sceneparsers/gltf/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qt3d/src/extras/CMakeLists.txt",
+			"qt3d/src/core/CMakeLists.txt",
+			"qt3d/src/render/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qt3d/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2169,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 461,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 7
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 336,
+				"parent" : 1
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 9
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 10,
+				"file" : 7,
+				"line" : 10,
+				"parent" : 11
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 600,
+				"parent" : 12
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 13
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 10,
+				"parent" : 15
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 600,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 17
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 10,
+				"parent" : 19
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 600,
+				"parent" : 20
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 21
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 361,
+				"parent" : 23
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 24
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 376,
+				"parent" : 23
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 26
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 962,
+				"parent" : 23
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 28
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 576,
+				"parent" : 30
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 31
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 605,
+				"parent" : 30
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 33
+			},
+			{
+				"file" : 10,
+				"line" : -1,
+				"parent" : 23
+			},
+			{
+				"command" : 13,
+				"file" : 13,
+				"line" : 1,
+				"parent" : 35
+			},
+			{
+				"command" : 12,
+				"file" : 6,
+				"line" : 902,
+				"parent" : 36
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 248,
+				"parent" : 37
+			},
+			{
+				"file" : 11,
+				"line" : -1,
+				"parent" : 30
+			},
+			{
+				"command" : 13,
+				"file" : 13,
+				"line" : 1,
+				"parent" : 39
+			},
+			{
+				"command" : 12,
+				"file" : 6,
+				"line" : 902,
+				"parent" : 40
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 248,
+				"parent" : 41
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 13,
+				"line" : 1,
+				"parent" : 43
+			},
+			{
+				"command" : 12,
+				"file" : 6,
+				"line" : 902,
+				"parent" : 44
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 248,
+				"parent" : 45
+			},
+			{
+				"file" : 9,
+				"line" : -1,
+				"parent" : 19
+			},
+			{
+				"command" : 13,
+				"file" : 13,
+				"line" : 1,
+				"parent" : 47
+			},
+			{
+				"command" : 12,
+				"file" : 6,
+				"line" : 902,
+				"parent" : 48
+			},
+			{
+				"command" : 11,
+				"file" : 12,
+				"line" : 248,
+				"parent" : 49
+			},
+			{
+				"file" : 17
+			},
+			{
+				"command" : 18,
+				"file" : 17,
+				"line" : 42,
+				"parent" : 51
+			},
+			{
+				"command" : 17,
+				"file" : 16,
+				"line" : 597,
+				"parent" : 52
+			},
+			{
+				"command" : 16,
+				"file" : 16,
+				"line" : 411,
+				"parent" : 53
+			},
+			{
+				"command" : 15,
+				"file" : 16,
+				"line" : 249,
+				"parent" : 54
+			},
+			{
+				"file" : 15,
+				"parent" : 55
+			},
+			{
+				"command" : 15,
+				"file" : 15,
+				"line" : 360,
+				"parent" : 56
+			},
+			{
+				"file" : 14,
+				"parent" : 57
+			},
+			{
+				"command" : 14,
+				"file" : 14,
+				"line" : 34,
+				"parent" : 58
+			},
+			{
+				"command" : 20,
+				"file" : 1,
+				"line" : 370,
+				"parent" : 1
+			},
+			{
+				"command" : 19,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 60
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 2236,
+				"parent" : 2
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 9
+			},
+			{
+				"command" : 22,
+				"file" : 1,
+				"line" : 368,
+				"parent" : 1
+			},
+			{
+				"command" : 21,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 64
+			},
+			{
+				"command" : 21,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 60
+			},
+			{
+				"command" : 23,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 9
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 9
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 59,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 59,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 61,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "GLTFSceneImportPlugin_EXPORTS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_3DEXTRAS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_3DINPUT_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_3DLOGIC_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_3DRENDER_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 62,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 63,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 65,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 66,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 62,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 63,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/plugins/sceneparsers/gltf/GLTFSceneImportPlugin_autogen/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/plugins/sceneparsers/gltf"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/plugins/sceneparsers/gltf"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/core"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DExtras"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DLogic"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0/Qt3DRender"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					10
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 10,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "OpenGL::@4647851a72f814f2421b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "GLTFSceneImportPlugin_autogen::@ef151bb26daeb5519caf"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Concurrent::@6debff8c4cb0dde4990d"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "3DCore::@c624818a73eafba92541"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "3DCore_sync_headers::@c624818a73eafba92541"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "3DLogic::@2786a6baba2b76eda098"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "3DInput::@69a23d69950dfd6af6e1"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "3DRender::@a247953c8cd425a8752d"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "3DRender_sync_headers::@a247953c8cd425a8752d"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "3DExtras::@0b2deaa323775a837749"
+		}
+	],
+	"id" : "GLTFSceneImportPlugin::@ef151bb26daeb5519caf",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "./plugins/sceneparsers"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path/../../lib -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt63DExtras_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "../../../../../qtbase/lib/libQt63DInput_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "../../../../../qtbase/lib/libQt63DLogic_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt63DRender_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt63DCore_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "../../../../../qtbase/lib/libQt6Network_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "../../../../../qtbase/lib/libQt6OpenGL_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "../../../../../qtbase/lib/libQt6Concurrent_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "GLTFSceneImportPlugin",
+	"nameOnDisk" : "libgltfsceneimport_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qt3d/src/plugins/sceneparsers/gltf",
+		"source" : "qt3d/src/plugins/sceneparsers/gltf"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/plugins/sceneparsers/gltf/GLTFSceneImportPlugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 68,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/plugins/sceneparsers/gltf/gltfimporter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 68,
+			"path" : "qt3d/src/plugins/sceneparsers/gltf/gltfimporter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 68,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/plugins/sceneparsers/gltf/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

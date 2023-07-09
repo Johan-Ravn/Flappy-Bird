@@ -1,0 +1,34 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/BundledTcime_autogen/mocs_compilation.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/BundledTcime_autogen/mocs_compilation.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/BundledTcime_autogen/mocs_compilation.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/BundledTcime_autogen/mocs_compilation.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/BundledTcime_autogen/mocs_compilation.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/cangjiedictionary.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjiedictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjiedictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjiedictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjiedictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/cangjietable.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjietable.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjietable.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjietable.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cangjietable.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx.cxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx.pch" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx.pch.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx.pch" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx.pch.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/phrasedictionary.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/phrasedictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/phrasedictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/phrasedictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/phrasedictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/worddictionary.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/worddictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/worddictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/worddictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/worddictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/zhuyindictionary.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyindictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyindictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyindictionary.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyindictionary.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/zhuyintable.cpp" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyintable.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyintable.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/cmake_pch.hxx" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyintable.cpp.o" "gcc" "qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/CMakeFiles/BundledTcime.dir/zhuyintable.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

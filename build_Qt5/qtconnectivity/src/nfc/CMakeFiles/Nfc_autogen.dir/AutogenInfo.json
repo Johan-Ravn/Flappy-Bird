@@ -1,0 +1,358 @@
+{
+	"BUILD_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.26.4/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/CMakeLists.txt",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/modulecppexports.h.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/configure.cmake",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/cmake/FindPCSCLITE.cmake",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtModuleConfig.cmake.in",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtCMakePackageVersionFile.cmake.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/ModuleDescription.json.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/QtFileConfigure.txt.in",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/cmake/PkgConfigLibrary.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/qtnfcexports.h",
+			"Mu",
+			"EMR72TUZPV/moc_qtnfcexports.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx",
+			"Mu",
+			"64DBPCCSNU/moc_cmake_pch.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/ndef/qndefaccessfsm_p.h",
+			"Mu",
+			"YHEK3JJNEX/moc_qndefaccessfsm_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/ndef/qnfctagtype4ndeffsm_p.h",
+			"Mu",
+			"YHEK3JJNEX/moc_qnfctagtype4ndeffsm_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcsc_p.h",
+			"Mu",
+			"CQNNGYK7HN/moc_qpcsc_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcsccard_p.h",
+			"Mu",
+			"CQNNGYK7HN/moc_qpcsccard_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcscmanager_p.h",
+			"Mu",
+			"CQNNGYK7HN/moc_qpcscmanager_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcscslot_p.h",
+			"Mu",
+			"CQNNGYK7HN/moc_qpcscslot_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qapduutils_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qapduutils_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndeffilter.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndeffilter.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefmessage.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefmessage.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfcsmartposterrecord.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefnfcsmartposterrecord.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfcsmartposterrecord_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefnfcsmartposterrecord_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfctextrecord.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefnfctextrecord.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfcurirecord.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefnfcurirecord.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefrecord.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefrecord.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefrecord_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qndefrecord_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldmanager.h",
+			"Mu",
+			"EWIEGA46WW/moc_qnearfieldmanager.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldmanager_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qnearfieldmanager_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldmanager_pcsc_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qnearfieldmanager_pcsc_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldtarget.h",
+			"Mu",
+			"EWIEGA46WW/moc_qnearfieldtarget.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldtarget_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qnearfieldtarget_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldtarget_pcsc_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qnearfieldtarget_pcsc_p.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qtnfcglobal.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtnfcglobal.cpp",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qtnfcglobal_p.h",
+			"Mu",
+			"EWIEGA46WW/moc_qtnfcglobal_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GL_SILENCE_DEPRECATION",
+		"Nfc_EXPORTS",
+		"PCSC_NFC",
+		"QT_ASCII_CAST_WARNINGS",
+		"QT_BUILDING_QT",
+		"QT_BUILD_NFC_LIB",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_UP_TO=0x050000",
+		"QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH",
+		"QT_MOC_COMPAT",
+		"QT_NO_AS_CONST",
+		"QT_NO_AS_CONST=1",
+		"QT_NO_CAST_TO_ASCII",
+		"QT_NO_EXCEPTIONS",
+		"QT_NO_FOREACH",
+		"QT_NO_JAVA_STYLE_ITERATORS",
+		"QT_NO_NARROWING_CONVERSIONS_IN_CONNECT",
+		"QT_NO_QEXCHANGE",
+		"QT_STRICT_QLIST_ITERATORS",
+		"QT_USE_QSTRINGBUILDER",
+		"QT_WARN_DEPRECATED_UP_TO=0x070000",
+		"_LARGEFILE64_SOURCE",
+		"_LARGEFILE_SOURCE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/6.7.0",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/6.7.0/QtNfc",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.26.4/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/qtnfc-config.h",
+		"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/qtnfc-config_p.h"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx.cxx",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/ndef/qnfctagtype4ndeffsm.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcsc.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcsccard.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcscmanager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/pcsc/qpcscslot.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qapduutils.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndeffilter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefmessage.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfcsmartposterrecord.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfctextrecord.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefnfcurirecord.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qndefrecord.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldmanager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldmanager_pcsc.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldtarget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldtarget_p.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc/qnearfieldtarget_pcsc.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/VirtualKeyboard/Layouts">
+    <file alias="zh_CN/dialpad.fallback">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/layouts/zh_CN/dialpad.fallback</file>
+    <file alias="zh_CN/digits.fallback">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/layouts/zh_CN/digits.fallback</file>
+    <file alias="zh_CN/main.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/layouts/zh_CN/main.qml</file>
+    <file alias="zh_CN/numbers.fallback">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/layouts/zh_CN/numbers.fallback</file>
+    <file alias="zh_CN/symbols.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/layouts/zh_CN/symbols.qml</file>
+  </qresource>
+</RCC>
+

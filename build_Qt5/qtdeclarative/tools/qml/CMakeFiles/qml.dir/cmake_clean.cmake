@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../../qtbase/bin/qml"
+  "../../../qtbase/bin/qml.pdb"
+  ".rcc/qmlcache/qml_ResizeItemToWindow_qml.cpp"
+  ".rcc/qmlcache/qml_ResizeWindowToItem_qml.cpp"
+  ".rcc/qmlcache/qml_default_qml.cpp"
+  ".rcc/qmlcache/qml_resizeToItem_qml.cpp"
+  ".rcc/qrc_qmake_QmlRuntime_Config.cpp"
+  ".rcc/qrc_qml_raw_qml_0.cpp"
+  "CMakeFiles/qml_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/qml_autogen.dir/ParseCache.txt"
+  "qml_autogen"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_ResizeItemToWindow_qml.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_ResizeItemToWindow_qml.cpp.o.d"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_ResizeWindowToItem_qml.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_ResizeWindowToItem_qml.cpp.o.d"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_default_qml.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_default_qml.cpp.o.d"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_qmlcache_loader.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_resizeToItem_qml.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qmlcache/qml_resizeToItem_qml.cpp.o.d"
+  "CMakeFiles/qml.dir/.rcc/qrc_qmake_QmlRuntime_Config.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qrc_qmake_QmlRuntime_Config.cpp.o.d"
+  "CMakeFiles/qml.dir/.rcc/qrc_qml_raw_qml_0.cpp.o"
+  "CMakeFiles/qml.dir/.rcc/qrc_qml_raw_qml_0.cpp.o.d"
+  "CMakeFiles/qml.dir/main.cpp.o"
+  "CMakeFiles/qml.dir/main.cpp.o.d"
+  "CMakeFiles/qml.dir/qml_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/qml.dir/qml_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/qml.dir/qml_qmltyperegistrations.cpp.o"
+  "CMakeFiles/qml.dir/qml_qmltyperegistrations.cpp.o.d"
+  "QmlRuntime/Config/qml.qmltypes"
+  "meta_types/qt6qml_debug_metatypes.json"
+  "meta_types/qt6qml_debug_metatypes.json.gen"
+  "qml_qmltyperegistrations.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/qml.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

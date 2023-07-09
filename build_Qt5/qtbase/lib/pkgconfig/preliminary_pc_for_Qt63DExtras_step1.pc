@@ -1,0 +1,14 @@
+prefix=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+$<$<BOOL:>:mkspecsdir=${prefix}/mkspecs>
+$<1: >
+Name: Qt6 3DExtras
+Description: Qt 3DExtras module
+Version: 6.7.0
+Libs: $<$<NOT:$<STREQUAL:$<TARGET_PROPERTY:Qt6::3DExtras,TYPE>,INTERFACE_LIBRARY>>:-L${libdir} -lQt63DExtras> $<$<BOOL:loose_link_options-NOTFOUND>:$<JOIN:$<REMOVE_DUPLICATES:loose_link_options-NOTFOUND>, >> $<JOIN:$<REMOVE_DUPLICATES:>, >
+Cflags: $<$<BOOL:${includedir}/Qt3DExtras;${includedir}>:-I$<JOIN:$<REMOVE_DUPLICATES:${includedir}/Qt3DExtras;${includedir}>, -I>> $<$<BOOL:QT_3DEXTRAS_LIB>:-D$<JOIN:$<REMOVE_DUPLICATES:QT_3DEXTRAS_LIB>, -D>>
+Requires: $<JOIN:$<REMOVE_DUPLICATES:Qt6Core;Qt6Gui;Qt63DCore;Qt63DInput;Qt63DLogic;Qt63DRender>, >

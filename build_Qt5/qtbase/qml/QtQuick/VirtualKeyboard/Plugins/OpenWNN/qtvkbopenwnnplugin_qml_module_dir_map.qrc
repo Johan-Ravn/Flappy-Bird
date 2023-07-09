@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt-project.org/imports/QtQuick/VirtualKeyboard/Plugins/OpenWNN">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQuick/VirtualKeyboard/Plugins/OpenWNN</file>
+
+  </qresource>
+</RCC>

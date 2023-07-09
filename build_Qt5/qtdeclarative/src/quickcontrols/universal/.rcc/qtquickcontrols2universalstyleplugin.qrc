@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Universal">
+    <file alias="images/checkmark.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/checkmark.png</file>
+    <file alias="images/checkmark@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/checkmark@2x.png</file>
+    <file alias="images/checkmark@3x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/checkmark@3x.png</file>
+    <file alias="images/checkmark@4x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/checkmark@4x.png</file>
+    <file alias="images/downarrow.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/downarrow.png</file>
+    <file alias="images/downarrow@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/downarrow@2x.png</file>
+    <file alias="images/downarrow@3x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/downarrow@3x.png</file>
+    <file alias="images/downarrow@4x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/downarrow@4x.png</file>
+    <file alias="images/leftarrow.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/leftarrow.png</file>
+    <file alias="images/leftarrow@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/leftarrow@2x.png</file>
+    <file alias="images/leftarrow@3x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/leftarrow@3x.png</file>
+    <file alias="images/leftarrow@4x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/leftarrow@4x.png</file>
+    <file alias="images/rightarrow.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/rightarrow.png</file>
+    <file alias="images/rightarrow@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/rightarrow@2x.png</file>
+    <file alias="images/rightarrow@3x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/rightarrow@3x.png</file>
+    <file alias="images/rightarrow@4x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/universal/images/rightarrow@4x.png</file>
+  </qresource>
+</RCC>
+

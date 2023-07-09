@@ -1,0 +1,3 @@
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/winrt_geolocation/CMakeFiles/config_test_winrt.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/winrt_geolocation/CMakeFiles/edit_cache.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/winrt_geolocation/CMakeFiles/rebuild_cache.dir

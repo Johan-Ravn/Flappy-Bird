@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin",
+			"qt_internal_add_qml_module"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtdeclarative/src/qml/Qt6QmlBuildInternals.cmake",
+			"qtdeclarative/src/quickcontrols/universal/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 217,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "./qml/QtQuick/Controls/Universal",
+			"paths" : 
+			[
+				"qtbase/qml/QtQuick/Controls/Universal/libqtquickcontrols2universalstyleplugin_debug.dylib"
+			],
+			"targetId" : "qtquickcontrols2universalstyleplugin::@26392891d9b1a1e52c80",
+			"targetIndex" : 3116,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/quickcontrols/universal",
+		"source" : "qtdeclarative/src/quickcontrols/universal"
+	}
+}

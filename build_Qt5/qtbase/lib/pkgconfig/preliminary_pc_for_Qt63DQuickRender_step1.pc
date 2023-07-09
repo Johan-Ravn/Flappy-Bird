@@ -1,0 +1,14 @@
+prefix=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+$<$<BOOL:>:mkspecsdir=${prefix}/mkspecs>
+$<1: >
+Name: Qt6 3DQuickRender
+Description: Qt 3DQuickRender module
+Version: 6.7.0
+Libs: $<$<NOT:$<STREQUAL:$<TARGET_PROPERTY:Qt6::3DQuickRender,TYPE>,INTERFACE_LIBRARY>>:-L${libdir} -lQt63DQuickRender> $<$<BOOL:loose_link_options-NOTFOUND>:$<JOIN:$<REMOVE_DUPLICATES:loose_link_options-NOTFOUND>, >> $<JOIN:$<REMOVE_DUPLICATES:>, >
+Cflags: $<$<BOOL:${includedir}/Qt3DQuickRender;${includedir}>:-I$<JOIN:$<REMOVE_DUPLICATES:${includedir}/Qt3DQuickRender;${includedir}>, -I>> $<$<BOOL:QT_3DQUICKRENDER_LIB>:-D$<JOIN:$<REMOVE_DUPLICATES:QT_3DQUICKRENDER_LIB>, -D>>
+Requires: $<JOIN:$<REMOVE_DUPLICATES:Qt63DCore;Qt63DQuick;Qt63DRender;Qt6Core;Qt6Gui;Qt6Qml>, >

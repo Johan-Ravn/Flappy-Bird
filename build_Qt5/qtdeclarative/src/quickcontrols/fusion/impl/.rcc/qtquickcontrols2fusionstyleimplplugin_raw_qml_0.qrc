@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Fusion/impl/">
+    <file alias="ButtonPanel.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/fusion/impl/ButtonPanel.qml</file>
+    <file alias="CheckIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/fusion/impl/CheckIndicator.qml</file>
+    <file alias="RadioIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/fusion/impl/RadioIndicator.qml</file>
+    <file alias="SliderGroove.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/fusion/impl/SliderGroove.qml</file>
+    <file alias="SliderHandle.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/fusion/impl/SliderHandle.qml</file>
+    <file alias="SwitchIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/fusion/impl/SwitchIndicator.qml</file>
+  </qresource>
+</RCC>
+

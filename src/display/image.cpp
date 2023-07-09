@@ -1,10 +1,10 @@
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "image.hpp"
-#include "stb_image.h"
 #include "stb_image_write.h"
+#include "stb_image.h"
+#include "image.hpp"
 
-Image::Image(const char *filename)
+Image::Image(const char *filename) : filename(filename)
 {
     if (read(filename))
     {
@@ -146,3 +146,5 @@ Image &Image::colorMask(float r, float g, float b) {
 
     return *this;
 }
+
+

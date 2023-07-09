@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin",
+			"qt_internal_add_qml_module"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Qml/Qt6QmlBuildInternals.cmake",
+			"qt3d/src/quick3d/imports/scene2d/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 217,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "./qml/QtQuick/Scene2D",
+			"paths" : 
+			[
+				"qtbase/qml/QtQuick/Scene2D/libqtquickscene2dplugin_debug.dylib"
+			],
+			"targetId" : "qtquickscene2dplugin::@ea2653864b8e8ed83263",
+			"targetIndex" : 3128,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qt3d/src/quick3d/imports/scene2d",
+		"source" : "qt3d/src/quick3d/imports/scene2d"
+	}
+}

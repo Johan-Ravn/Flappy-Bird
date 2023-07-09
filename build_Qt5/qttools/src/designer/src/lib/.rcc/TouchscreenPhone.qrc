@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/skins">
+    <file alias="TouchscreenPhone.skin">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/lib/../../../shared/deviceskin/skins/TouchscreenPhone.skin</file>
+  </qresource>
+</RCC>
+

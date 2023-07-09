@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/Qt5Compat/GraphicalEffects">
+    <file alias="shaders_ng/brightnesscontrast.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/brightnesscontrast.frag.qsb</file>
+    <file alias="shaders_ng/colorize.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/colorize.frag.qsb</file>
+    <file alias="shaders_ng/coloroverlay.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/coloroverlay.frag.qsb</file>
+    <file alias="shaders_ng/conicalgradient_mask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/conicalgradient_mask.frag.qsb</file>
+    <file alias="shaders_ng/conicalgradient_nomask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/conicalgradient_nomask.frag.qsb</file>
+    <file alias="shaders_ng/desaturate.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/desaturate.frag.qsb</file>
+    <file alias="shaders_ng/displace.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/displace.frag.qsb</file>
+    <file alias="shaders_ng/fastblur.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/fastblur.frag.qsb</file>
+    <file alias="shaders_ng/fastblur_internal.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/fastblur_internal.frag.qsb</file>
+    <file alias="shaders_ng/fastblur_internal.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/fastblur_internal.vert.qsb</file>
+    <file alias="shaders_ng/fastinnershadow.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/fastinnershadow.frag.qsb</file>
+    <file alias="shaders_ng/fastinnershadow_level0.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/fastinnershadow_level0.frag.qsb</file>
+    <file alias="shaders_ng/fastglow.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/fastglow.frag.qsb</file>
+    <file alias="shaders_ng/gammaadjust.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/gammaadjust.frag.qsb</file>
+    <file alias="shaders_ng/gaussianinnershadow.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/gaussianinnershadow.frag.qsb</file>
+    <file alias="shaders_ng/gaussianinnershadow_shadow.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/gaussianinnershadow_shadow.frag.qsb</file>
+    <file alias="shaders_ng/huesaturation.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/huesaturation.frag.qsb</file>
+    <file alias="shaders_ng/leveladjust.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/leveladjust.frag.qsb</file>
+    <file alias="shaders_ng/lineargradient.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/lineargradient.vert.qsb</file>
+    <file alias="shaders_ng/lineargradient_mask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/lineargradient_mask.frag.qsb</file>
+    <file alias="shaders_ng/lineargradient_nomask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/lineargradient_nomask.frag.qsb</file>
+    <file alias="shaders_ng/opacitymask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/opacitymask.frag.qsb</file>
+    <file alias="shaders_ng/opacitymask_invert.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/opacitymask_invert.frag.qsb</file>
+    <file alias="shaders_ng/radialgradient.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/radialgradient.vert.qsb</file>
+    <file alias="shaders_ng/radialgradient_mask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/radialgradient_mask.frag.qsb</file>
+    <file alias="shaders_ng/radialgradient_nomask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/radialgradient_nomask.frag.qsb</file>
+    <file alias="shaders_ng/recursiveblur.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/recursiveblur.vert.qsb</file>
+    <file alias="shaders_ng/recursiveblur.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/recursiveblur.frag.qsb</file>
+    <file alias="shaders_ng/rectangularglow.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/rectangularglow.frag.qsb</file>
+    <file alias="shaders_ng/thresholdmask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt5compat/src/imports/graphicaleffects5/shaders_ng/thresholdmask.frag.qsb</file>
+  </qresource>
+</RCC>
+

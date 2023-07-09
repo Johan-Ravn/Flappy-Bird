@@ -1,0 +1,4586 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt6QuickDialogs2QuickImpl_debug.dylib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_module",
+			"qt_internal_add_qml_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"qt6_add_qml_module",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"qt6_target_qml_sources",
+			"qt_generate_module_pri_file",
+			"add_custom_command",
+			"_qt_internal_target_enable_qmlcachegen",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"set_property",
+			"qt_update_precompiled_header",
+			"qt_update_precompiled_header_with_library",
+			"target_sources",
+			"qt_internal_generate_cpp_global_exports",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt_internal_add_resource",
+			"_qt_internal_add_shaders_impl",
+			"qt_internal_add_shaders",
+			"qt_generate_prl_file",
+			"qt_internal_generate_pkg_config_file"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtdeclarative/src/qml/Qt6QmlBuildInternals.cmake",
+			"qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtdeclarative/src/quickcontrolsimpl/CMakeLists.txt",
+			"qtdeclarative/src/quick/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtdeclarative/src/qml/Qt6QmlMacros.cmake",
+			"qtdeclarative/src/qml/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtdeclarative/src/qmlmodels/CMakeLists.txt",
+			"qtdeclarative/src/quicktemplates/CMakeLists.txt",
+			"qtdeclarative/src/quickdialogs/quickdialogsutils/CMakeLists.txt",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtdeclarative/CMakeLists.txt",
+			"qtbase/cmake/QtPrecompiledHeadersHelpers.cmake",
+			"qtbase/cmake/QtResourceHelpers.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6ShaderToolsTools/Qt6ShaderToolsMacros.cmake",
+			"qtbase/cmake/QtPrlHelpers.cmake",
+			"qtbase/cmake/QtPkgConfigHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 21,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 827,
+				"parent" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 106,
+				"parent" : 7
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 2
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 9
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 8,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 12
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 870,
+				"parent" : 13
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 8,
+				"line" : 8,
+				"parent" : 15
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 16
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 17
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 18
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 310,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 20
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 361,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 23
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 376,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 25
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 962,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 27
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 305,
+				"parent" : 1
+			},
+			{
+				"command" : 8,
+				"file" : 10,
+				"line" : 392,
+				"parent" : 29
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 492,
+				"parent" : 31
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 32
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 12,
+				"line" : 576,
+				"parent" : 34
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 35
+			},
+			{
+				"command" : 9,
+				"file" : 12,
+				"line" : 605,
+				"parent" : 34
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 37
+			},
+			{
+				"file" : 11,
+				"line" : -1,
+				"parent" : 31
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 39
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 40
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 41
+			},
+			{
+				"file" : 15
+			},
+			{
+				"file" : 15,
+				"line" : -1,
+				"parent" : 43
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 44
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 45
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 46
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 48
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 49
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 50
+			},
+			{
+				"file" : 16
+			},
+			{
+				"file" : 16,
+				"line" : -1,
+				"parent" : 52
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 53
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 54
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 55
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 11
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 57
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 58
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 59
+			},
+			{
+				"file" : 17
+			},
+			{
+				"file" : 17,
+				"line" : -1,
+				"parent" : 61
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 62
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 63
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 64
+			},
+			{
+				"file" : 9,
+				"line" : -1,
+				"parent" : 22
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 66
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 67
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 68
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 633,
+				"parent" : 29
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 2323,
+				"parent" : 70
+			},
+			{
+				"file" : 3,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 72
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 73
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 243,
+				"parent" : 74
+			},
+			{
+				"command" : 15,
+				"file" : 1,
+				"line" : 914,
+				"parent" : 73
+			},
+			{
+				"command" : 11,
+				"file" : 18,
+				"line" : 554,
+				"parent" : 76
+			},
+			{
+				"command" : 17,
+				"file" : 10,
+				"line" : 2210,
+				"parent" : 70
+			},
+			{
+				"command" : 16,
+				"file" : 10,
+				"line" : 1029,
+				"parent" : 78
+			},
+			{
+				"file" : 12,
+				"line" : -1,
+				"parent" : 34
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 1,
+				"parent" : 80
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 81
+			},
+			{
+				"command" : 11,
+				"file" : 13,
+				"line" : 248,
+				"parent" : 82
+			},
+			{
+				"file" : 22
+			},
+			{
+				"command" : 22,
+				"file" : 22,
+				"line" : 63,
+				"parent" : 84
+			},
+			{
+				"command" : 21,
+				"file" : 21,
+				"line" : 597,
+				"parent" : 85
+			},
+			{
+				"command" : 20,
+				"file" : 21,
+				"line" : 411,
+				"parent" : 86
+			},
+			{
+				"command" : 19,
+				"file" : 21,
+				"line" : 249,
+				"parent" : 87
+			},
+			{
+				"file" : 20,
+				"parent" : 88
+			},
+			{
+				"command" : 19,
+				"file" : 20,
+				"line" : 360,
+				"parent" : 89
+			},
+			{
+				"file" : 19,
+				"parent" : 90
+			},
+			{
+				"command" : 18,
+				"file" : 19,
+				"line" : 34,
+				"parent" : 91
+			},
+			{
+				"command" : 24,
+				"file" : 1,
+				"line" : 643,
+				"parent" : 2
+			},
+			{
+				"command" : 23,
+				"file" : 5,
+				"line" : 231,
+				"parent" : 93
+			},
+			{
+				"command" : 25,
+				"file" : 6,
+				"line" : 159,
+				"parent" : 9
+			},
+			{
+				"command" : 26,
+				"file" : 1,
+				"line" : 588,
+				"parent" : 2
+			},
+			{
+				"command" : 25,
+				"file" : 6,
+				"line" : 1149,
+				"parent" : 96
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 230,
+				"parent" : 93
+			},
+			{
+				"command" : 27,
+				"file" : 6,
+				"line" : 154,
+				"parent" : 9
+			},
+			{
+				"command" : 28,
+				"file" : 10,
+				"line" : 540,
+				"parent" : 29
+			},
+			{
+				"command" : 27,
+				"file" : 10,
+				"line" : 2659,
+				"parent" : 100
+			},
+			{
+				"command" : 31,
+				"file" : 6,
+				"line" : 110,
+				"parent" : 9
+			},
+			{
+				"command" : 30,
+				"file" : 23,
+				"line" : 15,
+				"parent" : 102
+			},
+			{
+				"command" : 29,
+				"file" : 23,
+				"line" : 6,
+				"parent" : 103
+			},
+			{
+				"command" : 31,
+				"file" : 6,
+				"line" : 110,
+				"parent" : 9
+			},
+			{
+				"command" : 30,
+				"file" : 23,
+				"line" : 15,
+				"parent" : 105
+			},
+			{
+				"command" : 29,
+				"file" : 23,
+				"line" : 6,
+				"parent" : 106
+			},
+			{
+				"command" : 31,
+				"file" : 6,
+				"line" : 110,
+				"parent" : 9
+			},
+			{
+				"command" : 30,
+				"file" : 23,
+				"line" : 15,
+				"parent" : 108
+			},
+			{
+				"command" : 29,
+				"file" : 23,
+				"line" : 6,
+				"parent" : 109
+			},
+			{
+				"command" : 31,
+				"file" : 6,
+				"line" : 110,
+				"parent" : 9
+			},
+			{
+				"command" : 30,
+				"file" : 23,
+				"line" : 15,
+				"parent" : 111
+			},
+			{
+				"command" : 29,
+				"file" : 23,
+				"line" : 6,
+				"parent" : 112
+			},
+			{
+				"command" : 31,
+				"file" : 6,
+				"line" : 110,
+				"parent" : 9
+			},
+			{
+				"command" : 30,
+				"file" : 23,
+				"line" : 15,
+				"parent" : 114
+			},
+			{
+				"command" : 29,
+				"file" : 23,
+				"line" : 6,
+				"parent" : 115
+			},
+			{
+				"command" : 33,
+				"file" : 1,
+				"line" : 431,
+				"parent" : 2
+			},
+			{
+				"command" : 32,
+				"file" : 1,
+				"line" : 1165,
+				"parent" : 117
+			},
+			{
+				"command" : 32,
+				"file" : 1,
+				"line" : 1178,
+				"parent" : 117
+			},
+			{
+				"command" : 32,
+				"file" : 6,
+				"line" : 138,
+				"parent" : 9
+			},
+			{
+				"command" : 34,
+				"file" : 1,
+				"line" : 740,
+				"parent" : 2
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 121
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2625,
+				"parent" : 100
+			},
+			{
+				"command" : 37,
+				"file" : 10,
+				"line" : 584,
+				"parent" : 29
+			},
+			{
+				"command" : 36,
+				"file" : 0,
+				"line" : 326,
+				"parent" : 124
+			},
+			{
+				"command" : 35,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 125
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 126
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 1067,
+				"parent" : 78
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2106,
+				"parent" : 70
+			},
+			{
+				"command" : 32,
+				"file" : 10,
+				"line" : 2259,
+				"parent" : 70
+			},
+			{
+				"command" : 37,
+				"file" : 10,
+				"line" : 2342,
+				"parent" : 70
+			},
+			{
+				"command" : 36,
+				"file" : 0,
+				"line" : 326,
+				"parent" : 223
+			},
+			{
+				"command" : 35,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 224
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 225
+			},
+			{
+				"command" : 9,
+				"file" : 3,
+				"line" : 118,
+				"parent" : 0
+			},
+			{
+				"command" : 32,
+				"file" : 6,
+				"line" : 138,
+				"parent" : 227
+			},
+			{
+				"command" : 38,
+				"file" : 3,
+				"line" : 207,
+				"parent" : 0
+			},
+			{
+				"command" : 36,
+				"file" : 24,
+				"line" : 30,
+				"parent" : 229
+			},
+			{
+				"command" : 35,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 230
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 231
+			},
+			{
+				"command" : 40,
+				"file" : 3,
+				"line" : 214,
+				"parent" : 0
+			},
+			{
+				"command" : 39,
+				"file" : 25,
+				"line" : 308,
+				"parent" : 233
+			},
+			{
+				"command" : 38,
+				"file" : 25,
+				"line" : 264,
+				"parent" : 234
+			},
+			{
+				"command" : 36,
+				"file" : 24,
+				"line" : 30,
+				"parent" : 235
+			},
+			{
+				"command" : 35,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 236
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 237
+			},
+			{
+				"command" : 41,
+				"file" : 1,
+				"line" : 913,
+				"parent" : 73
+			},
+			{
+				"command" : 32,
+				"file" : 26,
+				"line" : 205,
+				"parent" : 239
+			},
+			{
+				"command" : 42,
+				"file" : 1,
+				"line" : 915,
+				"parent" : 73
+			},
+			{
+				"command" : 32,
+				"file" : 27,
+				"line" : 149,
+				"parent" : 241
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 92,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 92,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 94,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/QuickDialogs2QuickImpl.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/QuickDialogs2QuickImpl.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_BUILD_QUICKDIALOGS2QUICKIMPL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 97,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 97,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_NO_CAST_FROM_ASCII"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 98,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKCONTROLS2IMPL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKDIALOGS2UTILS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKTEMPLATES2_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "QuickDialogs2QuickImpl_EXPORTS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/QuickDialogs2QuickImpl_autogen/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0/QtQuickDialogs2QuickImpl"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0/QtQml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsutils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/6.7.0/QtQuickDialogs2Utils"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					10
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 104,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 107,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/QtGui"
+				},
+				{
+					"backtrace" : 110,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/QtQuick"
+				},
+				{
+					"backtrace" : 113,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 116,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/QtQuickDialogs2Utils"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0,
+				4,
+				7,
+				11,
+				12,
+				14,
+				16,
+				19,
+				21,
+				23,
+				25,
+				29,
+				32,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				93,
+				95,
+				97,
+				99,
+				101,
+				103,
+				105,
+				107,
+				109,
+				111,
+				113,
+				115,
+				117,
+				119,
+				121,
+				123,
+				125,
+				127,
+				129,
+				132,
+				135,
+				138,
+				141,
+				143,
+				145
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 92,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 92,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 94,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/QuickDialogs2QuickImpl.dir/cmake_pch.hxx -x c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_BUILD_QUICKDIALOGS2QUICKIMPL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 97,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 97,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_NO_CAST_FROM_ASCII"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 98,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKCONTROLS2IMPL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKDIALOGS2UTILS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKTEMPLATES2_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "QuickDialogs2QuickImpl_EXPORTS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/QuickDialogs2QuickImpl_autogen/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0/QtQuickDialogs2QuickImpl"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0/QtQml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsutils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/6.7.0/QtQuickDialogs2Utils"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					10
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 104,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 107,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/QtGui"
+				},
+				{
+					"backtrace" : 110,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/QtQuick"
+				},
+				{
+					"backtrace" : 113,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 116,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/QtQuickDialogs2Utils"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 92,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 92,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 94,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_BUILD_QUICKDIALOGS2QUICKIMPL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 97,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 97,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_NO_CAST_FROM_ASCII"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 98,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKCONTROLS2IMPL_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKDIALOGS2UTILS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICKTEMPLATES2_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 95,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "QuickDialogs2QuickImpl_EXPORTS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/QuickDialogs2QuickImpl_autogen/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0/QtQuickDialogs2QuickImpl"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0/QtQml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsutils"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/6.7.0/QtQuickDialogs2Utils"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					10
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 104,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 107,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/QtGui"
+				},
+				{
+					"backtrace" : 110,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/QtQuick"
+				},
+				{
+					"backtrace" : 113,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 116,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2Utils/QtQuickDialogs2Utils"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				30,
+				126,
+				147,
+				148
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 10,
+			"id" : "QmlIntegration::@29f26caaecb4c251c292"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QmlModels::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "QmlModels_sync_headers::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Quick::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "Quick_sync_headers::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QuickTemplates2::@d8e4b05793fe777813fb"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "QuickTemplates2_sync_headers::@d8e4b05793fe777813fb"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QuickControls2Impl::@43d63f53c887901ae31b"
+		},
+		{
+			"backtrace" : 60,
+			"id" : "QuickControls2Impl_sync_headers::@43d63f53c887901ae31b"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "QuickDialogs2Utils::@9ddd469fe19f2ebb9e2f"
+		},
+		{
+			"backtrace" : 65,
+			"id" : "QuickDialogs2Utils_sync_headers::@9ddd469fe19f2ebb9e2f"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 69,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "OpenGL::@4647851a72f814f2421b"
+		},
+		{
+			"id" : "QuickDialogs2QuickImpl_automoc_json_extraction::@41a59b2ff1f2e91f4e79"
+		},
+		{
+			"backtrace" : 71,
+			"id" : "QuickDialogs2QuickImpl_tooling::@41a59b2ff1f2e91f4e79"
+		},
+		{
+			"backtrace" : 75,
+			"id" : "QuickDialogs2QuickImpl_sync_headers::@41a59b2ff1f2e91f4e79"
+		},
+		{
+			"backtrace" : 77,
+			"id" : "QuickDialogs2QuickImpl_lib_pri::@41a59b2ff1f2e91f4e79"
+		},
+		{
+			"backtrace" : 79,
+			"id" : "qmlcachegen::@e720dc932ac7ed76011b"
+		},
+		{
+			"id" : "qmltyperegistrar::@b7d96742f61bda066508"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QuickDialogs2QuickImpl_autogen::@41a59b2ff1f2e91f4e79"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"id" : "rcc::@bea154ae34688698a385"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 83,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"id" : "qsb::@3a860c13ae1d73cd1ff7"
+		}
+	],
+	"id" : "QuickDialogs2QuickImpl::@41a59b2ff1f2e91f4e79",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 6,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../qtbase/lib/libQt6QuickTemplates2_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "../../../../qtbase/lib/libQt6QuickControls2Impl_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../qtbase/lib/libQt6Quick_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "../../../../qtbase/lib/libQt6QmlModels_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "../../../../qtbase/lib/libQt6OpenGL_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../qtbase/lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "../../../../qtbase/lib/libQt6Qml_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "../../../../qtbase/lib/libQt6Network_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../qtbase/lib/libQt6QuickDialogs2Utils_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "QuickDialogs2QuickImpl",
+	"nameOnDisk" : "libQt6QuickDialogs2QuickImpl_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl",
+		"source" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4,
+				7,
+				11,
+				12,
+				14,
+				16,
+				19,
+				21,
+				23,
+				25,
+				29,
+				30,
+				32,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				93,
+				95,
+				97,
+				99,
+				101,
+				103,
+				105,
+				107,
+				109,
+				111,
+				113,
+				115,
+				117,
+				119,
+				121,
+				123,
+				125,
+				126,
+				127,
+				129,
+				132,
+				135,
+				138,
+				141,
+				143,
+				145,
+				147,
+				148
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				6,
+				8,
+				9,
+				10,
+				13,
+				15,
+				17,
+				18,
+				20,
+				22,
+				24,
+				26,
+				27,
+				128,
+				130,
+				131,
+				133,
+				134,
+				136,
+				137,
+				139,
+				140,
+				142,
+				144,
+				146
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				28,
+				31,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				60,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				88,
+				90,
+				92,
+				94,
+				96,
+				98,
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				120,
+				122,
+				124,
+				149,
+				150,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				151
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/QuickDialogs2QuickImpl_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/QuickDialogs2QuickImpl.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 118,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/qtquickdialogs2quickimplexports.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 119,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickDialogs2QuickImpl/6.7.0/QtQuickDialogs2QuickImpl/private/qtquickdialogs2quickimplexports_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickabstractcolorpicker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickabstractcolorpicker_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickabstractcolorpicker_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolordialogimpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolordialogimpl_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolordialogimpl_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolordialogutils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolordialogutils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolorinputs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickcolorinputs_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickdialogimplfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickdialogimplfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickmessagedialogimpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickmessagedialogimpl_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickmessagedialogimpl_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformcolordialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformcolordialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformmessagedialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformmessagedialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquicksaturationlightnesspicker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquicksaturationlightnesspicker_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qtquickdialogs2quickimplforeign.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qtquickdialogs2quickimplforeign_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qtquickdialogs2quickimplglobal_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 122,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/meta_types/qt6quickdialogs2quickimpl_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 123,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/quickdialogs2quickimpl_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 127,
+			"compileGroupIndex" : 2,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_qmake_QtQuick_Dialogs_quickimpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 128,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/ColorDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 129,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 130,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/ColorDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 131,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/ColorInputs.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 132,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/ColorInputs_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 133,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FileDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 134,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FileDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 135,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FileDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 136,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FileDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 137,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FileDialogDelegateLabel.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 138,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FileDialogDelegateLabel_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 139,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FolderBreadcrumbBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 140,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderBreadcrumbBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 141,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FolderDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 142,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 143,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FolderDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 144,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 145,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FolderDialogDelegateLabel.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 146,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderDialogDelegateLabel_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 147,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FontDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 148,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FontDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 149,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/FontDialogContent.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 150,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FontDialogContent_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 151,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/HueGradient.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 152,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/HueGradient_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 153,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/MessageDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 154,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/MessageDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 155,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/PickerHandle.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 156,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/PickerHandle_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 157,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/SaturationLightnessPicker.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 158,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/SaturationLightnessPicker_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 159,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/ColorDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 160,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/ColorDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 161,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/FileDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 162,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FileDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 163,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/FileDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 164,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FileDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 165,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/FolderBreadcrumbBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 166,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FolderBreadcrumbBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 167,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/FolderDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 168,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FolderDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 169,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/FolderDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 170,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FolderDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 171,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/FontDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 172,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FontDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 173,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Fusion/MessageDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 174,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/MessageDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 175,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/ColorDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 176,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/ColorDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 177,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/FileDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 178,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FileDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 179,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/FileDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 180,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FileDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 181,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/FolderBreadcrumbBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 182,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FolderBreadcrumbBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 183,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/FolderDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 184,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FolderDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 185,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/FolderDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 186,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FolderDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 187,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/FontDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 188,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FontDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 189,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Imagine/MessageDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 190,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/MessageDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 191,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/ColorDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 192,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/ColorDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 193,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/FileDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 194,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FileDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 195,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/FileDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 196,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FileDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 197,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/FolderBreadcrumbBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 198,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FolderBreadcrumbBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 199,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/FolderDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 200,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FolderDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 201,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/FolderDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 202,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FolderDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 203,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/FontDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 204,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FontDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 205,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Material/MessageDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 206,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/MessageDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 207,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/ColorDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 208,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/ColorDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 209,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/FileDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 210,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FileDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 211,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/FileDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 212,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FileDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 213,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/FolderBreadcrumbBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 214,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FolderBreadcrumbBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 215,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/FolderDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 216,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FolderDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 217,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/FolderDialogDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 218,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FolderDialogDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/FontDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 220,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FontDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 221,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qml/+Universal/MessageDialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 222,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/MessageDialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 226,
+			"compileGroupIndex" : 2,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_QuickDialogs2QuickImpl_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfiledialogdelegate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfiledialogdelegate_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfiledialogimpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfiledialogimpl_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfiledialogimpl_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfolderbreadcrumbbar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfolderbreadcrumbbar_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfolderbreadcrumbbar_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfolderdialogimpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfolderdialogimpl_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfolderdialogimpl_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfontdialogimpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfontdialogimpl_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickfontdialogimpl_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformfiledialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformfiledialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformfolderdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformfolderdialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 228,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformfontdialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 228,
+			"path" : "qtdeclarative/src/quickdialogs/quickdialogsquickimpl/qquickplatformfontdialog_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 232,
+			"compileGroupIndex" : 2,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_QuickDialogs2QuickImpl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 238,
+			"compileGroupIndex" : 2,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_QuickDialogs2QuickImplShaders.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 240,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/preliminary_prl_for_QuickDialogs2QuickImpl_step2_Debug.prl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 242,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6QuickDialogs2QuickImpl_debug.pc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/CMakeFiles/QuickDialogs2QuickImpl.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/meta_types/qt6quickdialogs2quickimpl_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/quickdialogs2quickimpl_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_qmake_QtQuick_Dialogs_quickimpl.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/ColorDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/ColorInputs_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FileDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FileDialogDelegateLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderBreadcrumbBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FolderDialogDelegateLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FontDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/FontDialogContent_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/HueGradient_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/MessageDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/PickerHandle_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/SaturationLightnessPicker_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/ColorDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FileDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FolderBreadcrumbBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FolderDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FolderDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/FontDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Fusion/MessageDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/ColorDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FileDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FolderBreadcrumbBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FolderDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FolderDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/FontDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Imagine/MessageDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/ColorDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FileDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FolderBreadcrumbBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FolderDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FolderDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/FontDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Material/MessageDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/ColorDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FileDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FileDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FolderBreadcrumbBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FolderDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FolderDialogDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/FontDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qmlcache/QuickDialogs2QuickImpl_qml/+Universal/MessageDialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_QuickDialogs2QuickImpl_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_QuickDialogs2QuickImpl.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.rcc/qrc_QuickDialogs2QuickImplShaders.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/preliminary_prl_for_QuickDialogs2QuickImpl_step2_Debug.prl.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6QuickDialogs2QuickImpl_debug.pc.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/meta_types/qt6quickdialogs2quickimpl_debug_metatypes.json.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.qsb/shaders/SaturationLightness.frag.qsb.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib/meta_types/qt6core_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui/meta_types/qt6gui_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick/meta_types/qt6quick_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml/meta_types/qt6qml_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/network/meta_types/qt6network_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels/meta_types/qt6qmlmodels_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/opengl/meta_types/qt6opengl_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates/meta_types/qt6quicktemplates2_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl/meta_types/qt6quickcontrols2impl_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsutils/meta_types/qt6quickdialogs2utils_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

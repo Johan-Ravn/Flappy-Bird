@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Material/impl/">
+    <file alias="BoxShadow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/BoxShadow.qml</file>
+    <file alias="CheckIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/CheckIndicator.qml</file>
+    <file alias="CursorDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/CursorDelegate.qml</file>
+    <file alias="ElevationEffect.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/ElevationEffect.qml</file>
+    <file alias="RadioIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/RadioIndicator.qml</file>
+    <file alias="RectangularGlow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/RectangularGlow.qml</file>
+    <file alias="RoundedElevationEffect.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/RoundedElevationEffect.qml</file>
+    <file alias="SliderHandle.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/SliderHandle.qml</file>
+    <file alias="SwitchIndicator.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/material/impl/SwitchIndicator.qml</file>
+  </qresource>
+</RCC>
+

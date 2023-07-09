@@ -1,0 +1,77 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qtserialbus/src/plugins/canbus/passthrucan/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SerialBus::@9e7a8ba87033816f279e"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SerialBus_sync_headers::@9e7a8ba87033816f279e"
+		}
+	],
+	"id" : "PassThruCanBusPlugin_autogen::@3760b7805892a87b82d0",
+	"isGeneratorProvided" : true,
+	"name" : "PassThruCanBusPlugin_autogen",
+	"paths" : 
+	{
+		"build" : "qtserialbus/src/plugins/canbus/passthrucan",
+		"source" : "qtserialbus/src/plugins/canbus/passthrucan"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/plugins/canbus/passthrucan/CMakeFiles/PassThruCanBusPlugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtserialbus/src/plugins/canbus/passthrucan/CMakeFiles/PassThruCanBusPlugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="/shaders">
+    <file alias="fragment3DSliceFrames">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/3dsliceframes.frag</file>
+    <file alias="fragmentColorOnY">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/colorOnY.frag</file>
+    <file alias="fragmentColorOnYES2">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/colorOnY_ES2.frag</file>
+    <file alias="fragment">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/default.frag</file>
+    <file alias="vertex">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/default.vert</file>
+    <file alias="vertexNoMatrices">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/defaultNoMatrices.vert</file>
+    <file alias="fragmentES2">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/default_ES2.frag</file>
+    <file alias="fragmentDepth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/depth.frag</file>
+    <file alias="vertexDepth">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/depth.vert</file>
+    <file alias="fragmentLabel">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/label.frag</file>
+    <file alias="vertexLabel">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/label.vert</file>
+    <file alias="fragmentPlainColor">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/plainColor.frag</file>
+    <file alias="vertexPlainColor">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/plainColor.vert</file>
+    <file alias="vertexPointES2">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/point_ES2.vert</file>
+    <file alias="vertexPointES2_UV">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/point_ES2_UV.vert</file>
+    <file alias="vertexPosition">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/position.vert</file>
+    <file alias="fragmentPositionMap">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/positionmap.frag</file>
+    <file alias="fragmentShadow">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/shadow.frag</file>
+    <file alias="vertexShadow">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/shadow.vert</file>
+    <file alias="vertexShadowNoMatrices">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/shadowNoMatrices.vert</file>
+    <file alias="fragmentShadowNoTex">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/shadowNoTex.frag</file>
+    <file alias="fragmentShadowNoTexColorOnY">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/shadowNoTexColorOnY.frag</file>
+    <file alias="fragmentSurface">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surface.frag</file>
+    <file alias="fragmentSurfaceFlat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceFlat.frag</file>
+    <file alias="vertexSurfaceFlat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceFlat.vert</file>
+    <file alias="fragmentSurfaceShadowFlat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceShadowFlat.frag</file>
+    <file alias="vertexSurfaceShadowFlat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceShadowFlat.vert</file>
+    <file alias="fragmentSurfaceShadowNoTex">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceShadowNoTex.frag</file>
+    <file alias="fragmentSurfaceTexturedFlat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceTexturedFlat.frag</file>
+    <file alias="fragmentTexturedSurfaceShadow">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceTexturedShadow.frag</file>
+    <file alias="fragmentTexturedSurfaceShadowFlat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surfaceTexturedShadowFlat.frag</file>
+    <file alias="fragmentSurfaceES2">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/surface_ES2.frag</file>
+    <file alias="fragmentTexture">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture.frag</file>
+    <file alias="vertexTexture">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture.vert</file>
+    <file alias="fragmentTexture3D">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture3d.frag</file>
+    <file alias="vertexTexture3D">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture3d.vert</file>
+    <file alias="fragmentTexture3DLowDef">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture3dlowdef.frag</file>
+    <file alias="fragmentTexture3DSlice">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture3dslice.frag</file>
+    <file alias="fragmentTextureES2">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdatavis3d/src/datavisualization/engine/shaders/texture_ES2.frag</file>
+  </qresource>
+</RCC>
+

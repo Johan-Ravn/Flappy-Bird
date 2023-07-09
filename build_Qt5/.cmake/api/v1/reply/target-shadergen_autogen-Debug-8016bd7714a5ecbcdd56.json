@@ -1,0 +1,248 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"qtquick3d/tools/shadergen/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtdeclarative/src/qml/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtshadertools/src/shadertools/CMakeLists.txt",
+			"qtquick3d/src/runtimerender/CMakeLists.txt",
+			"qtquick3d/src/quick3d/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"file" : 4,
+				"line" : -1,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 4
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 9
+			},
+			{
+				"file" : 6
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 12
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 13
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 14
+			},
+			{
+				"file" : 7
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 16
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 17
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 18
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 19
+			},
+			{
+				"file" : 8
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 21
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 23
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 24
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "ShaderTools_sync_headers::@484bb1c56e28263ebe8f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Quick3DRuntimeRender::@f37fe430e567354aeb73"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "Quick3DRuntimeRender_sync_headers::@f37fe430e567354aeb73"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "Quick3D_sync_headers::@60de046a73c3f1bf5cbb"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qpa_default_plugins::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Core::@03825b256518b1168c29"
+		}
+	],
+	"id" : "shadergen_autogen::@f10e5e0510e60121a169",
+	"isGeneratorProvided" : true,
+	"name" : "shadergen_autogen",
+	"paths" : 
+	{
+		"build" : "qtquick3d/tools/shadergen",
+		"source" : "qtquick3d/tools/shadergen"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/tools/shadergen/CMakeFiles/shadergen_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/tools/shadergen/CMakeFiles/shadergen_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

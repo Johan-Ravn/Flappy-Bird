@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="/qt-project.org/assistant">
+    <file alias="images/assistant-128.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/assistant-128.png</file>
+    <file alias="images/assistant.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/assistant.png</file>
+    <file alias="images/bookmark.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/bookmark.png</file>
+    <file alias="images/closebutton.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/closebutton.png</file>
+    <file alias="images/darkclosebutton.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/darkclosebutton.png</file>
+    <file alias="images/mac/book.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/book.png</file>
+    <file alias="images/mac/closetab.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/closetab.png</file>
+    <file alias="images/mac/editcopy.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/editcopy.png</file>
+    <file alias="images/mac/find.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/find.png</file>
+    <file alias="images/mac/home.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/home.png</file>
+    <file alias="images/mac/next.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/next.png</file>
+    <file alias="images/mac/previous.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/previous.png</file>
+    <file alias="images/mac/print.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/print.png</file>
+    <file alias="images/mac/resetzoom.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/resetzoom.png</file>
+    <file alias="images/mac/synctoc.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/synctoc.png</file>
+    <file alias="images/mac/zoomin.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/zoomin.png</file>
+    <file alias="images/mac/zoomout.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/mac/zoomout.png</file>
+    <file alias="images/win/book.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/book.png</file>
+    <file alias="images/win/closetab.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/closetab.png</file>
+    <file alias="images/win/editcopy.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/editcopy.png</file>
+    <file alias="images/win/find.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/find.png</file>
+    <file alias="images/win/home.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/home.png</file>
+    <file alias="images/win/next.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/next.png</file>
+    <file alias="images/win/previous.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/previous.png</file>
+    <file alias="images/win/print.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/print.png</file>
+    <file alias="images/win/resetzoom.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/resetzoom.png</file>
+    <file alias="images/win/synctoc.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/synctoc.png</file>
+    <file alias="images/win/zoomin.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/zoomin.png</file>
+    <file alias="images/win/zoomout.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/win/zoomout.png</file>
+    <file alias="images/wrap.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/assistant/assistant/images/wrap.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,61 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 505,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 516,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "qch_docs_qtbase::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "html_docs_qtbase::@e5137009cee4d36dff54"
+		}
+	],
+	"id" : "docs_qtbase::@e5137009cee4d36dff54",
+	"name" : "docs_qtbase",
+	"paths" : 
+	{
+		"build" : "qtbase",
+		"source" : "qtbase"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

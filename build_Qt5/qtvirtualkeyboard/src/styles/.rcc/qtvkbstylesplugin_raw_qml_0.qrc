@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/VirtualKeyboard/Styles/">
+    <file alias="KeyboardStyle.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/KeyboardStyle.qml</file>
+    <file alias="KeyIcon.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/KeyIcon.qml</file>
+    <file alias="KeyPanel.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/KeyPanel.qml</file>
+    <file alias="SelectionListItem.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/SelectionListItem.qml</file>
+    <file alias="TraceInputKeyPanel.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/TraceInputKeyPanel.qml</file>
+    <file alias="TraceCanvas.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/TraceCanvas.qml</file>
+    <file alias="TraceUtils.js">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/styles/TraceUtils.js</file>
+  </qresource>
+</RCC>
+

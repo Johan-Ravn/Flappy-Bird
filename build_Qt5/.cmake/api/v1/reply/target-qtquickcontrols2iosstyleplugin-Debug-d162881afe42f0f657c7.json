@@ -1,0 +1,5434 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/qml/QtQuick/Controls/iOS/libqtquickcontrols2iosstyleplugin_debug.dylib"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt_internal_add_plugin",
+			"qt_internal_add_qml_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"qt_internal_add_module",
+			"qt6_add_qml_module",
+			"_qt_internal_target_enable_qmlcachegen",
+			"qt6_target_qml_sources",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"add_custom_command",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt_internal_add_resource",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtdeclarative/src/qml/Qt6QmlBuildInternals.cmake",
+			"qtdeclarative/src/quickcontrols/ios/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtdeclarative/src/quickcontrols/CMakeLists.txt",
+			"qtdeclarative/src/quicktemplates/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrolsimpl/CMakeLists.txt",
+			"qtdeclarative/src/quick/CMakeLists.txt",
+			"qtdeclarative/src/qmlmodels/CMakeLists.txt",
+			"qtdeclarative/src/qml/Qt6QmlMacros.cmake",
+			"qtdeclarative/src/qml/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtdeclarative/CMakeLists.txt",
+			"qtbase/cmake/QtResourceHelpers.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:716:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 60,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 217,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2169,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 21,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 461,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 106,
+				"parent" : 8
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 336,
+				"parent" : 2
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 10
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 8,
+				"line" : 8,
+				"parent" : 12
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 13
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 870,
+				"parent" : 14
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 9,
+				"line" : 8,
+				"parent" : 16
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 17
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 870,
+				"parent" : 18
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 10,
+				"line" : 8,
+				"parent" : 20
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 21
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 870,
+				"parent" : 22
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 4,
+				"file" : 11,
+				"line" : 8,
+				"parent" : 24
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 25
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 870,
+				"parent" : 26
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 4,
+				"file" : 12,
+				"line" : 8,
+				"parent" : 28
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 29
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 870,
+				"parent" : 30
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 305,
+				"parent" : 1
+			},
+			{
+				"command" : 9,
+				"file" : 13,
+				"line" : 392,
+				"parent" : 32
+			},
+			{
+				"file" : 14
+			},
+			{
+				"command" : 10,
+				"file" : 14,
+				"line" : 492,
+				"parent" : 34
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 35
+			},
+			{
+				"command" : 10,
+				"file" : 11,
+				"line" : 310,
+				"parent" : 24
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 37
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 11,
+				"file" : 15,
+				"line" : 53,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 870,
+				"parent" : 40
+			},
+			{
+				"command" : 10,
+				"file" : 15,
+				"line" : 361,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 42
+			},
+			{
+				"command" : 10,
+				"file" : 15,
+				"line" : 376,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 44
+			},
+			{
+				"command" : 10,
+				"file" : 15,
+				"line" : 962,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 46
+			},
+			{
+				"command" : 14,
+				"file" : 13,
+				"line" : 633,
+				"parent" : 32
+			},
+			{
+				"command" : 13,
+				"file" : 13,
+				"line" : 2210,
+				"parent" : 48
+			},
+			{
+				"command" : 9,
+				"file" : 13,
+				"line" : 1068,
+				"parent" : 49
+			},
+			{
+				"file" : 16
+			},
+			{
+				"command" : 10,
+				"file" : 16,
+				"line" : 576,
+				"parent" : 51
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 52
+			},
+			{
+				"command" : 10,
+				"file" : 16,
+				"line" : 605,
+				"parent" : 51
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 162,
+				"parent" : 54
+			},
+			{
+				"file" : 14,
+				"line" : -1,
+				"parent" : 34
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 56
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 57
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 58
+			},
+			{
+				"file" : 12,
+				"line" : -1,
+				"parent" : 28
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 60
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 61
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 62
+			},
+			{
+				"file" : 11,
+				"line" : -1,
+				"parent" : 24
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 64
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 65
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 66
+			},
+			{
+				"file" : 9,
+				"line" : -1,
+				"parent" : 16
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 68
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 69
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 70
+			},
+			{
+				"file" : 10,
+				"line" : -1,
+				"parent" : 20
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 72
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 73
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 74
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 12
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 76
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 77
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 78
+			},
+			{
+				"command" : 15,
+				"file" : 13,
+				"line" : 2323,
+				"parent" : 48
+			},
+			{
+				"file" : 15,
+				"line" : -1,
+				"parent" : 39
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 81
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 82
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 83
+			},
+			{
+				"command" : 18,
+				"file" : 13,
+				"line" : 1029,
+				"parent" : 49
+			},
+			{
+				"file" : 16,
+				"line" : -1,
+				"parent" : 51
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 86
+			},
+			{
+				"command" : 16,
+				"file" : 7,
+				"line" : 902,
+				"parent" : 87
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 248,
+				"parent" : 88
+			},
+			{
+				"file" : 22
+			},
+			{
+				"command" : 23,
+				"file" : 22,
+				"line" : 63,
+				"parent" : 90
+			},
+			{
+				"command" : 22,
+				"file" : 21,
+				"line" : 597,
+				"parent" : 91
+			},
+			{
+				"command" : 21,
+				"file" : 21,
+				"line" : 411,
+				"parent" : 92
+			},
+			{
+				"command" : 20,
+				"file" : 21,
+				"line" : 249,
+				"parent" : 93
+			},
+			{
+				"file" : 20,
+				"parent" : 94
+			},
+			{
+				"command" : 20,
+				"file" : 20,
+				"line" : 360,
+				"parent" : 95
+			},
+			{
+				"file" : 19,
+				"parent" : 96
+			},
+			{
+				"command" : 19,
+				"file" : 19,
+				"line" : 34,
+				"parent" : 97
+			},
+			{
+				"command" : 25,
+				"file" : 1,
+				"line" : 370,
+				"parent" : 2
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 231,
+				"parent" : 99
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 2236,
+				"parent" : 3
+			},
+			{
+				"command" : 26,
+				"file" : 6,
+				"line" : 159,
+				"parent" : 10
+			},
+			{
+				"command" : 27,
+				"file" : 1,
+				"line" : 368,
+				"parent" : 2
+			},
+			{
+				"command" : 26,
+				"file" : 6,
+				"line" : 1149,
+				"parent" : 103
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 230,
+				"parent" : 99
+			},
+			{
+				"command" : 28,
+				"file" : 6,
+				"line" : 154,
+				"parent" : 10
+			},
+			{
+				"command" : 29,
+				"file" : 13,
+				"line" : 540,
+				"parent" : 32
+			},
+			{
+				"command" : 28,
+				"file" : 13,
+				"line" : 2659,
+				"parent" : 107
+			},
+			{
+				"command" : 30,
+				"file" : 6,
+				"line" : 138,
+				"parent" : 10
+			},
+			{
+				"command" : 31,
+				"file" : 13,
+				"line" : 2464,
+				"parent" : 107
+			},
+			{
+				"command" : 30,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 110
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2625,
+				"parent" : 107
+			},
+			{
+				"command" : 34,
+				"file" : 13,
+				"line" : 584,
+				"parent" : 32
+			},
+			{
+				"command" : 33,
+				"file" : 0,
+				"line" : 326,
+				"parent" : 113
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 114
+			},
+			{
+				"command" : 30,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 115
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 1067,
+				"parent" : 49
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2106,
+				"parent" : 48
+			},
+			{
+				"command" : 30,
+				"file" : 13,
+				"line" : 2259,
+				"parent" : 48
+			},
+			{
+				"command" : 34,
+				"file" : 13,
+				"line" : 2342,
+				"parent" : 48
+			},
+			{
+				"command" : 33,
+				"file" : 0,
+				"line" : 326,
+				"parent" : 208
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 209
+			},
+			{
+				"command" : 30,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 210
+			},
+			{
+				"command" : 35,
+				"file" : 3,
+				"line" : 103,
+				"parent" : 0
+			},
+			{
+				"command" : 33,
+				"file" : 23,
+				"line" : 30,
+				"parent" : 212
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 213
+			},
+			{
+				"command" : 30,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 214
+			},
+			{
+				"file" : 3,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 37,
+				"file" : 24,
+				"line" : 1,
+				"parent" : 216
+			},
+			{
+				"command" : 36,
+				"file" : 0,
+				"line" : 741,
+				"parent" : 217
+			},
+			{
+				"command" : 30,
+				"file" : 0,
+				"line" : 1836,
+				"parent" : 218
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 98,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 98,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 100,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 11,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 101,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 104,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 104,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_NO_CAST_FROM_ASCII"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 105,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 101,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICKCONTROLS2IMPL_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICKCONTROLS2_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICKTEMPLATES2_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "_LARGEFILE_SOURCE"
+				},
+				{
+					"define" : "qtquickcontrols2iosstyleplugin_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/qtquickcontrols2iosstyleplugin_autogen/include"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/ios"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0/QtQml"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2/6.7.0/QtQuickControls2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0/QtQuick"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0/QtQmlModels"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					11
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				5,
+				6,
+				8,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				93,
+				95,
+				97,
+				98,
+				99
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 98,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 98,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 100,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 11,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 101,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 104,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 104,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_NO_CAST_FROM_ASCII"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 105,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 101,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICKCONTROLS2IMPL_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICKCONTROLS2_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICKTEMPLATES2_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "_LARGEFILE_SOURCE"
+				},
+				{
+					"define" : "qtquickcontrols2iosstyleplugin_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/qtquickcontrols2iosstyleplugin_autogen/include"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/ios"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml/6.7.0/QtQml"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQml"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlintegration"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2/6.7.0/QtQuickControls2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuick/6.7.0/QtQuick"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQmlModels/6.7.0/QtQmlModels"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2/6.7.0/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickTemplates2"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl/6.7.0/QtQuickControls2Impl"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtQuickControls2Impl"
+				}
+			],
+			"language" : "OBJCXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					11
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 11,
+			"id" : "QmlIntegration::@29f26caaecb4c251c292"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "QmlModels::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 63,
+			"id" : "QmlModels_sync_headers::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Quick::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 67,
+			"id" : "Quick_sync_headers::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "QuickTemplates2::@d8e4b05793fe777813fb"
+		},
+		{
+			"backtrace" : 71,
+			"id" : "QuickTemplates2_sync_headers::@d8e4b05793fe777813fb"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "QuickControls2Impl::@43d63f53c887901ae31b"
+		},
+		{
+			"backtrace" : 75,
+			"id" : "QuickControls2Impl_sync_headers::@43d63f53c887901ae31b"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "QuickControls2::@d0a521f8df56dfe448b0"
+		},
+		{
+			"backtrace" : 79,
+			"id" : "QuickControls2_sync_headers::@d0a521f8df56dfe448b0"
+		},
+		{
+			"id" : "qtquickcontrols2iosstyleplugin_automoc_json_extraction::@4e07468a276b4e7641e9"
+		},
+		{
+			"backtrace" : 80,
+			"id" : "qtquickcontrols2iosstyleplugin_tooling::@4e07468a276b4e7641e9"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qtquickcontrols2iosstyleplugin_autogen::@4e07468a276b4e7641e9"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 84,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "OpenGL::@4647851a72f814f2421b"
+		},
+		{
+			"backtrace" : 85,
+			"id" : "qmlcachegen::@e720dc932ac7ed76011b"
+		},
+		{
+			"id" : "qmltyperegistrar::@b7d96742f61bda066508"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"id" : "rcc::@bea154ae34688698a385"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 89,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "Network::@1db477eea17d89636c09"
+		}
+	],
+	"id" : "qtquickcontrols2iosstyleplugin::@4e07468a276b4e7641e9",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 7,
+				"path" : "./qml/QtQuick/Controls/iOS"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path/../../../../lib -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "../../../../qtbase/lib/libQt6QuickControls2_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "../../../../qtbase/lib/libQt6QuickTemplates2_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "../../../../qtbase/lib/libQt6QuickControls2Impl_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "../../../../qtbase/lib/libQt6Quick_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "../../../../qtbase/lib/libQt6QmlModels_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "../../../../qtbase/lib/libQt6Qml_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "../../../../qtbase/lib/libQt6Network_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "../../../../qtbase/lib/libQt6OpenGL_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "../../../../qtbase/lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 50,
+				"fragment" : "../../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 53,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 55,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "qtquickcontrols2iosstyleplugin",
+	"nameOnDisk" : "libqtquickcontrols2iosstyleplugin_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/quickcontrols/ios",
+		"source" : "qtdeclarative/src/quickcontrols/ios"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				6,
+				8,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				93,
+				95,
+				97,
+				98,
+				99
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				4,
+				7,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				60,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				88,
+				90,
+				92,
+				94,
+				96,
+				100,
+				101,
+				102,
+				103,
+				471,
+				472,
+				473,
+				474,
+				475,
+				476,
+				477,
+				478,
+				479,
+				480
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				230,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243,
+				244,
+				245,
+				246,
+				247,
+				248,
+				249,
+				250,
+				251,
+				252,
+				253,
+				254,
+				255,
+				256,
+				257,
+				258,
+				259,
+				260,
+				261,
+				262,
+				263,
+				264,
+				265,
+				266,
+				267,
+				268,
+				269,
+				270,
+				271,
+				272,
+				273,
+				274,
+				275,
+				276,
+				277,
+				278,
+				279,
+				280,
+				281,
+				282,
+				283,
+				284,
+				285,
+				286,
+				287,
+				288,
+				289,
+				290,
+				291,
+				292,
+				293,
+				294,
+				295,
+				296,
+				297,
+				298,
+				299,
+				300,
+				301,
+				302,
+				303,
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				319,
+				320,
+				321,
+				322,
+				323,
+				324,
+				325,
+				326,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337,
+				338,
+				339,
+				340,
+				341,
+				342,
+				343,
+				344,
+				345,
+				346,
+				347,
+				348,
+				349,
+				350,
+				351,
+				352,
+				353,
+				354,
+				355,
+				356,
+				357,
+				358,
+				359,
+				360,
+				361,
+				362,
+				363,
+				364,
+				365,
+				366,
+				367,
+				368,
+				369,
+				370,
+				371,
+				372,
+				373,
+				374,
+				375,
+				376,
+				377,
+				378,
+				379,
+				380,
+				381,
+				382,
+				383,
+				384,
+				385,
+				386,
+				387,
+				388,
+				389,
+				390,
+				391,
+				392,
+				393,
+				394,
+				395,
+				396,
+				397,
+				398,
+				399,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				406,
+				407,
+				408,
+				409,
+				410,
+				411,
+				412,
+				413,
+				414,
+				415,
+				416,
+				417,
+				418
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				419,
+				420,
+				421,
+				422,
+				423,
+				424,
+				425,
+				426,
+				427,
+				428,
+				429,
+				430,
+				431,
+				432,
+				433,
+				434,
+				435,
+				436,
+				437,
+				438,
+				439,
+				440,
+				441,
+				442,
+				443,
+				444,
+				445,
+				446,
+				447,
+				448,
+				449,
+				450,
+				451,
+				452,
+				453,
+				454,
+				455,
+				456,
+				457,
+				458,
+				459,
+				460,
+				461,
+				462,
+				463,
+				464,
+				465,
+				466,
+				467,
+				468,
+				469,
+				470
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/qtquickcontrols2iosstyleplugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 109,
+			"compileGroupIndex" : 0,
+			"path" : "qtdeclarative/src/quickcontrols/ios/qtquickcontrols2iosstyleplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 109,
+			"path" : "qtdeclarative/src/quickcontrols/ios/qquickiostheme_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 109,
+			"compileGroupIndex" : 1,
+			"path" : "qtdeclarative/src/quickcontrols/ios/qquickiostheme.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 111,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/meta_types/qt6qtquickcontrols2iosstyleplugin_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 112,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/qtquickcontrols2iosstyleplugin_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 116,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qrc_qmake_QtQuick_Controls_iOS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 117,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Slider.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 118,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 119,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Slider_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 120,
+			"path" : "qtdeclarative/src/quickcontrols/ios/RangeSlider.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 121,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_RangeSlider_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 122,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Switch.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 123,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Switch_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 124,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Button.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 125,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Button_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 126,
+			"path" : "qtdeclarative/src/quickcontrols/ios/CheckBox.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 127,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_CheckBox_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 128,
+			"path" : "qtdeclarative/src/quickcontrols/ios/RadioButton.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 129,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_RadioButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 130,
+			"path" : "qtdeclarative/src/quickcontrols/ios/SpinBox.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 131,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SpinBox_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 132,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ProgressBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 133,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ProgressBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 134,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Dial.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 135,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Dial_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 136,
+			"path" : "qtdeclarative/src/quickcontrols/ios/PageIndicator.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 137,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_PageIndicator_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 138,
+			"path" : "qtdeclarative/src/quickcontrols/ios/TextArea.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 139,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TextArea_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 140,
+			"path" : "qtdeclarative/src/quickcontrols/ios/TextField.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 141,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TextField_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 142,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ScrollIndicator.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 143,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ScrollIndicator_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 144,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ItemDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 145,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ItemDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 146,
+			"path" : "qtdeclarative/src/quickcontrols/ios/SwitchDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 147,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SwitchDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 148,
+			"path" : "qtdeclarative/src/quickcontrols/ios/RadioDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 149,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_RadioDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 150,
+			"path" : "qtdeclarative/src/quickcontrols/ios/CheckDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 151,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_CheckDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 152,
+			"path" : "qtdeclarative/src/quickcontrols/ios/SwipeDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 153,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SwipeDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 154,
+			"path" : "qtdeclarative/src/quickcontrols/ios/StackView.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 155,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_StackView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 156,
+			"path" : "qtdeclarative/src/quickcontrols/ios/TreeViewDelegate.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 157,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TreeViewDelegate_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 158,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ScrollBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 159,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ScrollBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 160,
+			"path" : "qtdeclarative/src/quickcontrols/ios/TabButton.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 161,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TabButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 162,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ToolButton.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 163,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 164,
+			"path" : "qtdeclarative/src/quickcontrols/ios/MenuBarItem.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 165,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuBarItem_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 166,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Frame.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 167,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Frame_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 168,
+			"path" : "qtdeclarative/src/quickcontrols/ios/GroupBox.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 169,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_GroupBox_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 170,
+			"path" : "qtdeclarative/src/quickcontrols/ios/SplitView.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 171,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SplitView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 172,
+			"path" : "qtdeclarative/src/quickcontrols/ios/TabBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 173,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TabBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 174,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ToolBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 175,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 176,
+			"path" : "qtdeclarative/src/quickcontrols/ios/MenuBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 177,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 178,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Drawer.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 179,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Drawer_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 180,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Popup.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 181,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Popup_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 182,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Menu.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 183,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Menu_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 184,
+			"path" : "qtdeclarative/src/quickcontrols/ios/MenuItem.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 185,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuItem_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 186,
+			"path" : "qtdeclarative/src/quickcontrols/ios/MenuSeparator.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 187,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuSeparator_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 188,
+			"path" : "qtdeclarative/src/quickcontrols/ios/BusyIndicator.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 189,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_BusyIndicator_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 190,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ComboBox.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 191,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ComboBox_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 192,
+			"path" : "qtdeclarative/src/quickcontrols/ios/HorizontalHeaderView.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 193,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_HorizontalHeaderView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 194,
+			"path" : "qtdeclarative/src/quickcontrols/ios/VerticalHeaderView.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 195,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_VerticalHeaderView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 196,
+			"path" : "qtdeclarative/src/quickcontrols/ios/Dialog.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 197,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Dialog_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 198,
+			"path" : "qtdeclarative/src/quickcontrols/ios/DialogButtonBox.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 199,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_DialogButtonBox_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 200,
+			"path" : "qtdeclarative/src/quickcontrols/ios/DelayButton.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 201,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_DelayButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 202,
+			"path" : "qtdeclarative/src/quickcontrols/ios/SelectionRectangle.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 203,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SelectionRectangle_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 204,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ToolTip.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 205,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolTip_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 206,
+			"path" : "qtdeclarative/src/quickcontrols/ios/ToolSeparator.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 207,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolSeparator_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 211,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qrc_qtquickcontrols2iosstyleplugin_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 215,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qrc_qmake_qtquickcontrols2iosstyleplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 219,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmake_QtQuick_Controls_iOS.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 219,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQuick/Controls/iOS/qmldir",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 219,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qtquickcontrols2iosstyleplugin_raw_qml_0.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 219,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmake_qtquickcontrols2iosstyleplugin.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-pressed-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-pressed-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-pressed-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-pressed-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-pressed-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-indicator-pressed-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-updown-indicator.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-updown-indicator@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/arrow-updown-indicator@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-01-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-01-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-01-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-01-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-01-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-01-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-02-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-02-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-02-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-02-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-02-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-02-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-03-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-03-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-03-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-03-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-03-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-03-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-04-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-04-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-04-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-04-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-04-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-04-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-05-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-05-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-05-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-05-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-05-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-05-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-06-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-06-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-06-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-06-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-06-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-06-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-07-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-07-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-07-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-07-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-07-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-07-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-08-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-08-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-08-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-08-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-08-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/busyindicator-frame-08-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-checked-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-checked-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-checked-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-checked-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-checked-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-checked-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-partially-checked-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-partially-checked-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-partially-checked-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-partially-checked-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-partially-checked-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/checkbox-indicator-partially-checked-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-horizontal-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-last-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-delegate-vertical-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-separator-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-separator-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-separator-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-separator-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-separator-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/dialogbuttonbox-separator-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-dark.9@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-dark.9@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-light.9@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-light.9@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-modal-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-modal-dark.9@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-modal-dark.9@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-modal-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-modal-light.9@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/drawer-background-modal-light.9@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/itemdelegate-background-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menu-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menu-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menu-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menu-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menu-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menu-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-edge-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-single-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-single-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-single-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-single-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-single-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuitem-background-single-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuseparator-separator-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuseparator-separator-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuseparator-separator-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuseparator-separator-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuseparator-separator-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/menuseparator-separator-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-current-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-current-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-current-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-current-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-current-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-current-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/pageindicator-delegate-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/popup-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/popup-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/popup-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/popup-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/popup-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/popup-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-checked-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-checked-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-checked-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-checked-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-checked-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-checked-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiobutton-indicator-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiodelegate-indicator-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiodelegate-indicator-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiodelegate-indicator-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiodelegate-indicator-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiodelegate-indicator-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/radiodelegate-indicator-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-dark-horizontal.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-dark-horizontal@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-dark-horizontal@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-dark-vertical.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-dark-vertical@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-dark-vertical@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-light-horizontal.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-light-horizontal@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-light-horizontal@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-light-vertical.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-light-vertical@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/scrollindicator-handle-light-vertical@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/selectionrectangle-handle-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/selectionrectangle-handle-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/selectionrectangle-handle-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/selectionrectangle-handle-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/selectionrectangle-handle-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/selectionrectangle-handle-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle-disabled-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle-disabled-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle-disabled-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle-disabled-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle-disabled-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle-disabled-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-handle@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-progress-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-progress-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-progress-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-progress-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-progress-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/slider-progress-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-down-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-pressed-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-pressed-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-pressed-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-pressed-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-pressed-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/spinbox-indicator-up-pressed-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle-disabled-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle-disabled-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle-disabled-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle-disabled-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle-disabled-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle-disabled-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-handle@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-checked-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-checked-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-checked-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-checked-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-checked-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-checked-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-dark.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-dark@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-dark@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-light.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-light@2x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/switch-indicator-light@3x.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/tooltip-background-dark.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/tooltip-background-dark@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/tooltip-background-dark@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/tooltip-background-light.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/tooltip-background-light@2x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 219,
+			"path" : "qtdeclarative/src/quickcontrols/ios/images/tooltip-background-light@3x.9.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/meta_types/qt6qtquickcontrols2iosstyleplugin_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/qtquickcontrols2iosstyleplugin_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qrc_qmake_QtQuick_Controls_iOS.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Slider_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_RangeSlider_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Switch_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Button_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_CheckBox_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_RadioButton_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SpinBox_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ProgressBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Dial_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_PageIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TextArea_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TextField_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ScrollIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ItemDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SwitchDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_RadioDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_CheckDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SwipeDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_StackView_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TreeViewDelegate_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ScrollBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TabButton_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolButton_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuBarItem_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Frame_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_GroupBox_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SplitView_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_TabBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Drawer_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Popup_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Menu_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuItem_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_MenuSeparator_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_BusyIndicator_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ComboBox_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_HorizontalHeaderView_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_VerticalHeaderView_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_Dialog_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_DialogButtonBox_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_DelayButton_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_SelectionRectangle_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolTip_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qmlcache/qtquickcontrols2iosstyleplugin_ToolSeparator_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qrc_qtquickcontrols2iosstyleplugin_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/.rcc/qrc_qmake_qtquickcontrols2iosstyleplugin.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/ios/meta_types/qt6qtquickcontrols2iosstyleplugin_debug_metatypes.json.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib/meta_types/qt6core_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui/meta_types/qt6gui_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qml/meta_types/qt6qml_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/network/meta_types/qt6network_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/meta_types/qt6quickcontrols2_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quick/meta_types/qt6quick_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/qmlmodels/meta_types/qt6qmlmodels_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/opengl/meta_types/qt6opengl_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quicktemplates/meta_types/qt6quicktemplates2_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrolsimpl/meta_types/qt6quickcontrols2impl_debug_metatypes.json",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

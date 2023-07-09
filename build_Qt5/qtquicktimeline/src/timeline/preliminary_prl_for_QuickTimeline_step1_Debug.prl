@@ -1,0 +1,7 @@
+RCC_OBJECTS = 
+QMAKE_PRL_TARGET = libQt6QuickTimeline_debug.dylib
+QMAKE_PRL_TARGET_PATH_FOR_CMAKE = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6QuickTimeline_debug.dylib
+QMAKE_PRL_CONFIG = shared
+QMAKE_PRL_VERSION = 6.7.0
+QMAKE_PRL_LIBS_FOR_CMAKE = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6Quick_debug.dylib;/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6QmlModels_debug.dylib;/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6OpenGL_debug.dylib;/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6Gui_debug.dylib;-framework OpenGL;-framework AGL;-framework AppKit;-framework ImageIO;-framework Metal;/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6Qml_debug.dylib;/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6Network_debug.dylib;/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6Core_debug.dylib;-framework IOKit;-framework DiskArbitration
+

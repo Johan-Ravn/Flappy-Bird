@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin",
+			"qt_internal_add_qml_module"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Qml/Qt6QmlBuildInternals.cmake",
+			"qtvirtualkeyboard/src/styles/builtin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 217,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "./qml/QtQuick/VirtualKeyboard/Styles/Builtin",
+			"paths" : 
+			[
+				"qtbase/qml/QtQuick/VirtualKeyboard/Styles/Builtin/libqtvkbbuiltinstylesplugin_debug.dylib"
+			],
+			"targetId" : "qtvkbbuiltinstylesplugin::@17390adef51dd0124a20",
+			"targetIndex" : 3185,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtvirtualkeyboard/src/styles/builtin",
+		"source" : "qtvirtualkeyboard/src/styles/builtin"
+	}
+}

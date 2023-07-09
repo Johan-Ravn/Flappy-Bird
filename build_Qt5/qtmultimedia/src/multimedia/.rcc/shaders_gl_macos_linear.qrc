@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/multimedia">
+    <file alias="shaders/rectsampler_bgra_linear.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtmultimedia/src/multimedia/.qsb/shaders/rectsampler_bgra_linear.frag.qsb</file>
+  </qresource>
+</RCC>
+

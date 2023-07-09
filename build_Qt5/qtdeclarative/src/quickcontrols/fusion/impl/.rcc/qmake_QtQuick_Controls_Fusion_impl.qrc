@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Fusion/impl">
+    <file alias="qmldir">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/qml/QtQuick/Controls/Fusion/impl/qmldir</file>
+  </qresource>
+</RCC>
+

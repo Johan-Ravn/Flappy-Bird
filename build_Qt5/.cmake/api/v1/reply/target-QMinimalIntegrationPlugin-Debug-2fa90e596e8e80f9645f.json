@@ -1,0 +1,845 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/plugins/platforms/libqminimal_debug.dylib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt_internal_add_plugin",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"qt_find_package_system_or_bundled",
+			"find_package",
+			"qt_find_package",
+			"include",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"add_compile_options",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"qtbase/src/corelib/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtbase/src/plugins/platforms/minimal/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtFindWrapHelper.cmake",
+			"qtbase/cmake/FindWrapFreetype.cmake",
+			"qtbase/cmake/QtFindPackageHelpers.cmake",
+			"qtbase/cmake/FindWrapPNG.cmake",
+			"qtbase/cmake/FindWrapSystemZLIB.cmake",
+			"qtbase/configure.cmake",
+			"qtbase/cmake/QtBaseGlobalTargets.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2169,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 461,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 7
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 336,
+				"parent" : 1
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 9
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 361,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 376,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 14
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 962,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 16
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 576,
+				"parent" : 18
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 19
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 605,
+				"parent" : 18
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 21
+			},
+			{
+				"command" : 12,
+				"file" : 6,
+				"line" : 7,
+				"parent" : 11
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 156,
+				"parent" : 23
+			},
+			{
+				"file" : 9,
+				"parent" : 24
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 6,
+				"parent" : 25
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 26
+			},
+			{
+				"command" : 12,
+				"file" : 6,
+				"line" : 6,
+				"parent" : 11
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 156,
+				"parent" : 28
+			},
+			{
+				"file" : 11,
+				"parent" : 29
+			},
+			{
+				"command" : 10,
+				"file" : 11,
+				"line" : 6,
+				"parent" : 30
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 31
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 15,
+				"line" : 143,
+				"parent" : 33
+			},
+			{
+				"file" : 14,
+				"parent" : 34
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 86,
+				"parent" : 35
+			},
+			{
+				"file" : 13,
+				"parent" : 36
+			},
+			{
+				"command" : 12,
+				"file" : 13,
+				"line" : 10,
+				"parent" : 37
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 156,
+				"parent" : 38
+			},
+			{
+				"file" : 12,
+				"parent" : 39
+			},
+			{
+				"command" : 8,
+				"file" : 12,
+				"line" : 25,
+				"parent" : 40
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 11
+			},
+			{
+				"command" : 16,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 42
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 902,
+				"parent" : 43
+			},
+			{
+				"command" : 14,
+				"file" : 16,
+				"line" : 248,
+				"parent" : 44
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 18
+			},
+			{
+				"command" : 16,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 46
+			},
+			{
+				"command" : 15,
+				"file" : 17,
+				"line" : 902,
+				"parent" : 47
+			},
+			{
+				"command" : 14,
+				"file" : 16,
+				"line" : 248,
+				"parent" : 48
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 50
+			},
+			{
+				"command" : 19,
+				"file" : 15,
+				"line" : 127,
+				"parent" : 33
+			},
+			{
+				"command" : 18,
+				"file" : 21,
+				"line" : 411,
+				"parent" : 52
+			},
+			{
+				"command" : 13,
+				"file" : 21,
+				"line" : 249,
+				"parent" : 53
+			},
+			{
+				"file" : 20,
+				"parent" : 54
+			},
+			{
+				"command" : 13,
+				"file" : 20,
+				"line" : 360,
+				"parent" : 55
+			},
+			{
+				"file" : 19,
+				"parent" : 56
+			},
+			{
+				"command" : 17,
+				"file" : 19,
+				"line" : 34,
+				"parent" : 57
+			},
+			{
+				"command" : 21,
+				"file" : 1,
+				"line" : 370,
+				"parent" : 1
+			},
+			{
+				"command" : 20,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 59
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2236,
+				"parent" : 2
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 9
+			},
+			{
+				"command" : 23,
+				"file" : 1,
+				"line" : 368,
+				"parent" : 1
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 63
+			},
+			{
+				"command" : 22,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 59
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 9
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 9
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 58,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 58,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 60,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"define" : "QMinimalIntegrationPlugin_EXPORTS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 62,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 64,
+					"define" : "QT_LEAN_HEADERS=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 65,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 62,
+					"define" : "QT_NO_FOREACH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 62,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/plugins/platforms/minimal/QMinimalIntegrationPlugin_autogen/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/plugins/platforms/minimal"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/plugins/platforms/minimal"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/3rdparty/freetype/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					10
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "QMinimalIntegrationPlugin_autogen::@c0a52443cdfa262243f4"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 45,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 49,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "BundledLibpng::@c331489d0ba352928db4"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "BundledFreetype::@26321534fc8d066ee805"
+		}
+	],
+	"id" : "QMinimalIntegrationPlugin::@c0a52443cdfa262243f4",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "./plugins/platforms"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path/../../lib -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "../../../../lib/libQt6BundledFreetype_debug.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "../../../../lib/libQt6BundledLibpng_debug.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "-lz",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "QMinimalIntegrationPlugin",
+	"nameOnDisk" : "libqminimal_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtbase/src/plugins/platforms/minimal",
+		"source" : "qtbase/src/plugins/platforms/minimal"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/plugins/platforms/minimal/QMinimalIntegrationPlugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/plugins/platforms/minimal/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/plugins/platforms/minimal/qminimalbackingstore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 67,
+			"path" : "qtbase/src/plugins/platforms/minimal/qminimalbackingstore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 0,
+			"path" : "qtbase/src/plugins/platforms/minimal/qminimalintegration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 67,
+			"path" : "qtbase/src/plugins/platforms/minimal/qminimalintegration.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

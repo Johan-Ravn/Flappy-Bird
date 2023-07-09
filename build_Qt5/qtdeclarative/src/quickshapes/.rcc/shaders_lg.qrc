@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt-project.org/shapes">
+    <file alias="shaders_ng/shapecurve_lg.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/shapecurve_lg.frag.qsb</file>
+    <file alias="shaders_ng/shapecurve_lg.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/shapecurve_lg.vert.qsb</file>
+  </qresource>
+</RCC>
+

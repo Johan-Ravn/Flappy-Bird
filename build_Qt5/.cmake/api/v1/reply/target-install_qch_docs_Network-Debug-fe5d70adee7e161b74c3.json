@@ -1,0 +1,43 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_docs"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtDocsHelpers.cmake",
+			"qtbase/src/network/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 365,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 232,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "install_qch_docs_Network::@1db477eea17d89636c09",
+	"name" : "install_qch_docs_Network",
+	"paths" : 
+	{
+		"build" : "qtbase/src/network",
+		"source" : "qtbase/src/network"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtquick3d/src/quick3dparticles/designer/source",
+		"source" : "qtquick3d/src/quick3dparticles/designer/source"
+	}
+}

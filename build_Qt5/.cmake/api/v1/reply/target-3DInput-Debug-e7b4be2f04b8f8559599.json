@@ -1,0 +1,2238 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt63DInput_debug.dylib"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"qt_generate_module_pri_file",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"set_property",
+			"qt_update_precompiled_header",
+			"qt_update_precompiled_header_with_library",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"qt_generate_prl_file",
+			"qt_internal_generate_pkg_config_file"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qt3d/src/input/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qt3d/src/core/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qt3d/CMakeLists.txt",
+			"qtbase/cmake/QtPrecompiledHeadersHelpers.cmake",
+			"qtbase/cmake/QtPrlHelpers.cmake",
+			"qtbase/cmake/QtPkgConfigHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 827,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 1
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 8
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 10,
+				"parent" : 10
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 11
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 12
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 361,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 376,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 17
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 962,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 19
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 576,
+				"parent" : 21
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 605,
+				"parent" : 21
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 24
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 14
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 26
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 27
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 248,
+				"parent" : 28
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 21
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 30
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 31
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 248,
+				"parent" : 32
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 10
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 34
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 35
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 248,
+				"parent" : 36
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 38
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 243,
+				"parent" : 40
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 914,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 554,
+				"parent" : 42
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 17,
+				"file" : 15,
+				"line" : 42,
+				"parent" : 44
+			},
+			{
+				"command" : 16,
+				"file" : 14,
+				"line" : 597,
+				"parent" : 45
+			},
+			{
+				"command" : 15,
+				"file" : 14,
+				"line" : 411,
+				"parent" : 46
+			},
+			{
+				"command" : 14,
+				"file" : 14,
+				"line" : 249,
+				"parent" : 47
+			},
+			{
+				"file" : 13,
+				"parent" : 48
+			},
+			{
+				"command" : 14,
+				"file" : 13,
+				"line" : 360,
+				"parent" : 49
+			},
+			{
+				"file" : 12,
+				"parent" : 50
+			},
+			{
+				"command" : 13,
+				"file" : 12,
+				"line" : 34,
+				"parent" : 51
+			},
+			{
+				"command" : 19,
+				"file" : 1,
+				"line" : 643,
+				"parent" : 1
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 53
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 8
+			},
+			{
+				"command" : 21,
+				"file" : 1,
+				"line" : 588,
+				"parent" : 1
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 56
+			},
+			{
+				"command" : 20,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 53
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 8
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 60
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 61
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 63
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 64
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 66
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 67
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 8
+			},
+			{
+				"command" : 27,
+				"file" : 1,
+				"line" : 740,
+				"parent" : 1
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 70
+			},
+			{
+				"command" : 28,
+				"file" : 1,
+				"line" : 913,
+				"parent" : 39
+			},
+			{
+				"command" : 26,
+				"file" : 17,
+				"line" : 205,
+				"parent" : 72
+			},
+			{
+				"command" : 29,
+				"file" : 1,
+				"line" : 915,
+				"parent" : 39
+			},
+			{
+				"command" : 26,
+				"file" : 18,
+				"line" : 149,
+				"parent" : 74
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 54,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/CMakeFiles/3DInput.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/CMakeFiles/3DInput.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT3DINPUT_LIBRARY"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILD_3DINPUT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "_3DInput_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/3DInput_autogen/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/input"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/input/backend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/input/frontend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput/6.7.0"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput/6.7.0/Qt3DInput"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/core"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 62,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/Qt3DCore"
+				},
+				{
+					"backtrace" : 65,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 68,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/QtGui"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				30,
+				32,
+				35,
+				37,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				61,
+				64,
+				67,
+				70,
+				73,
+				76,
+				79,
+				82,
+				85,
+				88,
+				91,
+				94,
+				97,
+				99,
+				102,
+				105,
+				108,
+				110,
+				112,
+				115,
+				118,
+				121,
+				124,
+				126,
+				129,
+				132,
+				134
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 54,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/CMakeFiles/3DInput.dir/cmake_pch.hxx -x c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT3DINPUT_LIBRARY"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILD_3DINPUT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "_3DInput_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/3DInput_autogen/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/input"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/input/backend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/input/frontend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput/6.7.0"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DInput/6.7.0/Qt3DInput"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/core"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 62,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/Qt3DCore"
+				},
+				{
+					"backtrace" : 65,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 68,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/QtGui"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 9,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "3DInput_autogen::@69a23d69950dfd6af6e1"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Concurrent::@6debff8c4cb0dde4990d"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "3DCore::@c624818a73eafba92541"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "3DCore_sync_headers::@c624818a73eafba92541"
+		},
+		{
+			"id" : "3DInput_automoc_json_extraction::@69a23d69950dfd6af6e1"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "3DInput_sync_headers::@69a23d69950dfd6af6e1"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "3DInput_lib_pri::@69a23d69950dfd6af6e1"
+		}
+	],
+	"id" : "3DInput::@69a23d69950dfd6af6e1",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt63DCore_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "../../../qtbase/lib/libQt6Network_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "../../../qtbase/lib/libQt6Concurrent_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "3DInput",
+	"nameOnDisk" : "libQt63DInput_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qt3d/src/input",
+		"source" : "qt3d/src/input"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				30,
+				32,
+				35,
+				37,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				61,
+				64,
+				67,
+				70,
+				73,
+				76,
+				79,
+				82,
+				85,
+				88,
+				91,
+				94,
+				97,
+				99,
+				102,
+				105,
+				108,
+				110,
+				112,
+				115,
+				118,
+				121,
+				124,
+				126,
+				129,
+				132,
+				134
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				28,
+				29,
+				31,
+				33,
+				34,
+				36,
+				38,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				60,
+				62,
+				63,
+				65,
+				66,
+				68,
+				69,
+				71,
+				72,
+				74,
+				75,
+				77,
+				78,
+				80,
+				81,
+				83,
+				84,
+				86,
+				87,
+				89,
+				90,
+				92,
+				93,
+				95,
+				96,
+				98,
+				100,
+				101,
+				103,
+				104,
+				106,
+				107,
+				109,
+				111,
+				113,
+				114,
+				116,
+				117,
+				119,
+				120,
+				122,
+				123,
+				125,
+				127,
+				128,
+				130,
+				131,
+				133,
+				135,
+				136,
+				137,
+				138
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				139,
+				140,
+				141
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				142
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				143,
+				144,
+				145
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/3DInput_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/CMakeFiles/3DInput.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/abstractactioninput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/abstractactioninput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/abstractaxisinput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/abstractaxisinput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/action.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/action_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/actioninput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/actioninput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/analogaxisinput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/analogaxisinput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/assignkeyboardfocusjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/assignkeyboardfocusjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/axis.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/axis_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/axisaccumulator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/axisaccumulator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/axisaccumulatorjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/axisaccumulatorjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/axissetting.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/axissetting_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/backendnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/backendnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/buttonaxisinput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/buttonaxisinput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/genericdevicebackendnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/genericdevicebackendnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/handle_types_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/inputbackendnodefunctor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/inputchord.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/inputchord_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/inputhandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/inputhandler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/inputmanagers_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/inputsequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/inputsequence_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/inputsettings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/inputsettings_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/job_common_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/keyboarddevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/keyboarddevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/keyboardhandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/keyboardhandler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/keyboardmousegenericdeviceintegration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/keyboardmousegenericdeviceintegration_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/loadproxydevicejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/loadproxydevicejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/logicaldevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/logicaldevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/mousedevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/mousedevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/mousehandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/mousehandler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/movingaverage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/movingaverage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/physicaldeviceproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/physicaldeviceproxy_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/qabstractphysicaldevicebackendnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/qabstractphysicaldevicebackendnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/qabstractphysicaldevicebackendnode_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/backend/updateaxisactionjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/updateaxisactionjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/backend/utils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qabstractactioninput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractactioninput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractactioninput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qabstractaxisinput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractaxisinput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractaxisinput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qabstractphysicaldevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractphysicaldevice.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractphysicaldevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qabstractphysicaldeviceproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractphysicaldeviceproxy_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qabstractphysicaldeviceproxy_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qaction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaction.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaction_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qactioninput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qactioninput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qactioninput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qanalogaxisinput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qanalogaxisinput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qanalogaxisinput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qaxis.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaxis.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaxis_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qaxisaccumulator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaxisaccumulator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaxisaccumulator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qaxissetting.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaxissetting.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qaxissetting_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qbuttonaxisinput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qbuttonaxisinput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qbuttonaxisinput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qgenericinputdevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qgenericinputdevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputaspect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputaspect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputaspect_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputchord.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputchord.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputchord_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputdeviceintegration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputdeviceintegration_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputdeviceintegration_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputdeviceintegrationfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputdeviceintegrationfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputdeviceplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputdeviceplugin_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputsequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputsequence.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputsequence_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qinputsettings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputsettings.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qinputsettings_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qkeyboarddevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qkeyboarddevice.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qkeyboarddevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qkeyboardhandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qkeyboardhandler.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qkeyboardhandler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qkeyevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qkeyevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qlogicaldevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qlogicaldevice.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qlogicaldevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qmousedevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qmousedevice.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qmousedevice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qmouseevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qmouseevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/input/frontend/qmousehandler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qmousehandler.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/frontend/qmousehandler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/qt3dinput_global.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 69,
+			"path" : "qt3d/src/input/qt3dinput_global_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 71,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/meta_types/qt63dinput_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 73,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/preliminary_prl_for_3DInput_step2_Debug.prl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 75,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt63DInput_debug.pc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/CMakeFiles/3DInput.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/meta_types/qt63dinput_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/input/preliminary_prl_for_3DInput_step2_Debug.prl.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt63DInput_debug.pc.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

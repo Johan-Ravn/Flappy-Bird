@@ -1,0 +1,1469 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"add_dependencies",
+			"qt_internal_add_docs"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtBuildInternals/QtBuildInternalsConfig.cmake",
+			"qtbase/CMakeLists.txt",
+			"qtbase/cmake/QtDocsHelpers.cmake",
+			"qtdeclarative/src/qml/CMakeLists.txt",
+			"qtdeclarative/src/qmlmodels/CMakeLists.txt",
+			"qtdeclarative/src/core/CMakeLists.txt",
+			"qtdeclarative/src/qmlworkerscript/CMakeLists.txt",
+			"qtdeclarative/src/qmlxmllistmodel/CMakeLists.txt",
+			"qtdeclarative/src/quick/CMakeLists.txt",
+			"qtdeclarative/src/qmltest/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/CMakeLists.txt",
+			"qtvirtualkeyboard/src/virtualkeyboard/CMakeLists.txt",
+			"qtbase/src/dbus/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/opengl/CMakeLists.txt",
+			"qtbase/src/widgets/CMakeLists.txt",
+			"qtbase/src/testlib/CMakeLists.txt",
+			"qtbase/src/printsupport/CMakeLists.txt",
+			"qtbase/qmake/CMakeLists.txt",
+			"qtimageformats/src/imageformats/CMakeLists.txt",
+			"qtshadertools/src/shadertools/CMakeLists.txt",
+			"qtdeclarative/src/quickdialogs/quickdialogs/CMakeLists.txt",
+			"qtdeclarative/src/labs/platform/CMakeLists.txt",
+			"qtdeclarative/src/qmlcompiler/CMakeLists.txt",
+			"qtquicktimeline/src/timeline/CMakeLists.txt",
+			"qtquick3d/src/quick3d/CMakeLists.txt",
+			"qtdoc/doc/src/cmake/CMakeLists.txt",
+			"qtdoc/doc/src/platformintegration/CMakeLists.txt",
+			"qtgraphs/src/graphs/CMakeLists.txt",
+			"qtgrpc/src/protobuf/CMakeLists.txt",
+			"qtgrpc/src/grpc/CMakeLists.txt",
+			"qtlocation/src/location/CMakeLists.txt",
+			"qtwebview/src/webview/CMakeLists.txt",
+			"qtlottie/src/imports/CMakeLists.txt",
+			"qtmqtt/src/mqtt/CMakeLists.txt",
+			"qtnetworkauth/src/oauth/CMakeLists.txt",
+			"qtopcua/src/opcua/CMakeLists.txt",
+			"qtquick3dphysics/src/quick3dphysics/CMakeLists.txt",
+			"qtquickeffectmaker/src/doc/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/src/concurrent/CMakeLists.txt",
+			"qtbase/src/sql/CMakeLists.txt",
+			"qtbase/src/network/CMakeLists.txt",
+			"qtbase/src/xml/CMakeLists.txt",
+			"qtsvg/src/svg/CMakeLists.txt",
+			"qtmultimedia/src/multimedia/CMakeLists.txt",
+			"qtmultimedia/src/spatialaudio/CMakeLists.txt",
+			"qt3d/src/core/CMakeLists.txt",
+			"qt5compat/src/core5/CMakeLists.txt",
+			"qt5compat/src/imports/graphicaleffects5/CMakeLists.txt",
+			"qtactiveqt/src/activeqt/doc/CMakeLists.txt",
+			"qtcharts/src/charts/CMakeLists.txt",
+			"qtcoap/src/coap/CMakeLists.txt",
+			"qtconnectivity/src/bluetooth/CMakeLists.txt",
+			"qtconnectivity/src/nfc/CMakeLists.txt",
+			"qtdatavis3d/src/datavisualization/CMakeLists.txt",
+			"qtwebsockets/src/websockets/CMakeLists.txt",
+			"qthttpserver/src/httpserver/CMakeLists.txt",
+			"qttools/src/uitools/CMakeLists.txt",
+			"qttools/src/linguist/linguist/CMakeLists.txt",
+			"qttools/src/designer/src/designer/CMakeLists.txt",
+			"qttools/src/assistant/help/CMakeLists.txt",
+			"qttools/src/assistant/assistant/CMakeLists.txt",
+			"qttools/src/distancefieldgenerator/CMakeLists.txt",
+			"qtserialport/src/serialport/CMakeLists.txt",
+			"qtpositioning/src/positioning/CMakeLists.txt",
+			"qtwebchannel/src/webchannel/CMakeLists.txt",
+			"qtdoc/doc/CMakeLists.txt",
+			"qtremoteobjects/src/remoteobjects/CMakeLists.txt",
+			"qtscxml/src/scxml/CMakeLists.txt",
+			"qtscxml/src/statemachine/CMakeLists.txt",
+			"qtsensors/src/sensors/CMakeLists.txt",
+			"qtserialbus/src/serialbus/CMakeLists.txt",
+			"qtspeech/src/tts/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 711,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 4
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 4,
+				"line" : 76,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 7
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 38,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 10
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 6,
+				"line" : 97,
+				"parent" : 12
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 13
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 28,
+				"parent" : 15
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 16
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 3,
+				"file" : 8,
+				"line" : 525,
+				"parent" : 18
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 19
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 3,
+				"file" : 9,
+				"line" : 58,
+				"parent" : 21
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 22
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 10,
+				"line" : 89,
+				"parent" : 24
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 25
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 3,
+				"file" : 11,
+				"line" : 108,
+				"parent" : 27
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 28
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 76,
+				"parent" : 30
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 31
+			},
+			{
+				"file" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 13,
+				"line" : 987,
+				"parent" : 33
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 34
+			},
+			{
+				"file" : 14
+			},
+			{
+				"command" : 3,
+				"file" : 14,
+				"line" : 119,
+				"parent" : 36
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 37
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 3,
+				"file" : 15,
+				"line" : 850,
+				"parent" : 39
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 40
+			},
+			{
+				"file" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 16,
+				"line" : 133,
+				"parent" : 42
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 43
+			},
+			{
+				"file" : 17
+			},
+			{
+				"command" : 3,
+				"file" : 17,
+				"line" : 199,
+				"parent" : 45
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 46
+			},
+			{
+				"file" : 18
+			},
+			{
+				"command" : 3,
+				"file" : 18,
+				"line" : 143,
+				"parent" : 48
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 49
+			},
+			{
+				"file" : 19
+			},
+			{
+				"command" : 3,
+				"file" : 19,
+				"line" : 5,
+				"parent" : 51
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 52
+			},
+			{
+				"file" : 20
+			},
+			{
+				"command" : 3,
+				"file" : 20,
+				"line" : 53,
+				"parent" : 54
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 55
+			},
+			{
+				"file" : 21
+			},
+			{
+				"command" : 3,
+				"file" : 21,
+				"line" : 55,
+				"parent" : 57
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 58
+			},
+			{
+				"file" : 22
+			},
+			{
+				"command" : 3,
+				"file" : 22,
+				"line" : 89,
+				"parent" : 60
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 61
+			},
+			{
+				"file" : 23
+			},
+			{
+				"command" : 3,
+				"file" : 23,
+				"line" : 61,
+				"parent" : 63
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 64
+			},
+			{
+				"file" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 24,
+				"line" : 30,
+				"parent" : 66
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 67
+			},
+			{
+				"file" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 25,
+				"line" : 112,
+				"parent" : 69
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 70
+			},
+			{
+				"file" : 26
+			},
+			{
+				"command" : 3,
+				"file" : 26,
+				"line" : 8,
+				"parent" : 72
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 73
+			},
+			{
+				"file" : 27
+			},
+			{
+				"command" : 3,
+				"file" : 27,
+				"line" : 8,
+				"parent" : 75
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 76
+			},
+			{
+				"file" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 28,
+				"line" : 760,
+				"parent" : 78
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 79
+			},
+			{
+				"file" : 29
+			},
+			{
+				"command" : 3,
+				"file" : 29,
+				"line" : 27,
+				"parent" : 81
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 82
+			},
+			{
+				"file" : 30
+			},
+			{
+				"command" : 3,
+				"file" : 30,
+				"line" : 33,
+				"parent" : 84
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 85
+			},
+			{
+				"file" : 31
+			},
+			{
+				"command" : 3,
+				"file" : 31,
+				"line" : 180,
+				"parent" : 87
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 88
+			},
+			{
+				"file" : 32
+			},
+			{
+				"command" : 3,
+				"file" : 32,
+				"line" : 44,
+				"parent" : 90
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 91
+			},
+			{
+				"file" : 33
+			},
+			{
+				"command" : 3,
+				"file" : 33,
+				"line" : 24,
+				"parent" : 93
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 94
+			},
+			{
+				"file" : 34
+			},
+			{
+				"command" : 3,
+				"file" : 34,
+				"line" : 32,
+				"parent" : 96
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 97
+			},
+			{
+				"file" : 35
+			},
+			{
+				"command" : 3,
+				"file" : 35,
+				"line" : 32,
+				"parent" : 99
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 100
+			},
+			{
+				"file" : 36
+			},
+			{
+				"command" : 3,
+				"file" : 36,
+				"line" : 119,
+				"parent" : 102
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 103
+			},
+			{
+				"file" : 37
+			},
+			{
+				"command" : 3,
+				"file" : 37,
+				"line" : 83,
+				"parent" : 105
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 106
+			},
+			{
+				"file" : 38
+			},
+			{
+				"command" : 3,
+				"file" : 38,
+				"line" : 4,
+				"parent" : 108
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 109
+			},
+			{
+				"file" : 39
+			},
+			{
+				"command" : 3,
+				"file" : 39,
+				"line" : 1379,
+				"parent" : 111
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 112
+			},
+			{
+				"file" : 40
+			},
+			{
+				"command" : 3,
+				"file" : 40,
+				"line" : 48,
+				"parent" : 114
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 115
+			},
+			{
+				"file" : 41
+			},
+			{
+				"command" : 3,
+				"file" : 41,
+				"line" : 56,
+				"parent" : 117
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 118
+			},
+			{
+				"file" : 42
+			},
+			{
+				"command" : 3,
+				"file" : 42,
+				"line" : 365,
+				"parent" : 120
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 121
+			},
+			{
+				"file" : 43
+			},
+			{
+				"command" : 3,
+				"file" : 43,
+				"line" : 32,
+				"parent" : 123
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 124
+			},
+			{
+				"file" : 44
+			},
+			{
+				"command" : 3,
+				"file" : 44,
+				"line" : 59,
+				"parent" : 126
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 127
+			},
+			{
+				"file" : 45
+			},
+			{
+				"command" : 3,
+				"file" : 45,
+				"line" : 117,
+				"parent" : 129
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 130
+			},
+			{
+				"file" : 46
+			},
+			{
+				"command" : 3,
+				"file" : 46,
+				"line" : 27,
+				"parent" : 132
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 133
+			},
+			{
+				"file" : 47
+			},
+			{
+				"command" : 3,
+				"file" : 47,
+				"line" : 128,
+				"parent" : 135
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 136
+			},
+			{
+				"file" : 48
+			},
+			{
+				"command" : 3,
+				"file" : 48,
+				"line" : 84,
+				"parent" : 138
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 139
+			},
+			{
+				"file" : 49
+			},
+			{
+				"command" : 3,
+				"file" : 49,
+				"line" : 99,
+				"parent" : 141
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 142
+			},
+			{
+				"file" : 50
+			},
+			{
+				"command" : 3,
+				"file" : 50,
+				"line" : 6,
+				"parent" : 144
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 145
+			},
+			{
+				"file" : 51
+			},
+			{
+				"command" : 3,
+				"file" : 51,
+				"line" : 269,
+				"parent" : 147
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 148
+			},
+			{
+				"file" : 52
+			},
+			{
+				"command" : 3,
+				"file" : 52,
+				"line" : 36,
+				"parent" : 150
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 151
+			},
+			{
+				"file" : 53
+			},
+			{
+				"command" : 3,
+				"file" : 53,
+				"line" : 270,
+				"parent" : 153
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 154
+			},
+			{
+				"file" : 54
+			},
+			{
+				"command" : 3,
+				"file" : 54,
+				"line" : 106,
+				"parent" : 156
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 157
+			},
+			{
+				"file" : 55
+			},
+			{
+				"command" : 3,
+				"file" : 55,
+				"line" : 413,
+				"parent" : 159
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 160
+			},
+			{
+				"file" : 56
+			},
+			{
+				"command" : 3,
+				"file" : 56,
+				"line" : 48,
+				"parent" : 162
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 163
+			},
+			{
+				"file" : 57
+			},
+			{
+				"command" : 3,
+				"file" : 57,
+				"line" : 49,
+				"parent" : 165
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 166
+			},
+			{
+				"file" : 58
+			},
+			{
+				"command" : 3,
+				"file" : 58,
+				"line" : 46,
+				"parent" : 168
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 169
+			},
+			{
+				"file" : 59
+			},
+			{
+				"command" : 3,
+				"file" : 59,
+				"line" : 175,
+				"parent" : 171
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 172
+			},
+			{
+				"file" : 60
+			},
+			{
+				"command" : 3,
+				"file" : 60,
+				"line" : 149,
+				"parent" : 174
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 175
+			},
+			{
+				"file" : 61
+			},
+			{
+				"command" : 3,
+				"file" : 61,
+				"line" : 66,
+				"parent" : 177
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 178
+			},
+			{
+				"file" : 62
+			},
+			{
+				"command" : 3,
+				"file" : 62,
+				"line" : 174,
+				"parent" : 180
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 181
+			},
+			{
+				"file" : 63
+			},
+			{
+				"command" : 3,
+				"file" : 63,
+				"line" : 31,
+				"parent" : 183
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 184
+			},
+			{
+				"file" : 64
+			},
+			{
+				"command" : 3,
+				"file" : 64,
+				"line" : 69,
+				"parent" : 186
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 187
+			},
+			{
+				"file" : 65
+			},
+			{
+				"command" : 3,
+				"file" : 65,
+				"line" : 68,
+				"parent" : 189
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 190
+			},
+			{
+				"file" : 66
+			},
+			{
+				"command" : 3,
+				"file" : 66,
+				"line" : 34,
+				"parent" : 192
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 193
+			},
+			{
+				"file" : 67
+			},
+			{
+				"command" : 3,
+				"file" : 67,
+				"line" : 8,
+				"parent" : 195
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 196
+			},
+			{
+				"file" : 68
+			},
+			{
+				"command" : 3,
+				"file" : 68,
+				"line" : 63,
+				"parent" : 198
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 199
+			},
+			{
+				"file" : 69
+			},
+			{
+				"command" : 3,
+				"file" : 69,
+				"line" : 54,
+				"parent" : 201
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 202
+			},
+			{
+				"file" : 70
+			},
+			{
+				"command" : 3,
+				"file" : 70,
+				"line" : 52,
+				"parent" : 204
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 205
+			},
+			{
+				"file" : 71
+			},
+			{
+				"command" : 3,
+				"file" : 71,
+				"line" : 92,
+				"parent" : 207
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 208
+			},
+			{
+				"file" : 72
+			},
+			{
+				"command" : 3,
+				"file" : 72,
+				"line" : 60,
+				"parent" : 210
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 211
+			},
+			{
+				"file" : 73
+			},
+			{
+				"command" : 3,
+				"file" : 73,
+				"line" : 37,
+				"parent" : 213
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 200,
+				"parent" : 214
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "qch_top_level_docs_Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "qch_top_level_docs_QmlModels::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "qch_top_level_docs_QmlCore::@ea8e6f3566c9bb7c96e9"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "qch_top_level_docs_QmlWorkerScript::@42b6f0f8b3b4b80d662a"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "qch_top_level_docs_QmlXmlListModel::@dd86aef970258dca16e5"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "qch_top_level_docs_Quick::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "qch_top_level_docs_QuickTest::@f3ea4e36fd753b337276"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "qch_top_level_docs_QuickControls2::@d0a521f8df56dfe448b0"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "qch_top_level_docs_VirtualKeyboard::@d7043907fa59c054e379"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "qch_top_level_docs_DBus::@ea5664f228ab8e579394"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "qch_top_level_docs_Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "qch_top_level_docs_OpenGL::@4647851a72f814f2421b"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "qch_top_level_docs_Widgets::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "qch_top_level_docs_Test::@5d02e66db150225b781d"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "qch_top_level_docs_PrintSupport::@485694ce776186d67c5b"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "qch_top_level_docs_qmake::@6c23daa751e2220a3dfd"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "qch_top_level_docs_ImageFormats::@9bfd970526c7b4012f02"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "qch_top_level_docs_ShaderTools::@484bb1c56e28263ebe8f"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "qch_top_level_docs_QuickDialogs2::@ede857d7fff4529fe76a"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "qch_top_level_docs_qtlabsplatformplugin::@04cd6d98e178dd0d4cfb"
+		},
+		{
+			"backtrace" : 65,
+			"id" : "qch_top_level_docs_QmlCompilerPrivate::@39b54f7d2b7848ada52d"
+		},
+		{
+			"backtrace" : 68,
+			"id" : "qch_top_level_docs_QuickTimeline::@ef27fa22df2fa175de50"
+		},
+		{
+			"backtrace" : 71,
+			"id" : "qch_top_level_docs_Quick3D::@60de046a73c3f1bf5cbb"
+		},
+		{
+			"backtrace" : 74,
+			"id" : "qch_top_level_docs_qtcmake::@63af2348a9c6c0f61d55"
+		},
+		{
+			"backtrace" : 77,
+			"id" : "qch_top_level_docs_qtplatformintegration::@aebf111e76d42b2f697b"
+		},
+		{
+			"backtrace" : 80,
+			"id" : "qch_top_level_docs_Graphs::@88f33e022c804e683acd"
+		},
+		{
+			"backtrace" : 83,
+			"id" : "qch_top_level_docs_Protobuf::@4f868ff39b2644eda829"
+		},
+		{
+			"backtrace" : 86,
+			"id" : "qch_top_level_docs_Grpc::@9badd7f1b4f63b8c1a65"
+		},
+		{
+			"backtrace" : 89,
+			"id" : "qch_top_level_docs_Location::@40797766ad51bddf9b74"
+		},
+		{
+			"backtrace" : 92,
+			"id" : "qch_top_level_docs_WebView::@d72a0bdb57a780286b35"
+		},
+		{
+			"backtrace" : 95,
+			"id" : "qch_top_level_docs_lottieqtplugin::@0368c97da5bfcfeafa09"
+		},
+		{
+			"backtrace" : 98,
+			"id" : "qch_top_level_docs_Mqtt::@4da9d186bc3730be13cf"
+		},
+		{
+			"backtrace" : 101,
+			"id" : "qch_top_level_docs_NetworkAuth::@292faff82b2e18fce823"
+		},
+		{
+			"backtrace" : 104,
+			"id" : "qch_top_level_docs_OpcUa::@e43cc5ce8c68dac988db"
+		},
+		{
+			"backtrace" : 107,
+			"id" : "qch_top_level_docs_Quick3DPhysics::@89b926fa90b5866ba765"
+		},
+		{
+			"backtrace" : 110,
+			"id" : "qch_top_level_docs_QtQuickEffectMakerDoc::@a09c409a76cc580353d0"
+		},
+		{
+			"backtrace" : 113,
+			"id" : "qch_top_level_docs_Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 116,
+			"id" : "qch_top_level_docs_Concurrent::@6debff8c4cb0dde4990d"
+		},
+		{
+			"backtrace" : 119,
+			"id" : "qch_top_level_docs_Sql::@ade569add210a552017a"
+		},
+		{
+			"backtrace" : 122,
+			"id" : "qch_top_level_docs_Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 125,
+			"id" : "qch_top_level_docs_Xml::@ea9d4d7867ee2bbe586a"
+		},
+		{
+			"backtrace" : 128,
+			"id" : "qch_top_level_docs_Svg::@b467f01ce70acae3c20a"
+		},
+		{
+			"backtrace" : 131,
+			"id" : "qch_top_level_docs_Multimedia::@fdef2e563025ab6d5924"
+		},
+		{
+			"backtrace" : 134,
+			"id" : "qch_top_level_docs_SpatialAudio::@ad1b23e3ac9050538eca"
+		},
+		{
+			"backtrace" : 137,
+			"id" : "qch_top_level_docs_3DCore::@c624818a73eafba92541"
+		},
+		{
+			"backtrace" : 140,
+			"id" : "qch_top_level_docs_Core5Compat::@7fdedc63ca22c4e18891"
+		},
+		{
+			"backtrace" : 143,
+			"id" : "qch_top_level_docs_qtgraphicaleffectsplugin::@26ce633ec2e63dd68c47"
+		},
+		{
+			"backtrace" : 146,
+			"id" : "qch_top_level_docs_ActiveQt::@f259d6299c6bec990dd0"
+		},
+		{
+			"backtrace" : 149,
+			"id" : "qch_top_level_docs_Charts::@dabe66ae6607b7e376cb"
+		},
+		{
+			"backtrace" : 152,
+			"id" : "qch_top_level_docs_Coap::@6d752d65743953cd3185"
+		},
+		{
+			"backtrace" : 155,
+			"id" : "qch_top_level_docs_Bluetooth::@61dc9a2b5cbfead25ae5"
+		},
+		{
+			"backtrace" : 158,
+			"id" : "qch_top_level_docs_Nfc::@bb58a699190997bd331b"
+		},
+		{
+			"backtrace" : 161,
+			"id" : "qch_top_level_docs_DataVisualization::@2521eee5d2f8fd1d21c6"
+		},
+		{
+			"backtrace" : 164,
+			"id" : "qch_top_level_docs_WebSockets::@3529ec07033b37a79204"
+		},
+		{
+			"backtrace" : 167,
+			"id" : "qch_top_level_docs_HttpServer::@69753c0ddd1c9520304f"
+		},
+		{
+			"backtrace" : 170,
+			"id" : "qch_top_level_docs_UiTools::@e77ce7598941c41e0d73"
+		},
+		{
+			"backtrace" : 173,
+			"id" : "qch_top_level_docs_linguist::@c0c18ffd11347b218f4e"
+		},
+		{
+			"backtrace" : 176,
+			"id" : "qch_top_level_docs_designer::@47d948e763e5c0a89e4c"
+		},
+		{
+			"backtrace" : 179,
+			"id" : "qch_top_level_docs_Help::@23ef048eb01b902dc14a"
+		},
+		{
+			"backtrace" : 182,
+			"id" : "qch_top_level_docs_assistant::@cb198c9b13c478f85fdb"
+		},
+		{
+			"backtrace" : 185,
+			"id" : "qch_top_level_docs_qdistancefieldgenerator::@1e37a958c9f046934d03"
+		},
+		{
+			"backtrace" : 188,
+			"id" : "qch_top_level_docs_SerialPort::@7efc6946950f67b94485"
+		},
+		{
+			"backtrace" : 191,
+			"id" : "qch_top_level_docs_Positioning::@9d46389cb8471f8f1d24"
+		},
+		{
+			"backtrace" : 194,
+			"id" : "qch_top_level_docs_WebChannel::@490d0e679ec6162171c1"
+		},
+		{
+			"backtrace" : 197,
+			"id" : "qch_top_level_docs_QtDoc::@e32fbc9ee5b796ab49a3"
+		},
+		{
+			"backtrace" : 200,
+			"id" : "qch_top_level_docs_RemoteObjects::@7c2e2aec9f36b5e88bfc"
+		},
+		{
+			"backtrace" : 203,
+			"id" : "qch_top_level_docs_Scxml::@eb449b438aadb6e38810"
+		},
+		{
+			"backtrace" : 206,
+			"id" : "qch_top_level_docs_StateMachine::@00511a99ade26ce518a0"
+		},
+		{
+			"backtrace" : 209,
+			"id" : "qch_top_level_docs_Sensors::@e51b90d7256946c0832f"
+		},
+		{
+			"backtrace" : 212,
+			"id" : "qch_top_level_docs_SerialBus::@9e7a8ba87033816f279e"
+		},
+		{
+			"backtrace" : 215,
+			"id" : "qch_top_level_docs_TextToSpeech::@1afd2d74c6a57ed1fc71"
+		}
+	],
+	"id" : "qch_docs::@e5137009cee4d36dff54",
+	"name" : "qch_docs",
+	"paths" : 
+	{
+		"build" : "qtbase",
+		"source" : "qtbase"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

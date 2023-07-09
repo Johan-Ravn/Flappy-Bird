@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/NativeStyle/">
+    <file alias="controls/DefaultButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultButton.qml</file>
+    <file alias="controls/DefaultSlider.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultSlider.qml</file>
+    <file alias="controls/DefaultGroupBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultGroupBox.qml</file>
+    <file alias="controls/DefaultCheckBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultCheckBox.qml</file>
+    <file alias="controls/DefaultRadioButton.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultRadioButton.qml</file>
+    <file alias="controls/DefaultSpinBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultSpinBox.qml</file>
+    <file alias="controls/DefaultTextField.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultTextField.qml</file>
+    <file alias="controls/DefaultFrame.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultFrame.qml</file>
+    <file alias="controls/DefaultTextArea.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultTextArea.qml</file>
+    <file alias="controls/DefaultComboBox.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultComboBox.qml</file>
+    <file alias="controls/DefaultScrollBar.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultScrollBar.qml</file>
+    <file alias="controls/DefaultProgressBar.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultProgressBar.qml</file>
+    <file alias="controls/DefaultDial.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultDial.qml</file>
+    <file alias="util/FocusFrame.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/util/FocusFrame.qml</file>
+    <file alias="controls/DefaultTreeViewDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quicknativestyle/controls/DefaultTreeViewDelegate.qml</file>
+  </qresource>
+</RCC>
+

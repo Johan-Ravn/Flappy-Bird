@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/rhishaders/particlesvlightsimple.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/particlesvlightsimple.vert.qsb</file>
+    <file alias="res/rhishaders/particlesvlightsimple.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/particlesvlightsimple.frag.qsb</file>
+  </qresource>
+</RCC>
+

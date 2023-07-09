@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt-project.org/qttoolbardialog">
+    <file alias="images/back.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/../../../shared/qttoolbardialog/images/back.png</file>
+    <file alias="images/down.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/../../../shared/qttoolbardialog/images/down.png</file>
+    <file alias="images/forward.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/../../../shared/qttoolbardialog/images/forward.png</file>
+    <file alias="images/minus.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/../../../shared/qttoolbardialog/images/minus.png</file>
+    <file alias="images/plus.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/../../../shared/qttoolbardialog/images/plus.png</file>
+    <file alias="images/up.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/../../../shared/qttoolbardialog/images/up.png</file>
+  </qresource>
+</RCC>
+

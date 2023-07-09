@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtbase/src/3rdparty/pcre2",
+		"source" : "qtbase/src/3rdparty/pcre2"
+	}
+}

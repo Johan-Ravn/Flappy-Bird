@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtbase/src/3rdparty/harfbuzz-ng",
+		"source" : "qtbase/src/3rdparty/harfbuzz-ng"
+	}
+}

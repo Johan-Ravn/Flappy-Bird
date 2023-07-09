@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="/qt-project.org/qtpropertybrowser">
+    <file alias="images/cursor-arrow.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-arrow.png</file>
+    <file alias="images/cursor-busy.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-busy.png</file>
+    <file alias="images/cursor-closedhand.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-closedhand.png</file>
+    <file alias="images/cursor-cross.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-cross.png</file>
+    <file alias="images/cursor-forbidden.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-forbidden.png</file>
+    <file alias="images/cursor-hand.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-hand.png</file>
+    <file alias="images/cursor-hsplit.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-hsplit.png</file>
+    <file alias="images/cursor-ibeam.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-ibeam.png</file>
+    <file alias="images/cursor-openhand.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-openhand.png</file>
+    <file alias="images/cursor-sizeall.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-sizeall.png</file>
+    <file alias="images/cursor-sizeb.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-sizeb.png</file>
+    <file alias="images/cursor-sizef.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-sizef.png</file>
+    <file alias="images/cursor-sizeh.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-sizeh.png</file>
+    <file alias="images/cursor-sizev.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-sizev.png</file>
+    <file alias="images/cursor-uparrow.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-uparrow.png</file>
+    <file alias="images/cursor-vsplit.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-vsplit.png</file>
+    <file alias="images/cursor-wait.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-wait.png</file>
+    <file alias="images/cursor-whatsthis.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../../../../shared/qtpropertybrowser/images/cursor-whatsthis.png</file>
+  </qresource>
+</RCC>
+

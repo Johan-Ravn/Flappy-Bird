@@ -1,0 +1,276 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"add_dependencies",
+			"qt_internal_add_docs"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtdeclarative/CMakeLists.txt",
+			"qtbase/cmake/QtDocsHelpers.cmake",
+			"qtdeclarative/src/qml/CMakeLists.txt",
+			"qtdeclarative/src/qmlmodels/CMakeLists.txt",
+			"qtdeclarative/src/core/CMakeLists.txt",
+			"qtdeclarative/src/qmlworkerscript/CMakeLists.txt",
+			"qtdeclarative/src/qmlxmllistmodel/CMakeLists.txt",
+			"qtdeclarative/src/quick/CMakeLists.txt",
+			"qtdeclarative/src/qmltest/CMakeLists.txt",
+			"qtdeclarative/src/quickcontrols/CMakeLists.txt",
+			"qtdeclarative/src/quickdialogs/quickdialogs/CMakeLists.txt",
+			"qtdeclarative/src/labs/platform/CMakeLists.txt",
+			"qtdeclarative/src/qmlcompiler/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 597,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 510,
+				"parent" : 2
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 711,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 5
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 76,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 8
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 38,
+				"parent" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 11
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 97,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 14
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 28,
+				"parent" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 17
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 8,
+				"line" : 525,
+				"parent" : 19
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 20
+			},
+			{
+				"file" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 9,
+				"line" : 58,
+				"parent" : 22
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 23
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 10,
+				"line" : 89,
+				"parent" : 25
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 26
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 4,
+				"file" : 11,
+				"line" : 55,
+				"parent" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 29
+			},
+			{
+				"file" : 12
+			},
+			{
+				"command" : 4,
+				"file" : 12,
+				"line" : 89,
+				"parent" : 31
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 32
+			},
+			{
+				"file" : 13
+			},
+			{
+				"command" : 4,
+				"file" : 13,
+				"line" : 61,
+				"parent" : 34
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 245,
+				"parent" : 35
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "install_html_docs_Qml::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "install_html_docs_QmlModels::@3be23c0b9d8631a92944"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "install_html_docs_QmlCore::@ea8e6f3566c9bb7c96e9"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "install_html_docs_QmlWorkerScript::@42b6f0f8b3b4b80d662a"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "install_html_docs_QmlXmlListModel::@dd86aef970258dca16e5"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "install_html_docs_Quick::@022ac8dfaf7bfe5dcf20"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "install_html_docs_QuickTest::@f3ea4e36fd753b337276"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "install_html_docs_QuickControls2::@d0a521f8df56dfe448b0"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "install_html_docs_QuickDialogs2::@ede857d7fff4529fe76a"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "install_html_docs_qtlabsplatformplugin::@04cd6d98e178dd0d4cfb"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "install_html_docs_QmlCompilerPrivate::@39b54f7d2b7848ada52d"
+		}
+	],
+	"id" : "install_html_docs_qtdeclarative::@3f8b8320d1872f2fb4d4",
+	"name" : "install_html_docs_qtdeclarative",
+	"paths" : 
+	{
+		"build" : "qtdeclarative",
+		"source" : "qtdeclarative"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

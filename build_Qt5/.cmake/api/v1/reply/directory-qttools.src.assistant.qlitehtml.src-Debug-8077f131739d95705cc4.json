@@ -1,0 +1,46 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"qttools/src/assistant/qlitehtml/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 140,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"isOptional" : true,
+			"paths" : 
+			[
+				"qttools/src/assistant/qlitehtml/src/value-NOTFOUND/libqlitehtml_debug.a"
+			],
+			"targetId" : "qlitehtml::@39f8be2c182169c8b54d",
+			"targetIndex" : 2648,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qttools/src/assistant/qlitehtml/src",
+		"source" : "qttools/src/assistant/qlitehtml/src"
+	}
+}

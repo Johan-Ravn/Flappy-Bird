@@ -1,0 +1,5 @@
+#ifndef QT_QTQDOCCATCHCONVERSIONS_MODULE_H
+#define QT_QTQDOCCATCHCONVERSIONS_MODULE_H
+#include <QtQDocCatchConversions/QtQDocCatchConversionsDepends>
+#include "qtqdoccatchconversionsversion.h"
+#endif

@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /usr/local/Cellar/opencv/4.8.0/include/opencv4
+CXX_INCLUDES = -I/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/include -isystem /usr/local/Cellar/opencv/4.8.0/include/opencv4
 
 CXX_FLAGS = -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
 

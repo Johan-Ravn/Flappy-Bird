@@ -1,0 +1,616 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/plugins/sensors/libqtsensors_generic_debug.dylib"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_plugin",
+			"qt_internal_add_plugin",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtsensors/src/plugins/sensors/generic/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtsensors/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2169,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 461,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 7
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 336,
+				"parent" : 1
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 9
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 576,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 6,
+				"line" : 605,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 14
+			},
+			{
+				"file" : 10
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 22,
+				"parent" : 16
+			},
+			{
+				"command" : 13,
+				"file" : 9,
+				"line" : 597,
+				"parent" : 17
+			},
+			{
+				"command" : 12,
+				"file" : 9,
+				"line" : 411,
+				"parent" : 18
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 249,
+				"parent" : 19
+			},
+			{
+				"file" : 8,
+				"parent" : 20
+			},
+			{
+				"command" : 11,
+				"file" : 8,
+				"line" : 360,
+				"parent" : 21
+			},
+			{
+				"file" : 7,
+				"parent" : 22
+			},
+			{
+				"command" : 10,
+				"file" : 7,
+				"line" : 34,
+				"parent" : 23
+			},
+			{
+				"command" : 16,
+				"file" : 1,
+				"line" : 370,
+				"parent" : 1
+			},
+			{
+				"command" : 15,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 25
+			},
+			{
+				"command" : 17,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 9
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 17,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 28
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 2236,
+				"parent" : 2
+			},
+			{
+				"command" : 18,
+				"file" : 1,
+				"line" : 368,
+				"parent" : 1
+			},
+			{
+				"command" : 17,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 31
+			},
+			{
+				"command" : 17,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 25
+			},
+			{
+				"command" : 19,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 9
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 9
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 28
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 24,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 24,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 26,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Werror"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "\"-Wno-error=#warnings\""
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "QTSENSORS_GENERICALSSENSOR"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "QTSENSORS_GENERICORIENTATIONSENSOR"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "QTSENSORS_GENERICROTATIONSENSOR"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "QTSENSORS_GENERICTILTSENSOR"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_SENSORS_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "_LARGEFILE_SOURCE"
+				},
+				{
+					"define" : "genericSensorPlugin_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtsensors/src/plugins/sensors/generic/genericSensorPlugin_autogen/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtsensors/src/plugins/sensors/generic"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtsensors/src/plugins/sensors/generic"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtSensors"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					10
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				7,
+				8
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "genericSensorPlugin_autogen::@cca562e030f032f7748d"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Sensors::@e51b90d7256946c0832f"
+		}
+	],
+	"id" : "genericSensorPlugin::@cca562e030f032f7748d",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 6,
+				"path" : "./plugins/sensors"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path/../../lib -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt6Sensors_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "../../../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "genericSensorPlugin",
+	"nameOnDisk" : "libqtsensors_generic_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtsensors/src/plugins/sensors/generic",
+		"source" : "qtsensors/src/plugins/sensors/generic"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				7,
+				8
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				4,
+				6,
+				9
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtsensors/src/plugins/sensors/generic/genericSensorPlugin_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtsensors/src/plugins/sensors/generic/genericalssensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtsensors/src/plugins/sensors/generic/genericalssensor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtsensors/src/plugins/sensors/generic/genericorientationsensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtsensors/src/plugins/sensors/generic/genericorientationsensor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtsensors/src/plugins/sensors/generic/generictiltsensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 35,
+			"path" : "qtsensors/src/plugins/sensors/generic/generictiltsensor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 35,
+			"compileGroupIndex" : 0,
+			"path" : "qtsensors/src/plugins/sensors/generic/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 36,
+			"compileGroupIndex" : 0,
+			"path" : "qtsensors/src/plugins/sensors/generic/genericrotationsensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 36,
+			"path" : "qtsensors/src/plugins/sensors/generic/genericrotationsensor.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

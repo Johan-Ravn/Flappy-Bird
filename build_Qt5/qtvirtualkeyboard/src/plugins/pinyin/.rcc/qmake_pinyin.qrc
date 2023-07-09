@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/VirtualKeyboard">
+    <file alias="3rdparty/pinyin/data/dict_pinyin.dat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/pinyin/3rdparty/pinyin/data/dict_pinyin.dat</file>
+  </qresource>
+</RCC>
+

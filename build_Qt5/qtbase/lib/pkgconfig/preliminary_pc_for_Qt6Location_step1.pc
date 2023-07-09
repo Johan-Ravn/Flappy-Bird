@@ -1,0 +1,14 @@
+prefix=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+$<$<BOOL:>:mkspecsdir=${prefix}/mkspecs>
+$<1: >
+Name: Qt6 Location
+Description: Qt Location module
+Version: 6.7.0
+Libs: $<$<NOT:$<STREQUAL:$<TARGET_PROPERTY:Qt6::Location,TYPE>,INTERFACE_LIBRARY>>:-L${libdir} -lQt6Location> $<$<BOOL:loose_link_options-NOTFOUND>:$<JOIN:$<REMOVE_DUPLICATES:loose_link_options-NOTFOUND>, >> $<JOIN:$<REMOVE_DUPLICATES:>, >
+Cflags: $<$<BOOL:${includedir}/QtLocation;${includedir}>:-I$<JOIN:$<REMOVE_DUPLICATES:${includedir}/QtLocation;${includedir}>, -I>> $<$<BOOL:QT_LOCATION_LIB>:-D$<JOIN:$<REMOVE_DUPLICATES:QT_LOCATION_LIB>, -D>>
+Requires: $<JOIN:$<REMOVE_DUPLICATES:Qt6Core;Qt6Positioning;Qt6PositioningQuick>, >

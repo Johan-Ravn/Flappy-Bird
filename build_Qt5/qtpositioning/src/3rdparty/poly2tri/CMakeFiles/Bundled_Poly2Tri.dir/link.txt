@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../../../qtbase/lib/libQt6Bundled_Poly2Tri_debug.a CMakeFiles/Bundled_Poly2Tri.dir/common/shapes.cpp.o CMakeFiles/Bundled_Poly2Tri.dir/sweep/advancing_front.cpp.o CMakeFiles/Bundled_Poly2Tri.dir/sweep/cdt.cpp.o CMakeFiles/Bundled_Poly2Tri.dir/sweep/sweep.cpp.o CMakeFiles/Bundled_Poly2Tri.dir/sweep/sweep_context.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../../../qtbase/lib/libQt6Bundled_Poly2Tri_debug.a

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt-project.org/mac/cursors">
+    <file alias="images/sizeallcursor.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/plugins/platforms/cocoa/images/sizeallcursor.png</file>
+    <file alias="images/spincursor.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/plugins/platforms/cocoa/images/spincursor.png</file>
+    <file alias="images/waitcursor.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/plugins/platforms/cocoa/images/waitcursor.png</file>
+  </qresource>
+</RCC>
+

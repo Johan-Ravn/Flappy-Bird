@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/datapointModels">
+    <file alias="DatapointSphere">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/DatapointSphere.qml</file>
+    <file alias="DatapointCube">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/DatapointCube.qml</file>
+  </qresource>
+</RCC>
+

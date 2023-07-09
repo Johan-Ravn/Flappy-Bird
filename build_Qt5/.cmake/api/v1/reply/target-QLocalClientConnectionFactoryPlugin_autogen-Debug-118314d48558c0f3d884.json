@@ -1,0 +1,69 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_local/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		}
+	],
+	"id" : "QLocalClientConnectionFactoryPlugin_autogen::@88997297b175863cc563",
+	"isGeneratorProvided" : true,
+	"name" : "QLocalClientConnectionFactoryPlugin_autogen",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/plugins/qmltooling/qmldbg_local",
+		"source" : "qtdeclarative/src/plugins/qmltooling/qmldbg_local"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/plugins/qmltooling/qmldbg_local/CMakeFiles/QLocalClientConnectionFactoryPlugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/plugins/qmltooling/qmldbg_local/CMakeFiles/QLocalClientConnectionFactoryPlugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

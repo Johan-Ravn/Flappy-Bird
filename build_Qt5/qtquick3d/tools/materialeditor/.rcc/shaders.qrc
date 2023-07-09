@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick3D/MaterialEditor">
+    <file alias="assets/shaders/frostedGlass.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/tools/materialeditor/.qsb/assets/shaders/frostedGlass.frag.qsb</file>
+  </qresource>
+</RCC>
+

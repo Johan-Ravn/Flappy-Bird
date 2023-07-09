@@ -1,0 +1,171 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module"
+		],
+		"files" : 
+		[
+			"qttools/src/designer/src/designer/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qttools/src/designer/src/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"file" : 4
+			},
+			{
+				"file" : 4,
+				"line" : -1,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 4
+			},
+			{
+				"file" : 5
+			},
+			{
+				"file" : 5,
+				"line" : -1,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 902,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 9
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "uic::@59bab6873281db6cb111"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Widgets::@9a4b53f49ed997d8bad6"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "PrintSupport::@485694ce776186d67c5b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "qpa_default_plugins::@e5137009cee4d36dff54"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Xml::@ea9d4d7867ee2bbe586a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "Designer_sync_headers::@3c0d5573d61ad1bf16bb"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "DesignerComponentsPrivate::@229e487cc404ff1dda48"
+		}
+	],
+	"id" : "designer_autogen::@47d948e763e5c0a89e4c",
+	"isGeneratorProvided" : true,
+	"name" : "designer_autogen",
+	"paths" : 
+	{
+		"build" : "qttools/src/designer/src/designer",
+		"source" : "qttools/src/designer/src/designer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qttools/src/designer/src/designer/CMakeFiles/designer_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qttools/src/designer/src/designer/CMakeFiles/designer_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

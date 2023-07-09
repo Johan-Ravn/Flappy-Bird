@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/materials">
+    <file alias="ObjectGradientMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/ObjectGradientMaterial.qml</file>
+    <file alias="ObjectGradientMaterialInstancing">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/ObjectGradientMaterialInstancing.qml</file>
+    <file alias="ObjectGradientSurfaceMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/ObjectGradientSurfaceMaterial.qml</file>
+    <file alias="PointMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/PointMaterial.qml</file>
+    <file alias="PointRangeGradientMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/PointRangeGradientMaterial.qml</file>
+    <file alias="PointMaterialInstancing">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/PointMaterialInstancing.qml</file>
+    <file alias="PointRangeGradientMaterialInstancing">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/PointRangeGradientMaterialInstancing.qml</file>
+    <file alias="RangeGradientMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/RangeGradientMaterial.qml</file>
+    <file alias="RangeGradientMaterialInstancing">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/RangeGradientMaterialInstancing.qml</file>
+    <file alias="RangeGradientScatterMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/RangeGradientScatterMaterial.qml</file>
+    <file alias="RangeGradientScatterMaterialInstancing">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/RangeGradientScatterMaterialInstancing.qml</file>
+    <file alias="resources/SurfaceShadowNoTex.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/SurfaceShadowNoTex.qml</file>
+    <file alias="VolumeMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/VolumeMaterial.qml</file>
+    <file alias="VolumeLowDefMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/VolumeLowDefMaterial.qml</file>
+    <file alias="VolumeSliceMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/VolumeSliceMaterial.qml</file>
+    <file alias="VolumeFrameMaterial">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/VolumeFrameMaterial.qml</file>
+  </qresource>
+</RCC>
+

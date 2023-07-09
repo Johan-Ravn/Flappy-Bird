@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qt3d/src/plugins/geometryloaders/default/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "./plugins/geometryloaders",
+			"paths" : 
+			[
+				"qtbase/plugins/geometryloaders/libdefaultgeometryloader_debug.dylib"
+			],
+			"targetId" : "DefaultGeometryLoaderPlugin::@8a0d6db3069a48c06e70",
+			"targetIndex" : 209,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qt3d/src/plugins/geometryloaders/default",
+		"source" : "qt3d/src/plugins/geometryloaders/default"
+	}
+}

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/rhishaders/lightmapdilate.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lightmapdilate.vert.qsb</file>
+    <file alias="res/rhishaders/lightmapdilate.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lightmapdilate.frag.qsb</file>
+  </qresource>
+</RCC>
+

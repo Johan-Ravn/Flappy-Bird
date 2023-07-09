@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qttools/src/qdoc/catch_conversions",
+		"source" : "qttools/src/qdoc/catch_conversions"
+	}
+}

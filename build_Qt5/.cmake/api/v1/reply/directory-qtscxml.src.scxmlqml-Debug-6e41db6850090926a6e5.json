@@ -1,0 +1,116 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_module",
+			"qt_internal_add_qml_module",
+			"qt_internal_add_plugin"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Qml/Qt6QmlBuildInternals.cmake",
+			"qtscxml/src/scxmlqml/CMakeLists.txt",
+			"qtbase/cmake/QtPluginHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 217,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 439,
+				"parent" : 5
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 6
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6ScxmlQml_debug.6.7.0.dylib",
+				"qtbase/lib/libQt6ScxmlQml_debug.6.dylib"
+			],
+			"targetId" : "ScxmlQml::@7a95e5fe409962fa3e40",
+			"targetIndex" : 1055,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6ScxmlQml_debug.dylib"
+			],
+			"targetId" : "ScxmlQml::@7a95e5fe409962fa3e40",
+			"targetIndex" : 1055,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "./qml/QtScxml",
+			"paths" : 
+			[
+				"qtbase/qml/QtScxml/libdeclarative_scxmlplugin_debug.dylib"
+			],
+			"targetId" : "declarative_scxml::@7a95e5fe409962fa3e40",
+			"targetIndex" : 1283,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtscxml/src/scxmlqml",
+		"source" : "qtscxml/src/scxmlqml"
+	}
+}

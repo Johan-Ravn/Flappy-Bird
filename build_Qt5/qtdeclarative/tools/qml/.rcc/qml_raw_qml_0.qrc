@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QmlRuntime/Config/">
+    <file alias="default.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qml/default.qml</file>
+    <file alias="resizeToItem.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qml/resizeToItem.qml</file>
+    <file alias="ResizeItemToWindow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qml/ResizeItemToWindow.qml</file>
+    <file alias="ResizeWindowToItem.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qml/ResizeWindowToItem.qml</file>
+    <file alias="resources/qml-64.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qml/resources/qml-64.png</file>
+  </qresource>
+</RCC>
+

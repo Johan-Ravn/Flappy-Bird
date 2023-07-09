@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../../qtbase/lib/libQt6Grpc_debug.6.7.0.dylib"
+  "../../../qtbase/lib/libQt6Grpc_debug.6.dylib"
+  "../../../qtbase/lib/libQt6Grpc_debug.dylib"
+  "../../../qtbase/lib/libQt6Grpc_debug.pdb"
+  "../../../qtbase/lib/pkgconfig/Qt6Grpc_debug.pc"
+  "CMakeFiles/Grpc_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Grpc_autogen.dir/ParseCache.txt"
+  "Grpc_autogen"
+  "CMakeFiles/Grpc.dir/Grpc_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/Grpc.dir/Grpc_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/Grpc.dir/cmake_pch.hxx.pch"
+  "CMakeFiles/Grpc.dir/cmake_pch.hxx.pch.d"
+  "CMakeFiles/Grpc.dir/qabstractgrpcchannel.cpp.o"
+  "CMakeFiles/Grpc.dir/qabstractgrpcchannel.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qabstractgrpcclient.cpp.o"
+  "CMakeFiles/Grpc.dir/qabstractgrpcclient.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpccalloptions.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpccalloptions.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpccallreply.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpccallreply.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpcchanneloptions.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpcchanneloptions.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpchttp2channel.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpchttp2channel.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpcoperation.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpcoperation.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpcstatus.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpcstatus.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qgrpcstream.cpp.o"
+  "CMakeFiles/Grpc.dir/qgrpcstream.cpp.o.d"
+  "CMakeFiles/Grpc.dir/qtgrpcglobal.cpp.o"
+  "CMakeFiles/Grpc.dir/qtgrpcglobal.cpp.o.d"
+  "meta_types/qt6grpc_debug_metatypes.json"
+  "meta_types/qt6grpc_debug_metatypes.json.gen"
+  "preliminary_prl_for_Grpc_step2_Debug.prl"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Grpc.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/rhishaders/ssao.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/ssao.vert.qsb</file>
+    <file alias="res/rhishaders/ssao.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/ssao.frag.qsb</file>
+    <file alias="res/rhishaders/skybox.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/skybox.vert.qsb</file>
+    <file alias="res/rhishaders/skybox.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/skybox.frag.qsb</file>
+    <file alias="res/rhishaders/environmentmapprefilter.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/environmentmapprefilter.vert.qsb</file>
+    <file alias="res/rhishaders/environmentmapprefilter.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/environmentmapprefilter.frag.qsb</file>
+    <file alias="res/rhishaders/reflectionprobeprefilter.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/reflectionprobeprefilter.vert.qsb</file>
+    <file alias="res/rhishaders/reflectionprobeprefilter.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/reflectionprobeprefilter.frag.qsb</file>
+    <file alias="res/rhishaders/skyboxcube.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/skyboxcube.vert.qsb</file>
+    <file alias="res/rhishaders/skyboxcube.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/skyboxcube.frag.qsb</file>
+    <file alias="res/rhishaders/grid.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/grid.frag.qsb</file>
+    <file alias="res/rhishaders/grid.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/grid.vert.qsb</file>
+  </qresource>
+</RCC>
+

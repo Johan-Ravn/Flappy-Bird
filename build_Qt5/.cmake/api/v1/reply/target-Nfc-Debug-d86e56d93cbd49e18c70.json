@@ -1,0 +1,1290 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt6Nfc_debug.dylib"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"find_package",
+			"qt_find_package",
+			"include",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"qt_generate_module_pri_file",
+			"add_compile_options",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"set_property",
+			"qt_update_precompiled_header",
+			"qt_update_precompiled_header_with_library",
+			"target_sources",
+			"qt_internal_generate_cpp_global_exports",
+			"qt6_extract_metatypes",
+			"qt_generate_prl_file",
+			"qt_internal_generate_pkg_config_file"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtconnectivity/src/nfc/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtconnectivity/cmake/FindPCSCLITE.cmake",
+			"qtbase/cmake/QtFindPackageHelpers.cmake",
+			"qtconnectivity/src/nfc/configure.cmake",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qtconnectivity/CMakeLists.txt",
+			"qtbase/cmake/QtPrecompiledHeadersHelpers.cmake",
+			"qtbase/cmake/QtPrlHelpers.cmake",
+			"qtbase/cmake/QtPkgConfigHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 827,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 1
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 8
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 576,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 605,
+				"parent" : 10
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 13
+			},
+			{
+				"command" : 11,
+				"file" : 1,
+				"line" : 660,
+				"parent" : 1
+			},
+			{
+				"file" : 9,
+				"parent" : 15
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 4,
+				"parent" : 16
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 156,
+				"parent" : 17
+			},
+			{
+				"file" : 7,
+				"parent" : 18
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 11,
+				"parent" : 19
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 14,
+				"file" : 11,
+				"line" : 1,
+				"parent" : 21
+			},
+			{
+				"command" : 13,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 22
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 243,
+				"parent" : 23
+			},
+			{
+				"command" : 15,
+				"file" : 1,
+				"line" : 914,
+				"parent" : 22
+			},
+			{
+				"command" : 12,
+				"file" : 12,
+				"line" : 554,
+				"parent" : 25
+			},
+			{
+				"file" : 16
+			},
+			{
+				"command" : 19,
+				"file" : 16,
+				"line" : 25,
+				"parent" : 27
+			},
+			{
+				"command" : 18,
+				"file" : 15,
+				"line" : 597,
+				"parent" : 28
+			},
+			{
+				"command" : 17,
+				"file" : 15,
+				"line" : 411,
+				"parent" : 29
+			},
+			{
+				"command" : 11,
+				"file" : 15,
+				"line" : 249,
+				"parent" : 30
+			},
+			{
+				"file" : 14,
+				"parent" : 31
+			},
+			{
+				"command" : 11,
+				"file" : 14,
+				"line" : 360,
+				"parent" : 32
+			},
+			{
+				"file" : 13,
+				"parent" : 33
+			},
+			{
+				"command" : 16,
+				"file" : 13,
+				"line" : 34,
+				"parent" : 34
+			},
+			{
+				"command" : 21,
+				"file" : 1,
+				"line" : 643,
+				"parent" : 1
+			},
+			{
+				"command" : 20,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 36
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 82,
+				"parent" : 0
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 38
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 8
+			},
+			{
+				"command" : 23,
+				"file" : 1,
+				"line" : 588,
+				"parent" : 1
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 41
+			},
+			{
+				"command" : 22,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 36
+			},
+			{
+				"command" : 24,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 8
+			},
+			{
+				"command" : 27,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 26,
+				"file" : 17,
+				"line" : 15,
+				"parent" : 45
+			},
+			{
+				"command" : 25,
+				"file" : 17,
+				"line" : 6,
+				"parent" : 46
+			},
+			{
+				"command" : 29,
+				"file" : 1,
+				"line" : 431,
+				"parent" : 1
+			},
+			{
+				"command" : 28,
+				"file" : 1,
+				"line" : 1165,
+				"parent" : 48
+			},
+			{
+				"command" : 28,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 1
+			},
+			{
+				"command" : 28,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 51
+			},
+			{
+				"command" : 30,
+				"file" : 1,
+				"line" : 740,
+				"parent" : 1
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 53
+			},
+			{
+				"command" : 28,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 38
+			},
+			{
+				"command" : 31,
+				"file" : 1,
+				"line" : 913,
+				"parent" : 22
+			},
+			{
+				"command" : 28,
+				"file" : 18,
+				"line" : 205,
+				"parent" : 56
+			},
+			{
+				"command" : 32,
+				"file" : 1,
+				"line" : 915,
+				"parent" : 22
+			},
+			{
+				"command" : 28,
+				"file" : 19,
+				"line" : 149,
+				"parent" : 58
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"define" : "Nfc_EXPORTS"
+				},
+				{
+					"backtrace" : 39,
+					"define" : "PCSC_NFC"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_BUILD_NFC_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NO_FOREACH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen/include"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/6.7.0"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/6.7.0/QtNfc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 47,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0,
+				3,
+				5,
+				7,
+				10,
+				12,
+				14,
+				17,
+				20,
+				22,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				44
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx -x c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"define" : "Nfc_EXPORTS"
+				},
+				{
+					"backtrace" : 39,
+					"define" : "PCSC_NFC"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_BUILD_NFC_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_NO_FOREACH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen/include"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtconnectivity/src/nfc"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/6.7.0"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/6.7.0/QtNfc"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 47,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Nfc_autogen::@bb58a699190997bd331b"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"id" : "Nfc_automoc_json_extraction::@bb58a699190997bd331b"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "Nfc_sync_headers::@bb58a699190997bd331b"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "Nfc_lib_pri::@bb58a699190997bd331b"
+		}
+	],
+	"id" : "Nfc::@bb58a699190997bd331b",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "-framework PCSC",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Nfc",
+	"nameOnDisk" : "libQt6Nfc_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qtconnectivity/src/nfc",
+		"source" : "qtconnectivity/src/nfc"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				7,
+				10,
+				12,
+				14,
+				17,
+				20,
+				22,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				44
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				4,
+				6,
+				8,
+				9,
+				11,
+				13,
+				15,
+				16,
+				18,
+				19,
+				21,
+				23,
+				24,
+				25,
+				26,
+				27,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				43,
+				45
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				28,
+				46,
+				47
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				48
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				49,
+				50,
+				51
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/Nfc_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 49,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNfc/qtnfcexports.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qndeffilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndeffilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qndefmessage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefmessage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qndefnfcsmartposterrecord.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefnfcsmartposterrecord.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefnfcsmartposterrecord_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qndefnfctextrecord.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefnfctextrecord.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qndefnfcurirecord.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefnfcurirecord.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qndefrecord.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefrecord.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qndefrecord_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qnearfieldmanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qnearfieldmanager.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qnearfieldmanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qnearfieldtarget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qnearfieldtarget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qnearfieldtarget_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qnearfieldtarget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qtnfcglobal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 50,
+			"path" : "qtconnectivity/src/nfc/qtnfcglobal_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 52,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/qtnfc-config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 52,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/qtnfc-config_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 54,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/meta_types/qt6nfc_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qnearfieldmanager_pcsc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/qnearfieldmanager_pcsc_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qnearfieldtarget_pcsc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/qnearfieldtarget_pcsc_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/qapduutils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/qapduutils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcsc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcsc_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcscmanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcscmanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcscslot.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcscslot_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcsccard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/pcsc/qpcsccard_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/ndef/qndefaccessfsm_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 55,
+			"compileGroupIndex" : 0,
+			"path" : "qtconnectivity/src/nfc/ndef/qnfctagtype4ndeffsm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 55,
+			"path" : "qtconnectivity/src/nfc/ndef/qnfctagtype4ndeffsm_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 57,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/preliminary_prl_for_Nfc_step2_Debug.prl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 59,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6Nfc_debug.pc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/CMakeFiles/Nfc.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/meta_types/qt6nfc_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtconnectivity/src/nfc/preliminary_prl_for_Nfc_step2_Debug.prl.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt6Nfc_debug.pc.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

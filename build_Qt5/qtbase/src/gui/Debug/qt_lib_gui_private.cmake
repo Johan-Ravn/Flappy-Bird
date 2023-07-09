@@ -1,0 +1,5 @@
+list(APPEND known_libs OPENGL)
+set(QMAKE_LIBS_OPENGL_DEBUG "-framework;AGL;-framework;OpenGL")
+set(QMAKE_LIBDIR_OPENGL_DEBUG "")
+set(QMAKE_INCDIR_OPENGL_DEBUG "")
+set(QMAKE_DEFINES_OPENGL_DEBUG "")

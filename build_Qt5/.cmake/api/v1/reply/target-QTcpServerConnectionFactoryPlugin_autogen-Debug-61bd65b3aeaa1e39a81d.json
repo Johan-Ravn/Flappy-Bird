@@ -1,0 +1,73 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"qtdeclarative/src/plugins/qmltooling/qmldbg_tcp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qml_sync_headers::@d55031ce3d5f71a021ef"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Network::@1db477eea17d89636c09"
+		}
+	],
+	"id" : "QTcpServerConnectionFactoryPlugin_autogen::@f02bfed68a7cca76401c",
+	"isGeneratorProvided" : true,
+	"name" : "QTcpServerConnectionFactoryPlugin_autogen",
+	"paths" : 
+	{
+		"build" : "qtdeclarative/src/plugins/qmltooling/qmldbg_tcp",
+		"source" : "qtdeclarative/src/plugins/qmltooling/qmldbg_tcp"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/plugins/qmltooling/qmldbg_tcp/CMakeFiles/QTcpServerConnectionFactoryPlugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/plugins/qmltooling/qmldbg_tcp/CMakeFiles/QTcpServerConnectionFactoryPlugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

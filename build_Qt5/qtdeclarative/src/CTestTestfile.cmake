@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src
+# Build directory: /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("qmltoolingsettings")
+subdirs("qmltyperegistrar")
+subdirs("qmlintegration")
+subdirs("qml")
+subdirs("qmlmodels")
+subdirs("core")
+subdirs("qmlworkerscript")
+subdirs("qmllocalstorage")
+subdirs("qmlxmllistmodel")
+subdirs("quick")
+subdirs("quicklayouts")
+subdirs("qmltest")
+subdirs("quicktestutils")
+subdirs("particles")
+subdirs("effects")
+subdirs("quickshapes")
+subdirs("quickwidgets")
+subdirs("quicktemplates")
+subdirs("quickcontrolsimpl")
+subdirs("quickcontrols")
+subdirs("quickdialogs")
+subdirs("quicknativestyle")
+subdirs("quickcontrolstestutils")
+subdirs("labs")
+subdirs("qmlcompiler")
+subdirs("qmldom")
+subdirs("qmlcachegen")
+subdirs("qmlls")
+subdirs("plugins")
+subdirs("imports")
+subdirs("qmldebug")

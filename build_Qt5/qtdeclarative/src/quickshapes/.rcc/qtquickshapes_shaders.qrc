@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/qt-project.org/shapes">
+    <file alias="shaders_ng/lineargradient.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/lineargradient.vert.qsb</file>
+    <file alias="shaders_ng/lineargradient.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/lineargradient.frag.qsb</file>
+    <file alias="shaders_ng/radialgradient.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/radialgradient.vert.qsb</file>
+    <file alias="shaders_ng/radialgradient.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/radialgradient.frag.qsb</file>
+    <file alias="shaders_ng/conicalgradient.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/conicalgradient.vert.qsb</file>
+    <file alias="shaders_ng/conicalgradient.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/conicalgradient.frag.qsb</file>
+    <file alias="shaders_ng/shapecurve.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/shapecurve.frag.qsb</file>
+    <file alias="shaders_ng/shapecurve.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/shapecurve.vert.qsb</file>
+    <file alias="shaders_ng/wireframe.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/wireframe.frag.qsb</file>
+    <file alias="shaders_ng/wireframe.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickshapes/.qsb/shaders_ng/wireframe.vert.qsb</file>
+  </qresource>
+</RCC>
+

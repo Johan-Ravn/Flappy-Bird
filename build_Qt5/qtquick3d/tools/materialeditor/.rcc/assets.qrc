@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick3D/MaterialEditor">
+    <file alias="assets/meshes/suzanne.mesh">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/meshes/suzanne.mesh</file>
+    <file alias="assets/skybox/OpenfootageNET_lowerAustria01-1024.hdr">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/skybox/OpenfootageNET_lowerAustria01-1024.hdr</file>
+    <file alias="assets/icons/lightdirectional.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/lightdirectional.png</file>
+    <file alias="assets/icons/lightdirectional@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/lightdirectional@2x.png</file>
+    <file alias="assets/icons/lightpoint.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/lightpoint.png</file>
+    <file alias="assets/icons/lightpoint@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/lightpoint@2x.png</file>
+    <file alias="assets/icons/lightspot.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/lightspot.png</file>
+    <file alias="assets/icons/lightspot@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/lightspot@2x.png</file>
+    <file alias="assets/icons/texture.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/texture.png</file>
+    <file alias="assets/icons/texture@2x.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/icons/texture@2x.png</file>
+    <file alias="assets/images/noise.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/tools/materialeditor/assets/images/noise.png</file>
+  </qresource>
+</RCC>
+

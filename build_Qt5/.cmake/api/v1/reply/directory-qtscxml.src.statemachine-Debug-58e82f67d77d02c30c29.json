@@ -1,0 +1,76 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_module"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtscxml/src/statemachine/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6StateMachine_debug.6.7.0.dylib",
+				"qtbase/lib/libQt6StateMachine_debug.6.dylib"
+			],
+			"targetId" : "StateMachine::@00511a99ade26ce518a0",
+			"targetIndex" : 1120,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6StateMachine_debug.dylib"
+			],
+			"targetId" : "StateMachine::@00511a99ade26ce518a0",
+			"targetIndex" : 1120,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtscxml/src/statemachine",
+		"source" : "qtscxml/src/statemachine"
+	}
+}

@@ -1,0 +1,3 @@
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/assimp/CMakeFiles/config_test_assimp.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/assimp/CMakeFiles/edit_cache.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/assimp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/skins">
+    <file alias="PortableMedia.skin">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/lib/../../../shared/deviceskin/skins/PortableMedia.skin</file>
+  </qresource>
+</RCC>
+

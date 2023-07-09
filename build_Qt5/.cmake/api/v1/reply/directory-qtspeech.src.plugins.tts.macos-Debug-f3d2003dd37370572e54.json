@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_plugin"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtPluginHelpers.cmake",
+			"qtspeech/src/plugins/tts/macos/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 439,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "./plugins/texttospeech",
+			"paths" : 
+			[
+				"qtbase/plugins/texttospeech/libqtexttospeech_speech_macos_debug.dylib"
+			],
+			"targetId" : "QTextToSpeechMacOSPlugin::@a6120736a8e9159e536a",
+			"targetIndex" : 599,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtspeech/src/plugins/tts/macos",
+		"source" : "qtspeech/src/plugins/tts/macos"
+	}
+}

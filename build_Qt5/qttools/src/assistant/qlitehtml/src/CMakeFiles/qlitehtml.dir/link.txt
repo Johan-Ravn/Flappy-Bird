@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qcS value-NOTFOUND/libqlitehtml_debug.a CMakeFiles/qlitehtml.dir/qlitehtml_autogen/mocs_compilation.cpp.o CMakeFiles/qlitehtml.dir/container_qpainter.cpp.o CMakeFiles/qlitehtml.dir/qlitehtmlwidget.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols value-NOTFOUND/libqlitehtml_debug.a

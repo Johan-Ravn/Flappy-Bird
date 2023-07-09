@@ -1,0 +1,14 @@
+prefix=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+$<$<BOOL:>:mkspecsdir=${prefix}/mkspecs>
+$<1: >
+Name: Qt6 Sensors
+Description: Qt Sensors module
+Version: 6.7.0
+Libs: $<$<NOT:$<STREQUAL:$<TARGET_PROPERTY:Qt6::Sensors,TYPE>,INTERFACE_LIBRARY>>:-L${libdir} -lQt6Sensors> $<$<BOOL:loose_link_options-NOTFOUND>:$<JOIN:$<REMOVE_DUPLICATES:loose_link_options-NOTFOUND>, >> $<JOIN:$<REMOVE_DUPLICATES:>, >
+Cflags: $<$<BOOL:${includedir}/QtSensors;${includedir}>:-I$<JOIN:$<REMOVE_DUPLICATES:${includedir}/QtSensors;${includedir}>, -I>> $<$<BOOL:QT_SENSORS_LIB>:-D$<JOIN:$<REMOVE_DUPLICATES:QT_SENSORS_LIB>, -D>>
+Requires: $<JOIN:$<REMOVE_DUPLICATES:Qt6Core>, >

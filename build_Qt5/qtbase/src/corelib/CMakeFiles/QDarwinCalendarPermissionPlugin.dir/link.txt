@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../plugins/permissions/libqdarwincalendarpermission_debug.a CMakeFiles/QDarwinCalendarPermissionPlugin.dir/QDarwinCalendarPermissionPlugin_autogen/mocs_compilation.cpp.o CMakeFiles/QDarwinCalendarPermissionPlugin.dir/platform/darwin/qdarwinpermissionplugin_calendar.mm.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../plugins/permissions/libqdarwincalendarpermission_debug.a

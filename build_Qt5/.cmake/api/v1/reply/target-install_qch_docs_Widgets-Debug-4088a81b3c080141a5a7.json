@@ -1,0 +1,43 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_docs"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtDocsHelpers.cmake",
+			"qtbase/src/widgets/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 850,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 232,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "install_qch_docs_Widgets::@9a4b53f49ed997d8bad6",
+	"name" : "install_qch_docs_Widgets",
+	"paths" : 
+	{
+		"build" : "qtbase/src/widgets",
+		"source" : "qtbase/src/widgets"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

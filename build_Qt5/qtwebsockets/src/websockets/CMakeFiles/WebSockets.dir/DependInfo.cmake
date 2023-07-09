@@ -1,0 +1,55 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/WebSockets_autogen/mocs_compilation.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/WebSockets_autogen/mocs_compilation.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/WebSockets_autogen/mocs_compilation.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/WebSockets_autogen/mocs_compilation.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/WebSockets_autogen/mocs_compilation.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx.cxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx.pch" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx.pch.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx.pch" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx.pch.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qdefaultmaskgenerator_p.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qdefaultmaskgenerator_p.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qdefaultmaskgenerator_p.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qdefaultmaskgenerator_p.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qdefaultmaskgenerator_p.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qmaskgenerator.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qmaskgenerator.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qmaskgenerator.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qmaskgenerator.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qmaskgenerator.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocket.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocket_p.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket_p.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket_p.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket_p.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocket_p.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocketcorsauthenticator.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketcorsauthenticator.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketcorsauthenticator.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketcorsauthenticator.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketcorsauthenticator.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocketdataprocessor.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketdataprocessor.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketdataprocessor.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketdataprocessor.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketdataprocessor.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocketframe.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketframe.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketframe.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketframe.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketframe.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsockethandshakeoptions.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeoptions.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeoptions.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeoptions.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeoptions.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsockethandshakerequest.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakerequest.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakerequest.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakerequest.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakerequest.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsockethandshakeresponse.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeresponse.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeresponse.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeresponse.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsockethandshakeresponse.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocketprotocol.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketprotocol.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketprotocol.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketprotocol.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketprotocol.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocketserver.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebsockets/src/websockets/qwebsocketserver_p.cpp" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver_p.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver_p.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/cmake_pch.hxx" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver_p.cpp.o" "gcc" "qtwebsockets/src/websockets/CMakeFiles/WebSockets.dir/qwebsocketserver_p.cpp.o.d"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6WebSockets_debug.6.dylib" "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6WebSockets_debug.6.7.0.dylib"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6WebSockets_debug.dylib" "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6WebSockets_debug.6.7.0.dylib"
+  )
+
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/rhishaders/environmentmapprefilter_rgbe.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/environmentmapprefilter_rgbe.vert.qsb</file>
+    <file alias="res/rhishaders/environmentmapprefilter_rgbe.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/environmentmapprefilter_rgbe.frag.qsb</file>
+  </qresource>
+</RCC>
+

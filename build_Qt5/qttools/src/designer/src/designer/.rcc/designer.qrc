@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/designer">
+    <file alias="images/designer.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/designer/images/designer.png</file>
+  </qresource>
+</RCC>
+

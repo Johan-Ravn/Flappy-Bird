@@ -1,0 +1,385 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_module",
+			"qt_internal_add_plugin",
+			"qt_internal_add_darwin_permission_plugin"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtPluginHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1177,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 535,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 439,
+				"parent" : 5
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1177,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 535,
+				"parent" : 8
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 439,
+				"parent" : 9
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1177,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 535,
+				"parent" : 12
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 439,
+				"parent" : 13
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 14
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1177,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 535,
+				"parent" : 16
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 439,
+				"parent" : 17
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 18
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1177,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 535,
+				"parent" : 20
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 439,
+				"parent" : 21
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 22
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1177,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 535,
+				"parent" : 24
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 439,
+				"parent" : 25
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 26
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"qtbase/lib/libQt6Core_debug.6.dylib"
+			],
+			"targetId" : "Core::@03825b256518b1168c29",
+			"targetIndex" : 157,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6Core_debug.dylib"
+			],
+			"targetId" : "Core::@03825b256518b1168c29",
+			"targetIndex" : 157,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				"qtbase/plugins/permissions/libqdarwincamerapermission_debug.a"
+			],
+			"targetId" : "QDarwinCameraPermissionPlugin::@03825b256518b1168c29",
+			"targetIndex" : 505,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				{
+					"from" : "qtbase/src/corelib/CMakeFiles/QDarwinCameraPermissionPlugin_init.dir//QDarwinCameraPermissionPlugin_init.cpp.o",
+					"to" : "objects-Debug/QDarwinCameraPermissionPlugin_init/QDarwinCameraPermissionPlugin_init.cpp.o"
+				}
+			],
+			"targetId" : "QDarwinCameraPermissionPlugin_init::@03825b256518b1168c29",
+			"targetIndex" : 507,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				"qtbase/plugins/permissions/libqdarwinmicrophonepermission_debug.a"
+			],
+			"targetId" : "QDarwinMicrophonePermissionPlugin::@03825b256518b1168c29",
+			"targetIndex" : 516,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				{
+					"from" : "qtbase/src/corelib/CMakeFiles/QDarwinMicrophonePermissionPlugin_init.dir//QDarwinMicrophonePermissionPlugin_init.cpp.o",
+					"to" : "objects-Debug/QDarwinMicrophonePermissionPlugin_init/QDarwinMicrophonePermissionPlugin_init.cpp.o"
+				}
+			],
+			"targetId" : "QDarwinMicrophonePermissionPlugin_init::@03825b256518b1168c29",
+			"targetIndex" : 518,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				"qtbase/plugins/permissions/libqdarwinbluetoothpermission_debug.a"
+			],
+			"targetId" : "QDarwinBluetoothPermissionPlugin::@03825b256518b1168c29",
+			"targetIndex" : 499,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				{
+					"from" : "qtbase/src/corelib/CMakeFiles/QDarwinBluetoothPermissionPlugin_init.dir//QDarwinBluetoothPermissionPlugin_init.cpp.o",
+					"to" : "objects-Debug/QDarwinBluetoothPermissionPlugin_init/QDarwinBluetoothPermissionPlugin_init.cpp.o"
+				}
+			],
+			"targetId" : "QDarwinBluetoothPermissionPlugin_init::@03825b256518b1168c29",
+			"targetIndex" : 501,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				"qtbase/plugins/permissions/libqdarwincontactspermission_debug.a"
+			],
+			"targetId" : "QDarwinContactsPermissionPlugin::@03825b256518b1168c29",
+			"targetIndex" : 508,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				{
+					"from" : "qtbase/src/corelib/CMakeFiles/QDarwinContactsPermissionPlugin_init.dir//QDarwinContactsPermissionPlugin_init.cpp.o",
+					"to" : "objects-Debug/QDarwinContactsPermissionPlugin_init/QDarwinContactsPermissionPlugin_init.cpp.o"
+				}
+			],
+			"targetId" : "QDarwinContactsPermissionPlugin_init::@03825b256518b1168c29",
+			"targetIndex" : 510,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				"qtbase/plugins/permissions/libqdarwincalendarpermission_debug.a"
+			],
+			"targetId" : "QDarwinCalendarPermissionPlugin::@03825b256518b1168c29",
+			"targetIndex" : 502,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				{
+					"from" : "qtbase/src/corelib/CMakeFiles/QDarwinCalendarPermissionPlugin_init.dir//QDarwinCalendarPermissionPlugin_init.cpp.o",
+					"to" : "objects-Debug/QDarwinCalendarPermissionPlugin_init/QDarwinCalendarPermissionPlugin_init.cpp.o"
+				}
+			],
+			"targetId" : "QDarwinCalendarPermissionPlugin_init::@03825b256518b1168c29",
+			"targetIndex" : 504,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				"qtbase/plugins/permissions/libqdarwinlocationpermission_debug.a"
+			],
+			"targetId" : "QDarwinLocationPermissionPlugin::@03825b256518b1168c29",
+			"targetIndex" : 511,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "./plugins/permissions",
+			"paths" : 
+			[
+				{
+					"from" : "qtbase/src/corelib/CMakeFiles/QDarwinLocationPermissionPlugin_init.dir//QDarwinLocationPermissionPlugin_init.cpp.o",
+					"to" : "objects-Debug/QDarwinLocationPermissionPlugin_init/QDarwinLocationPermissionPlugin_init.cpp.o"
+				}
+			],
+			"targetId" : "QDarwinLocationPermissionPlugin_init::@03825b256518b1168c29",
+			"targetIndex" : 513,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtbase/src/corelib",
+		"source" : "qtbase/src/corelib"
+	}
+}

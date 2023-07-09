@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtcharts/src/chartsqml2/designer",
+		"source" : "qtcharts/src/chartsqml2/designer"
+	}
+}

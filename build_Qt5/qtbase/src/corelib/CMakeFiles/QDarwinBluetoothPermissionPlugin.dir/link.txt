@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../plugins/permissions/libqdarwinbluetoothpermission_debug.a CMakeFiles/QDarwinBluetoothPermissionPlugin.dir/QDarwinBluetoothPermissionPlugin_autogen/mocs_compilation.cpp.o CMakeFiles/QDarwinBluetoothPermissionPlugin.dir/platform/darwin/qdarwinpermissionplugin_bluetooth.mm.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../plugins/permissions/libqdarwinbluetoothpermission_debug.a

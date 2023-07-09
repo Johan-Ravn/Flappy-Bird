@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtMultimedia/">
+    <file alias="Video.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtmultimedia/src/multimediaquick/Video.qml</file>
+  </qresource>
+</RCC>
+

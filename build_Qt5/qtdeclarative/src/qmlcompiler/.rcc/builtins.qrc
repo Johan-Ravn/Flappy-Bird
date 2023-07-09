@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt-project.org/qml/builtins">
+    <file alias="builtins.qmltypes">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlcompiler/../imports/builtins/builtins.qmltypes</file>
+    <file alias="jsroot.qmltypes">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmlcompiler/../imports/builtins/jsroot.qmltypes</file>
+  </qresource>
+</RCC>
+

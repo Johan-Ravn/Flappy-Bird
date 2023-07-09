@@ -1,0 +1,61 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"qt_install",
+			"qt_internal_add_3rdparty_library"
+		],
+		"files" : 
+		[
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/Qt3rdPartyLibraryHelpers.cmake",
+			"qtbase/src/3rdparty/libjpeg/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 292,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"qtbase/lib/libQt6BundledLibjpeg_debug.a"
+			],
+			"targetId" : "BundledLibjpeg::@48ef2ba2aaf08e41e5e7",
+			"targetIndex" : 108,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "qtbase/src/3rdparty/libjpeg",
+		"source" : "qtbase/src/3rdparty/libjpeg"
+	}
+}

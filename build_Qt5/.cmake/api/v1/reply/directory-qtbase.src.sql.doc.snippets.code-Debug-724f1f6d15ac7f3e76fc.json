@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qtbase/src/sql/doc/snippets/code",
+		"source" : "qtbase/src/sql/doc/snippets/code"
+	}
+}

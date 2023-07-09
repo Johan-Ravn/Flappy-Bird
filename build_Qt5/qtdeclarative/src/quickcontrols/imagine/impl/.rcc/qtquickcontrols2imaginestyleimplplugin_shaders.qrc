@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Imagine/impl">
+    <file alias="shaders/OpacityMask.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/imagine/impl/.qsb/shaders/OpacityMask.frag.qsb</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtQuick3D/Helpers/impl/">
+    <file alias="DepthOfFieldBlur.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/src/helpers/impl/DepthOfFieldBlur.qml</file>
+    <file alias="SceneEffect.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/src/helpers/impl/SceneEffect.qml</file>
+    <file alias="LightmapperOutputWindow.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/src/helpers/impl/LightmapperOutputWindow.qml</file>
+  </qresource>
+</RCC>
+

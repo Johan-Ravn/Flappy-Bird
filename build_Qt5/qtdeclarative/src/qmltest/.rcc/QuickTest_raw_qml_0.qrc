@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt-project.org/imports/QtTest/">
+    <file alias="SignalSpy.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmltest/SignalSpy.qml</file>
+    <file alias="TestCase.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmltest/TestCase.qml</file>
+    <file alias="TestSchedule.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmltest/TestSchedule.qml</file>
+    <file alias="testlogger.js">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/qmltest/testlogger.js</file>
+  </qresource>
+</RCC>
+

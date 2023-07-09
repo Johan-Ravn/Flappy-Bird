@@ -1,0 +1,5962 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qtbase/lib/libQt63DRender_debug.dylib"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt_internal_add_module",
+			"install",
+			"qt_install",
+			"target_link_options",
+			"qt_internal_add_link_flags_no_undefined",
+			"target_link_libraries",
+			"qt_internal_extend_target",
+			"add_dependencies",
+			"qt_internal_target_sync_headers",
+			"qt_finalize_module",
+			"qt_generate_module_pri_file",
+			"add_compile_options",
+			"include",
+			"qt_build_internals_set_up_private_api",
+			"qt_build_repo_begin",
+			"qt_build_repo",
+			"target_compile_options",
+			"qt_internal_set_exceptions_flags",
+			"target_compile_definitions",
+			"qt_internal_add_repo_local_defines",
+			"target_include_directories",
+			"set_property",
+			"qt_update_precompiled_header",
+			"qt_update_precompiled_header_with_library",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt_internal_add_resource",
+			"qt_generate_prl_file",
+			"qt_internal_generate_pkg_config_file"
+		],
+		"files" : 
+		[
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"qtbase/cmake/QtModuleHelpers.cmake",
+			"qt3d/src/render/CMakeLists.txt",
+			"qtbase/cmake/QtInstallHelpers.cmake",
+			"qtbase/cmake/QtFlagHandlingHelpers.cmake",
+			"qtbase/cmake/QtTargetHelpers.cmake",
+			"qt3d/src/core/CMakeLists.txt",
+			"qtbase/src/gui/CMakeLists.txt",
+			"qtbase/src/corelib/CMakeLists.txt",
+			"qtbase/cmake/QtSyncQtHelpers.cmake",
+			"qtbase/cmake/QtScopeFinalizerHelpers.cmake:24:EVAL",
+			"qtbase/cmake/QtPriHelpers.cmake",
+			"qtbase/cmake/QtCompilerFlags.cmake",
+			"qtbase/cmake/QtSetup.cmake",
+			"/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/cmake/Qt6BuildInternals/Qt6BuildInternalsConfig.cmake",
+			"qt3d/CMakeLists.txt",
+			"qtbase/cmake/QtPrecompiledHeadersHelpers.cmake",
+			"qtbase/cmake/QtResourceHelpers.cmake",
+			"qtbase/cmake/QtPrlHelpers.cmake",
+			"qtbase/cmake/QtPkgConfigHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2356,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 783,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 21,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 827,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 106,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 1
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 8
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 10,
+				"parent" : 10
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 600,
+				"parent" : 11
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 12
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 361,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 376,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 17
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 962,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 19
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 576,
+				"parent" : 21
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 605,
+				"parent" : 21
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 162,
+				"parent" : 24
+			},
+			{
+				"file" : 7,
+				"line" : -1,
+				"parent" : 14
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 26
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 27
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 248,
+				"parent" : 28
+			},
+			{
+				"file" : 8,
+				"line" : -1,
+				"parent" : 21
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 30
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 31
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 248,
+				"parent" : 32
+			},
+			{
+				"file" : 6,
+				"line" : -1,
+				"parent" : 10
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 34
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 35
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 248,
+				"parent" : 36
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1,
+				"parent" : 38
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 902,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 243,
+				"parent" : 40
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 914,
+				"parent" : 39
+			},
+			{
+				"command" : 9,
+				"file" : 11,
+				"line" : 554,
+				"parent" : 42
+			},
+			{
+				"file" : 15
+			},
+			{
+				"command" : 17,
+				"file" : 15,
+				"line" : 42,
+				"parent" : 44
+			},
+			{
+				"command" : 16,
+				"file" : 14,
+				"line" : 597,
+				"parent" : 45
+			},
+			{
+				"command" : 15,
+				"file" : 14,
+				"line" : 411,
+				"parent" : 46
+			},
+			{
+				"command" : 14,
+				"file" : 14,
+				"line" : 249,
+				"parent" : 47
+			},
+			{
+				"file" : 13,
+				"parent" : 48
+			},
+			{
+				"command" : 14,
+				"file" : 13,
+				"line" : 360,
+				"parent" : 49
+			},
+			{
+				"file" : 12,
+				"parent" : 50
+			},
+			{
+				"command" : 13,
+				"file" : 12,
+				"line" : 34,
+				"parent" : 51
+			},
+			{
+				"command" : 19,
+				"file" : 1,
+				"line" : 643,
+				"parent" : 1
+			},
+			{
+				"command" : 18,
+				"file" : 4,
+				"line" : 231,
+				"parent" : 53
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 159,
+				"parent" : 8
+			},
+			{
+				"command" : 21,
+				"file" : 1,
+				"line" : 588,
+				"parent" : 1
+			},
+			{
+				"command" : 20,
+				"file" : 5,
+				"line" : 1149,
+				"parent" : 56
+			},
+			{
+				"command" : 20,
+				"file" : 4,
+				"line" : 230,
+				"parent" : 53
+			},
+			{
+				"command" : 22,
+				"file" : 5,
+				"line" : 154,
+				"parent" : 8
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 60
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 61
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 63
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 64
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 66
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 67
+			},
+			{
+				"command" : 25,
+				"file" : 5,
+				"line" : 110,
+				"parent" : 8
+			},
+			{
+				"command" : 24,
+				"file" : 16,
+				"line" : 15,
+				"parent" : 69
+			},
+			{
+				"command" : 23,
+				"file" : 16,
+				"line" : 6,
+				"parent" : 70
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 8
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 1
+			},
+			{
+				"command" : 26,
+				"file" : 5,
+				"line" : 138,
+				"parent" : 73
+			},
+			{
+				"command" : 27,
+				"file" : 1,
+				"line" : 740,
+				"parent" : 1
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 1173,
+				"parent" : 75
+			},
+			{
+				"command" : 30,
+				"file" : 2,
+				"line" : 323,
+				"parent" : 0
+			},
+			{
+				"command" : 29,
+				"file" : 17,
+				"line" : 30,
+				"parent" : 77
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 78
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 1752,
+				"parent" : 79
+			},
+			{
+				"command" : 31,
+				"file" : 1,
+				"line" : 913,
+				"parent" : 39
+			},
+			{
+				"command" : 26,
+				"file" : 18,
+				"line" : 205,
+				"parent" : 81
+			},
+			{
+				"command" : 32,
+				"file" : 1,
+				"line" : 915,
+				"parent" : 39
+			},
+			{
+				"command" : 26,
+				"file" : 19,
+				"line" : 149,
+				"parent" : 83
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 54,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -include-pch -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/CMakeFiles/3DRender.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/CMakeFiles/3DRender.dir/cmake_pch.hxx"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 55,
+					"define" : "BUILD_QT3D_MODULE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILD_3DRENDER_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "_3DRender_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/3DRender_autogen/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/backend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/framegraph"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/frontend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/geometry"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/io"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/jobs"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/lights"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/materialsystem"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/picking"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/raycasting"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/renderstates"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/services"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/shadergraph"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/surfaces"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/texture"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0/Qt3DRender"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/core"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 62,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/Qt3DCore"
+				},
+				{
+					"backtrace" : 65,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 68,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL/QtOpenGL"
+				},
+				{
+					"backtrace" : 71,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent/QtConcurrent"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				0,
+				4,
+				6,
+				8,
+				12,
+				14,
+				16,
+				19,
+				21,
+				24,
+				26,
+				28,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				88,
+				90,
+				93,
+				96,
+				99,
+				102,
+				105,
+				108,
+				111,
+				113,
+				116,
+				119,
+				121,
+				123,
+				126,
+				129,
+				132,
+				135,
+				138,
+				141,
+				144,
+				147,
+				150,
+				153,
+				156,
+				159,
+				161,
+				163,
+				165,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				181,
+				184,
+				187,
+				190,
+				193,
+				196,
+				198,
+				201,
+				205,
+				208,
+				212,
+				214,
+				216,
+				219,
+				222,
+				225,
+				227,
+				229,
+				231,
+				233,
+				235,
+				237,
+				239,
+				241,
+				243,
+				245,
+				247,
+				250,
+				253,
+				256,
+				258,
+				260,
+				262,
+				265,
+				267,
+				269,
+				271,
+				273,
+				275,
+				277,
+				280,
+				282,
+				284,
+				286,
+				288,
+				290,
+				293,
+				295,
+				297,
+				299,
+				303,
+				305,
+				307,
+				309,
+				311,
+				313,
+				315,
+				317,
+				319,
+				321,
+				323,
+				325,
+				327,
+				329,
+				331,
+				333,
+				335,
+				337,
+				339,
+				347,
+				349,
+				351,
+				353,
+				356,
+				359,
+				362,
+				365,
+				368,
+				370,
+				372,
+				374,
+				376,
+				379,
+				382,
+				385,
+				388,
+				391,
+				394,
+				397,
+				400,
+				403,
+				406,
+				409,
+				411,
+				413,
+				415,
+				417,
+				419,
+				421,
+				423,
+				425,
+				427,
+				430,
+				433,
+				436,
+				438,
+				440,
+				443,
+				445,
+				447,
+				449,
+				451,
+				453,
+				457,
+				459,
+				461,
+				463,
+				465,
+				467,
+				469,
+				471,
+				474,
+				476,
+				479,
+				482,
+				485,
+				488,
+				491,
+				494,
+				497,
+				500,
+				502,
+				505,
+				508,
+				510,
+				512,
+				515,
+				518,
+				521,
+				524,
+				527,
+				529,
+				532,
+				535,
+				538,
+				541,
+				544,
+				546,
+				548,
+				551,
+				553,
+				555,
+				557,
+				559,
+				561,
+				563,
+				565,
+				567,
+				569,
+				571,
+				574,
+				577,
+				580,
+				583,
+				585,
+				588,
+				590,
+				593,
+				597,
+				599,
+				601
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 54,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				},
+				{
+					"fragment" : "-Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/CMakeFiles/3DRender.dir/cmake_pch.hxx -x c++-header"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 55,
+					"define" : "BUILD_QT3D_MODULE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILD_3DRENDER_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "_3DRender_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/3DRender_autogen/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/backend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/framegraph"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/frontend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/geometry"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/io"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/jobs"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/lights"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/materialsystem"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/picking"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/raycasting"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/renderstates"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/services"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/shadergraph"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/surfaces"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/texture"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0/Qt3DRender"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/core"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 62,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/Qt3DCore"
+				},
+				{
+					"backtrace" : 65,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 68,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL/QtOpenGL"
+				},
+				{
+					"backtrace" : 71,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent/QtConcurrent"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=c++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -fPIC -fvisibility=hidden -fvisibility-inlines-hidden"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 52,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 54,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fapplication-extension"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 55,
+					"define" : "BUILD_QT3D_MODULE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "GL_SILENCE_DEPRECATION"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_3DCORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_ASCII_CAST_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILDING_QT"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_BUILD_3DRENDER_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CONCURRENT_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_DISABLE_DEPRECATED_UP_TO=0x050000"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_EXPLICIT_QFILE_CONSTRUCTION_FROM_PATH"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_MOC_COMPAT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_AS_CONST"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "QT_NO_AS_CONST=1"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_NO_CAST_TO_ASCII"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "QT_NO_EXCEPTIONS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_JAVA_STYLE_ITERATORS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_NARROWING_CONVERSIONS_IN_CONNECT"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NO_QEXCHANGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_STRICT_QLIST_ITERATORS"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_USE_QSTRINGBUILDER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "QT_WARN_DEPRECATED_UP_TO=0x070000"
+				},
+				{
+					"define" : "_3DRender_EXPORTS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/3DRender_autogen/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/backend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/framegraph"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/frontend"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/geometry"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/io"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/jobs"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/lights"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/materialsystem"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/picking"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/raycasting"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/renderstates"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/services"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/shadergraph"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/surfaces"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/texture"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DRender/6.7.0/Qt3DRender"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtNetwork"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/corelib"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/6.7.0/QtCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/core"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/6.7.0/Qt3DCore"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/gui"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtGui/6.7.0/QtGui"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"precompileHeaders" : 
+			[
+				{
+					"backtrace" : 62,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/Qt3DCore/Qt3DCore"
+				},
+				{
+					"backtrace" : 65,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtCore/QtCore"
+				},
+				{
+					"backtrace" : 68,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtOpenGL/QtOpenGL"
+				},
+				{
+					"backtrace" : 71,
+					"header" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/include/QtConcurrent/QtConcurrent"
+				}
+			],
+			"sourceIndexes" : 
+			[
+				606
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 9,
+			"id" : "Gui::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "Gui_sync_headers::@15927fb4a244b1a1abf0"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "OpenGL::@4647851a72f814f2421b"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "3DRender_autogen::@a247953c8cd425a8752d"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Platform::@e5137009cee4d36dff54"
+		},
+		{
+			"id" : "moc::@bb10bf682bcce7be460c"
+		},
+		{
+			"id" : "rcc::@bea154ae34688698a385"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Core::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "Core_sync_headers::@03825b256518b1168c29"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Concurrent::@6debff8c4cb0dde4990d"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "Network::@1db477eea17d89636c09"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "3DCore::@c624818a73eafba92541"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "3DCore_sync_headers::@c624818a73eafba92541"
+		},
+		{
+			"id" : "3DRender_automoc_json_extraction::@a247953c8cd425a8752d"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "3DRender_sync_headers::@a247953c8cd425a8752d"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "3DRender_lib_pri::@a247953c8cd425a8752d"
+		}
+	],
+	"id" : "3DRender::@a247953c8cd425a8752d",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 5,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,-undefined,error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-fapplication-extension",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,@loader_path -Wl,-rpath,/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6OpenGL_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt63DCore_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "../../../qtbase/lib/libQt6Network_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Concurrent_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "../../../qtbase/lib/libQt6Gui_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "../../../qtbase/lib/libQt6Core_debug.6.7.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "3DRender",
+	"nameOnDisk" : "libQt63DRender_debug.dylib",
+	"paths" : 
+	{
+		"build" : "qt3d/src/render",
+		"source" : "qt3d/src/render"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				4,
+				6,
+				8,
+				12,
+				14,
+				16,
+				19,
+				21,
+				24,
+				26,
+				28,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				80,
+				82,
+				84,
+				86,
+				88,
+				90,
+				93,
+				96,
+				99,
+				102,
+				105,
+				108,
+				111,
+				113,
+				116,
+				119,
+				121,
+				123,
+				126,
+				129,
+				132,
+				135,
+				138,
+				141,
+				144,
+				147,
+				150,
+				153,
+				156,
+				159,
+				161,
+				163,
+				165,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				181,
+				184,
+				187,
+				190,
+				193,
+				196,
+				198,
+				201,
+				205,
+				208,
+				212,
+				214,
+				216,
+				219,
+				222,
+				225,
+				227,
+				229,
+				231,
+				233,
+				235,
+				237,
+				239,
+				241,
+				243,
+				245,
+				247,
+				250,
+				253,
+				256,
+				258,
+				260,
+				262,
+				265,
+				267,
+				269,
+				271,
+				273,
+				275,
+				277,
+				280,
+				282,
+				284,
+				286,
+				288,
+				290,
+				293,
+				295,
+				297,
+				299,
+				303,
+				305,
+				307,
+				309,
+				311,
+				313,
+				315,
+				317,
+				319,
+				321,
+				323,
+				325,
+				327,
+				329,
+				331,
+				333,
+				335,
+				337,
+				339,
+				347,
+				349,
+				351,
+				353,
+				356,
+				359,
+				362,
+				365,
+				368,
+				370,
+				372,
+				374,
+				376,
+				379,
+				382,
+				385,
+				388,
+				391,
+				394,
+				397,
+				400,
+				403,
+				406,
+				409,
+				411,
+				413,
+				415,
+				417,
+				419,
+				421,
+				423,
+				425,
+				427,
+				430,
+				433,
+				436,
+				438,
+				440,
+				443,
+				445,
+				447,
+				449,
+				451,
+				453,
+				457,
+				459,
+				461,
+				463,
+				465,
+				467,
+				469,
+				471,
+				474,
+				476,
+				479,
+				482,
+				485,
+				488,
+				491,
+				494,
+				497,
+				500,
+				502,
+				505,
+				508,
+				510,
+				512,
+				515,
+				518,
+				521,
+				524,
+				527,
+				529,
+				532,
+				535,
+				538,
+				541,
+				544,
+				546,
+				548,
+				551,
+				553,
+				555,
+				557,
+				559,
+				561,
+				563,
+				565,
+				567,
+				569,
+				571,
+				574,
+				577,
+				580,
+				583,
+				585,
+				588,
+				590,
+				593,
+				597,
+				599,
+				601,
+				606
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				7,
+				9,
+				10,
+				11,
+				13,
+				15,
+				17,
+				18,
+				20,
+				22,
+				23,
+				25,
+				27,
+				29,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56,
+				58,
+				60,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				92,
+				94,
+				95,
+				97,
+				98,
+				100,
+				101,
+				103,
+				104,
+				106,
+				107,
+				109,
+				110,
+				112,
+				114,
+				115,
+				117,
+				118,
+				120,
+				122,
+				124,
+				125,
+				127,
+				128,
+				130,
+				131,
+				133,
+				134,
+				136,
+				137,
+				139,
+				140,
+				142,
+				143,
+				145,
+				146,
+				148,
+				149,
+				151,
+				152,
+				154,
+				155,
+				157,
+				158,
+				160,
+				162,
+				164,
+				166,
+				168,
+				170,
+				172,
+				174,
+				176,
+				178,
+				180,
+				182,
+				183,
+				185,
+				186,
+				188,
+				189,
+				191,
+				192,
+				194,
+				195,
+				197,
+				199,
+				200,
+				202,
+				203,
+				204,
+				206,
+				207,
+				209,
+				210,
+				211,
+				213,
+				215,
+				217,
+				218,
+				220,
+				221,
+				223,
+				224,
+				226,
+				228,
+				230,
+				232,
+				234,
+				236,
+				238,
+				240,
+				242,
+				244,
+				246,
+				248,
+				249,
+				251,
+				252,
+				254,
+				255,
+				257,
+				259,
+				261,
+				263,
+				264,
+				266,
+				268,
+				270,
+				272,
+				274,
+				276,
+				278,
+				279,
+				281,
+				283,
+				285,
+				287,
+				289,
+				291,
+				292,
+				294,
+				296,
+				298,
+				300,
+				301,
+				302,
+				304,
+				306,
+				308,
+				310,
+				312,
+				314,
+				316,
+				318,
+				320,
+				322,
+				324,
+				326,
+				328,
+				330,
+				332,
+				334,
+				336,
+				338,
+				340,
+				341,
+				342,
+				343,
+				344,
+				345,
+				346,
+				348,
+				350,
+				352,
+				354,
+				355,
+				357,
+				358,
+				360,
+				361,
+				363,
+				364,
+				366,
+				367,
+				369,
+				371,
+				373,
+				375,
+				377,
+				378,
+				380,
+				381,
+				383,
+				384,
+				386,
+				387,
+				389,
+				390,
+				392,
+				393,
+				395,
+				396,
+				398,
+				399,
+				401,
+				402,
+				404,
+				405,
+				407,
+				408,
+				410,
+				412,
+				414,
+				416,
+				418,
+				420,
+				422,
+				424,
+				426,
+				428,
+				429,
+				431,
+				432,
+				434,
+				435,
+				437,
+				439,
+				441,
+				442,
+				444,
+				446,
+				448,
+				450,
+				452,
+				454,
+				455,
+				456,
+				458,
+				460,
+				462,
+				464,
+				466,
+				468,
+				470,
+				472,
+				473,
+				475,
+				477,
+				478,
+				480,
+				481,
+				483,
+				484,
+				486,
+				487,
+				489,
+				490,
+				492,
+				493,
+				495,
+				496,
+				498,
+				499,
+				501,
+				503,
+				504,
+				506,
+				507,
+				509,
+				511,
+				513,
+				514,
+				516,
+				517,
+				519,
+				520,
+				522,
+				523,
+				525,
+				526,
+				528,
+				530,
+				531,
+				533,
+				534,
+				536,
+				537,
+				539,
+				540,
+				542,
+				543,
+				545,
+				547,
+				549,
+				550,
+				552,
+				554,
+				556,
+				558,
+				560,
+				562,
+				564,
+				566,
+				568,
+				570,
+				572,
+				573,
+				575,
+				576,
+				578,
+				579,
+				581,
+				582,
+				584,
+				586,
+				587,
+				589,
+				591,
+				592,
+				594,
+				595,
+				596,
+				598,
+				600,
+				602,
+				603,
+				604
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				605,
+				607,
+				608
+			]
+		},
+		{
+			"name" : "Precompile Header File",
+			"sourceIndexes" : 
+			[
+				609
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				610,
+				611,
+				612,
+				613
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/3DRender_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/CMakeFiles/3DRender.dir/cmake_pch.hxx.cxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/abstractrenderer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/apishadermanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/attachmentpack.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/attachmentpack_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/backendnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/backendnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/boundingvolumedebug.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/boundingvolumedebug_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/bufferutils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/buffervisitor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/cameralens.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/cameralens_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/computecommand.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/computecommand_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/entity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/entity_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/entity_p_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/entityaccumulator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/entityaccumulator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/entityvisitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/entityvisitor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/handle_types_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/layer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/layer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/levelofdetail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/levelofdetail_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/managers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/managers_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/nodefunctor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/nodemanagers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/nodemanagers_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/offscreensurfacehelper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/offscreensurfacehelper_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/parameterpack.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/parameterpack_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/platformsurfacefilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/platformsurfacefilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/pointsvisitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/pointsvisitor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/rendersettings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/rendersettings_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/rendertarget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/rendertarget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/rendertargetoutput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/rendertargetoutput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/resourceaccessor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/resourceaccessor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/segmentsvisitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/segmentsvisitor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/stringtoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/stringtoint_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/transform.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/transform_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/triangleboundingvolume.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/triangleboundingvolume_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/trianglesvisitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/trianglesvisitor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/backend/uniform.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/uniform_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/backend/visitorutils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/blitframebuffer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/blitframebuffer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/buffercapture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/buffercapture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/cameraselectornode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/cameraselectornode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/clearbuffers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/clearbuffers_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/debugoverlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/debugoverlay_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/dispatchcompute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/dispatchcompute_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/framegraphnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/framegraphnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/framegraphvisitor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/framegraphvisitor_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/frustumculling.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/frustumculling_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/layerfilternode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/layerfilternode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/memorybarrier.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/memorybarrier_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/nodraw.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/nodraw_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/nopicking.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/nopicking_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/proximityfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/proximityfilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qblitframebuffer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qblitframebuffer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qblitframebuffer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qbuffercapture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qbuffercapture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qbuffercapture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qcameraselector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qcameraselector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qcameraselector_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qclearbuffers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qclearbuffers.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qclearbuffers_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qdebugoverlay.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qdebugoverlay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qdebugoverlay_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qdispatchcompute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qdispatchcompute.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qdispatchcompute_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qframegraphnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qframegraphnode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qframegraphnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qfrustumculling.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qfrustumculling.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qlayerfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qlayerfilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qlayerfilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qmemorybarrier.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qmemorybarrier.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qmemorybarrier_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qnodraw.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qnodraw.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qnopicking.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qnopicking.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qproximityfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qproximityfilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qproximityfilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qrendercapture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrendercapture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrendercapture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qrenderpassfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrenderpassfilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrenderpassfilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qrenderstateset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrenderstateset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrenderstateset_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qrendersurfaceselector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrendersurfaceselector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrendersurfaceselector_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qrendertargetselector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrendertargetselector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qrendertargetselector_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qsetfence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qsetfence.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qsetfence_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qsortpolicy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qsortpolicy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qsortpolicy_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qsubtreeenabler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qsubtreeenabler.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qsubtreeenabler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qtechniquefilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qtechniquefilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qtechniquefilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qviewport.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qviewport.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qviewport_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/qwaitfence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qwaitfence.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/qwaitfence_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/rendercapture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/rendercapture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/renderpassfilternode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/renderpassfilternode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/rendersurfaceselector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/rendersurfaceselector_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/rendertargetselectornode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/rendertargetselectornode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/setfence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/setfence_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/sortpolicy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/sortpolicy_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/statesetnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/statesetnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/subtreeenabler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/subtreeenabler_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/techniquefilternode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/techniquefilternode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/viewportnode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/viewportnode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/framegraph/waitfence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/framegraph/waitfence_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qcamera.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qcamera.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qcamera_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qcameralens.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qcameralens.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qcameralens_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qcomputecommand.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qcomputecommand.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qcomputecommand_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qlayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlayer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlayer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qlevelofdetail.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlevelofdetail.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlevelofdetail_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qlevelofdetailboundingsphere.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlevelofdetailboundingsphere.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qlevelofdetailswitch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlevelofdetailswitch.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qlevelofdetailswitch_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qpickingsettings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qpickingsettings.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qpickingsettings_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrenderapi.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrenderaspect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrenderaspect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrenderaspect_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrendercapabilities.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendercapabilities.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendercapabilities_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrenderplugin_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrenderpluginfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrenderpluginfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrenderpluginfactoryif.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrenderpluginfactoryif_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrendersettings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendersettings.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendersettings_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrendertarget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendertarget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendertarget_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/qrendertargetoutput.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendertargetoutput.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/qrendertargetoutput_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/frontend/sphere.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/frontend/sphere_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/armature.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/armature_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/attribute.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/attribute_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/buffer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/buffer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/buffermanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/buffermanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/geometry.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/geometry_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/geometryrenderer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/geometryrenderer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/geometryrenderermanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/geometryrenderermanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/gltfskeletonloader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/gltfskeletonloader_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/joint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/joint_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/pickingproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/pickingproxy_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/qgeometryrenderer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/qgeometryrenderer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/qgeometryrenderer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/qmesh.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/qmesh.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/qmesh_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/qpickingproxy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/qpickingproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/qpickingproxy_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/skeleton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/skeleton_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/geometry/skeletondata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/geometry/skeletondata_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qaxisalignedboundingbox.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qaxisalignedboundingbox_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qgeometryloaderfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qgeometryloaderfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qgeometryloaderinterface_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneexporter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneexporter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneexportfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneexportfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneexportplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneexportplugin_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneimporter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneimporter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneimportfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneimportfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneimportplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneimportplugin_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/qsceneloader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneloader.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/qsceneloader_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/scene.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/scene_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/io/scenemanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/io/scenemanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/abstractpickingjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/abstractpickingjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/calcboundingvolumejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/calcboundingvolumejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/computefilteredboundingvolumejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/computefilteredboundingvolumejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/expandboundingvolumejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/expandboundingvolumejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/filterentitybycomponentjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/filterlayerentityjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/filterlayerentityjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/filterproximitydistancejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/filterproximitydistancejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/framecleanupjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/framecleanupjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/frustumcullingjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/frustumcullingjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/genericlambdajob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/job_common_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/lightgatherer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/lightgatherer_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/loadgeometryjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/loadgeometryjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/loadscenejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/loadscenejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/loadskeletonjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/loadskeletonjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/pickboundingvolumejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/pickboundingvolumejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/pickboundingvolumeutils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/pickboundingvolumeutils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/raycastingjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/raycastingjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/sendbuffercapturejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/sendbuffercapturejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updateentitylayersjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updateentitylayersjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updatelevelofdetailjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updatelevelofdetailjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updateshaderdatatransformjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updateshaderdatatransformjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updateskinningpalettejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updateskinningpalettejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updatetreeenabledjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updatetreeenabledjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updateworldboundingvolumejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updateworldboundingvolumejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/updateworldtransformjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/updateworldtransformjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/filtercompatibletechniquejob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/filtercompatibletechniquejob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/materialparametergathererjob.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/materialparametergathererjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/renderviewjobutils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/renderviewjobutils_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/jobs/uniformblockbuilder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/uniformblockbuilder_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/renderqueue_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/renderercache_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/renderviewcommandbuilderjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/renderviewcommandupdaterjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/renderviewinitializerjob_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/jobs/rendersyncjobs_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/environmentlight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/environmentlight_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/light.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/light_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/lightsource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/lightsource_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/qabstractlight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qabstractlight.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qabstractlight_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/qdirectionallight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qdirectionallight.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qdirectionallight_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/qenvironmentlight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qenvironmentlight.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qenvironmentlight_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/qpointlight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qpointlight.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qpointlight_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/lights/qspotlight.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qspotlight.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/lights/qspotlight_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/effect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/effect_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/filterkey.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/filterkey_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/material.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/material_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/parameter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/parameter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qeffect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qeffect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qeffect_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qfilterkey.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qfilterkey.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qfilterkey_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qgraphicsapifilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qgraphicsapifilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qgraphicsapifilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qmaterial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qmaterial.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qmaterial_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qparameter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qparameter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qparameter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qrenderpass.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qrenderpass.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qrenderpass_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qshaderdata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderdata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderdata_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qshaderimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderimage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderimage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qshaderprogram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderprogram.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderprogram_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qshaderprogrambuilder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderprogrambuilder.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qshaderprogrambuilder_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/qtechnique.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qtechnique.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/qtechnique_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/renderpass.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/renderpass_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/shader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/shader_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/shaderbuilder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/shaderbuilder_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/shaderdata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/shaderdata_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/shaderimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/shaderimage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/technique.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/technique_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/materialsystem/techniquemanager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/materialsystem/techniquemanager_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/objectpicker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/objectpicker_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/pickeventfilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/pickeventfilter_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qabstractraycaster.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qabstractraycaster.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qabstractraycaster_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qobjectpicker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qobjectpicker.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qobjectpicker_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qpickevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qpickevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qpickevent_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qpicklineevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qpicklineevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qpickpointevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qpickpointevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qpicktriangleevent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qpicktriangleevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qpicktriangleevent_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qraycaster.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qraycaster.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qraycasterhit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qraycasterhit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/qscreenraycaster.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/qscreenraycaster.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/picking/raycaster.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/picking/raycaster_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/qrendererplugin.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/qrendererplugin_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/qrendererpluginfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/qrendererpluginfactory_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/qt3drender_global.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/qt3drender_global_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/boundingsphere.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/boundingsphere_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/qabstractcollisionqueryservice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/qabstractcollisionqueryservice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/qboundingvolume.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/qboundingvolume_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/qboundingvolumeprovider.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/qboundingvolumeprovider_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/qcollisionqueryresult.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/qcollisionqueryresult_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/qray3d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/qray3d_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/raycasting/qraycastingservice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/raycasting/qraycastingservice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderlogging.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderlogging_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/genericstate_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qalphacoverage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qalphacoverage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qalphatest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qalphatest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qalphatest_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qblendequation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qblendequation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qblendequation_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qblendequationarguments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qblendequationarguments.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qblendequationarguments_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qclipplane.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qclipplane.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qclipplane_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qcolormask.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qcolormask.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qcolormask_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qcullface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qcullface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qcullface_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qdepthrange.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qdepthrange.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qdepthrange_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qdepthtest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qdepthtest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qdepthtest_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qdithering.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qdithering.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qfrontface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qfrontface.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qfrontface_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qlinewidth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qlinewidth.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qlinewidth_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qmultisampleantialiasing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qmultisampleantialiasing.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qnodepthmask.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qnodepthmask.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qpointsize.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qpointsize.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qpointsize_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qpolygonoffset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qpolygonoffset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qpolygonoffset_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qrastermode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qrastermode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qrastermode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qrenderstate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qrenderstate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qrenderstate_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qscissortest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qscissortest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qscissortest_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qseamlesscubemap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qseamlesscubemap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qstencilmask.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstencilmask.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstencilmask_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qstenciloperation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciloperation.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciloperation_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qstenciloperationarguments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciloperationarguments.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciloperationarguments_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qstenciltest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciltest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciltest_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/qstenciltestarguments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciltestarguments.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/qstenciltestarguments_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/renderstatenode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/renderstatenode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/renderstates.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/renderstates_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/renderstateset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/renderstateset_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/statemask_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/renderstates/statevariant.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/renderstates/statevariant_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/services/vsyncframeadvanceservice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/services/vsyncframeadvanceservice_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshaderformat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshaderformat_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshadergenerator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshadergenerator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshadergraph.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshadergraph_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshadergraphloader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshadergraphloader_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshaderlanguage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshaderlanguage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshadernode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshadernode_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshadernodeport.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshadernodeport_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/shadergraph/qshadernodesloader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/shadergraph/qshadernodesloader_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qabstracttexture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qabstracttexture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qabstracttexture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qabstracttextureimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qabstracttextureimage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qabstracttextureimage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qpaintedtextureimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qpaintedtextureimage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qpaintedtextureimage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtexture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexture.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtexturedata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexturedata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtexturedataupdate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexturedataupdate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexturedataupdate_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtexturegenerator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexturegenerator_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtextureimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtextureimage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtextureimage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtextureimagedata.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtextureimagedata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtextureimagedata_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtextureimagedatagenerator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/qtexturewrapmode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/qtexturewrapmode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/texture.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/texture_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 0,
+			"path" : "qt3d/src/render/texture/textureimage.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"path" : "qt3d/src/render/texture/textureimage_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 74,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/qt3drender-config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 74,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/qt3drender-config_p.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 76,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/meta_types/qt63drender_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 80,
+			"compileGroupIndex" : 2,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/.rcc/qrc_materialsystem.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 82,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/preliminary_prl_for_3DRender_step2_Debug.prl",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 84,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt63DRender_debug.pc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/CMakeFiles/3DRender.dir/cmake_pch.hxx",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/meta_types/qt63drender_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/.rcc/qrc_materialsystem.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qt3d/src/render/preliminary_prl_for_3DRender_step2_Debug.prl.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/pkgconfig/Qt63DRender_debug.pc.rule",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

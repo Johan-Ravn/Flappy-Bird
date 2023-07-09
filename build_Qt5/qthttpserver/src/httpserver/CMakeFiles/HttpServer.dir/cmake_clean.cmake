@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../../qtbase/lib/libQt6HttpServer_debug.6.7.0.dylib"
+  "../../../qtbase/lib/libQt6HttpServer_debug.6.dylib"
+  "../../../qtbase/lib/libQt6HttpServer_debug.dylib"
+  "../../../qtbase/lib/libQt6HttpServer_debug.pdb"
+  "../../../qtbase/lib/pkgconfig/Qt6HttpServer_debug.pc"
+  "CMakeFiles/HttpServer_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/HttpServer_autogen.dir/ParseCache.txt"
+  "HttpServer_autogen"
+  "CMakeFiles/HttpServer.dir/HttpServer_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/HttpServer.dir/HttpServer_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/cmake_pch.hxx.pch"
+  "CMakeFiles/HttpServer.dir/cmake_pch.hxx.pch.d"
+  "CMakeFiles/HttpServer.dir/qabstracthttpserver.cpp.o"
+  "CMakeFiles/HttpServer.dir/qabstracthttpserver.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserver.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserver.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverliterals.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverliterals.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverrequest.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverrequest.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverresponder.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverresponder.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverresponse.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverresponse.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverrouter.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverrouter.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverrouterrule.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverrouterrule.cpp.o.d"
+  "CMakeFiles/HttpServer.dir/qhttpserverstream.cpp.o"
+  "CMakeFiles/HttpServer.dir/qhttpserverstream.cpp.o.d"
+  "meta_types/qt6httpserver_debug_metatypes.json"
+  "meta_types/qt6httpserver_debug_metatypes.json.gen"
+  "preliminary_prl_for_HttpServer_step2_Debug.prl"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/HttpServer.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

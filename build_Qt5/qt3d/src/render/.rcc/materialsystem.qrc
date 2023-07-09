@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="prototypes/default.json">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/render/materialsystem/prototypes/default.json</file>
+  </qresource>
+</RCC>
+

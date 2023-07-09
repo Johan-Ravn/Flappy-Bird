@@ -1,0 +1,5 @@
+#ifndef QT_QTQDOCCATCHGENERATORS_MODULE_H
+#define QT_QTQDOCCATCHGENERATORS_MODULE_H
+#include <QtQDocCatchGenerators/QtQDocCatchGeneratorsDepends>
+#include "qtqdoccatchgeneratorsversion.h"
+#endif

@@ -1,0 +1,2 @@
+# Empty compiler generated dependencies file for qquick3dphysicsplugin.
+# This may be replaced when dependencies are built.

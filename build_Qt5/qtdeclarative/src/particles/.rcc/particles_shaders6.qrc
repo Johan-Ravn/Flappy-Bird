@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/particles">
+    <file alias="shaders_ng/imageparticle_sprite.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/particles/.qsb/shaders_ng/imageparticle_sprite.vert.qsb</file>
+    <file alias="shaders_ng/imageparticle_sprite.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/particles/.qsb/shaders_ng/imageparticle_sprite.frag.qsb</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="res/rhishaders/orthoshadowblurx.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/orthoshadowblurx.vert.qsb</file>
+    <file alias="res/rhishaders/orthoshadowblurx.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/orthoshadowblurx.frag.qsb</file>
+    <file alias="res/rhishaders/orthoshadowblury.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/orthoshadowblury.vert.qsb</file>
+    <file alias="res/rhishaders/orthoshadowblury.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/orthoshadowblury.frag.qsb</file>
+    <file alias="res/rhishaders/texturedquad.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/texturedquad.vert.qsb</file>
+    <file alias="res/rhishaders/texturedquad.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/texturedquad.frag.qsb</file>
+    <file alias="res/rhishaders/environmentmap.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/environmentmap.vert.qsb</file>
+    <file alias="res/rhishaders/environmentmap.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/environmentmap.frag.qsb</file>
+    <file alias="res/rhishaders/lightmapuvraster.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lightmapuvraster.vert.qsb</file>
+    <file alias="res/rhishaders/lightmapuvraster.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lightmapuvraster.frag.qsb</file>
+    <file alias="res/rhishaders/debugobject.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/debugobject.vert.qsb</file>
+    <file alias="res/rhishaders/debugobject.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/debugobject.frag.qsb</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../../../qtbase/lib/libQt63DQuickAnimation_debug.6.7.0.dylib"
+  "../../../../qtbase/lib/libQt63DQuickAnimation_debug.6.dylib"
+  "../../../../qtbase/lib/libQt63DQuickAnimation_debug.dylib"
+  "../../../../qtbase/lib/libQt63DQuickAnimation_debug.pdb"
+  "../../../../qtbase/lib/pkgconfig/Qt63DQuickAnimation_debug.pc"
+  "3DQuickAnimation_autogen"
+  "CMakeFiles/3DQuickAnimation_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/3DQuickAnimation_autogen.dir/ParseCache.txt"
+  "CMakeFiles/3DQuickAnimation.dir/3DQuickAnimation_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/3DQuickAnimation_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/cmake_pch.hxx.pch"
+  "CMakeFiles/3DQuickAnimation.dir/cmake_pch.hxx.pch.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3danimationcontroller.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3danimationcontroller.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3danimationgroup.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3danimationgroup.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dchannelmapper.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dchannelmapper.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dkeyframeanimation.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dkeyframeanimation.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dmorphinganimation.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dmorphinganimation.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dmorphtarget.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dmorphtarget.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dvertexblendanimation.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/items/quick3dvertexblendanimation.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/qt3dquickanimation_global.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/qt3dquickanimation_global.cpp.o.d"
+  "CMakeFiles/3DQuickAnimation.dir/qt3dquickanimationnodefactory.cpp.o"
+  "CMakeFiles/3DQuickAnimation.dir/qt3dquickanimationnodefactory.cpp.o.d"
+  "meta_types/qt63dquickanimation_debug_metatypes.json"
+  "meta_types/qt63dquickanimation_debug_metatypes.json.gen"
+  "preliminary_prl_for_3DQuickAnimation_step2_Debug.prl"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/3DQuickAnimation.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
