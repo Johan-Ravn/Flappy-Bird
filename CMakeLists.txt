@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Source files
 set(SOURCES
     "src/main.cpp"
-    "src/display/image.cpp"
-    "src/display/userInterface.cpp"
+    "src/display/imageManupulation/imageManipulation.cpp"
+    "src/display/userInterface/userInterface.cpp"
 )
 
 # Add the executable target

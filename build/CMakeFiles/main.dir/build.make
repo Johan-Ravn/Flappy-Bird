@@ -83,88 +83,49 @@ CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
 
-CMakeFiles/main.dir/src/display/image.cpp.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/src/display/image.cpp.o: /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/image.cpp
-CMakeFiles/main.dir/src/display/image.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/display/image.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/display/image.cpp.o -MF CMakeFiles/main.dir/src/display/image.cpp.o.d -o CMakeFiles/main.dir/src/display/image.cpp.o -c /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/image.cpp
+CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o: /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/imageManupulation/imageManipulation.cpp
+CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o -MF CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o.d -o CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o -c /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/imageManupulation/imageManipulation.cpp
 
-CMakeFiles/main.dir/src/display/image.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/display/image.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/image.cpp > CMakeFiles/main.dir/src/display/image.cpp.i
+CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/imageManupulation/imageManipulation.cpp > CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.i
 
-CMakeFiles/main.dir/src/display/image.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/display/image.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/image.cpp -o CMakeFiles/main.dir/src/display/image.cpp.s
+CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/imageManupulation/imageManipulation.cpp -o CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.s
+
+CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o: /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/userInterface/userInterface.cpp
+CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o -MF CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o.d -o CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o -c /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/userInterface/userInterface.cpp
+
+CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/userInterface/userInterface.cpp > CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.i
+
+CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/userInterface/userInterface.cpp -o CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/src/main.cpp.o" \
-"CMakeFiles/main.dir/src/display/image.cpp.o"
+"CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o" \
+"CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
 main: CMakeFiles/main.dir/src/main.cpp.o
-main: CMakeFiles/main.dir/src/display/image.cpp.o
+main: CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o
+main: CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o
 main: CMakeFiles/main.dir/build.make
-main: /usr/local/lib/libopencv_gapi.4.8.0.dylib
-main: /usr/local/lib/libopencv_stitching.4.8.0.dylib
-main: /usr/local/lib/libopencv_alphamat.4.8.0.dylib
-main: /usr/local/lib/libopencv_aruco.4.8.0.dylib
-main: /usr/local/lib/libopencv_bgsegm.4.8.0.dylib
-main: /usr/local/lib/libopencv_bioinspired.4.8.0.dylib
-main: /usr/local/lib/libopencv_ccalib.4.8.0.dylib
-main: /usr/local/lib/libopencv_dnn_objdetect.4.8.0.dylib
-main: /usr/local/lib/libopencv_dnn_superres.4.8.0.dylib
-main: /usr/local/lib/libopencv_dpm.4.8.0.dylib
-main: /usr/local/lib/libopencv_face.4.8.0.dylib
-main: /usr/local/lib/libopencv_freetype.4.8.0.dylib
-main: /usr/local/lib/libopencv_fuzzy.4.8.0.dylib
-main: /usr/local/lib/libopencv_hfs.4.8.0.dylib
-main: /usr/local/lib/libopencv_img_hash.4.8.0.dylib
-main: /usr/local/lib/libopencv_intensity_transform.4.8.0.dylib
-main: /usr/local/lib/libopencv_line_descriptor.4.8.0.dylib
-main: /usr/local/lib/libopencv_mcc.4.8.0.dylib
-main: /usr/local/lib/libopencv_quality.4.8.0.dylib
-main: /usr/local/lib/libopencv_rapid.4.8.0.dylib
-main: /usr/local/lib/libopencv_reg.4.8.0.dylib
-main: /usr/local/lib/libopencv_rgbd.4.8.0.dylib
-main: /usr/local/lib/libopencv_saliency.4.8.0.dylib
-main: /usr/local/lib/libopencv_sfm.4.8.0.dylib
-main: /usr/local/lib/libopencv_stereo.4.8.0.dylib
-main: /usr/local/lib/libopencv_structured_light.4.8.0.dylib
-main: /usr/local/lib/libopencv_superres.4.8.0.dylib
-main: /usr/local/lib/libopencv_surface_matching.4.8.0.dylib
-main: /usr/local/lib/libopencv_tracking.4.8.0.dylib
-main: /usr/local/lib/libopencv_videostab.4.8.0.dylib
-main: /usr/local/lib/libopencv_viz.4.8.0.dylib
-main: /usr/local/lib/libopencv_wechat_qrcode.4.8.0.dylib
-main: /usr/local/lib/libopencv_xfeatures2d.4.8.0.dylib
-main: /usr/local/lib/libopencv_xobjdetect.4.8.0.dylib
-main: /usr/local/lib/libopencv_xphoto.4.8.0.dylib
-main: /usr/local/lib/libopencv_shape.4.8.0.dylib
-main: /usr/local/lib/libopencv_highgui.4.8.0.dylib
-main: /usr/local/lib/libopencv_datasets.4.8.0.dylib
-main: /usr/local/lib/libopencv_plot.4.8.0.dylib
-main: /usr/local/lib/libopencv_text.4.8.0.dylib
-main: /usr/local/lib/libopencv_ml.4.8.0.dylib
-main: /usr/local/lib/libopencv_phase_unwrapping.4.8.0.dylib
-main: /usr/local/lib/libopencv_optflow.4.8.0.dylib
-main: /usr/local/lib/libopencv_ximgproc.4.8.0.dylib
-main: /usr/local/lib/libopencv_video.4.8.0.dylib
-main: /usr/local/lib/libopencv_videoio.4.8.0.dylib
-main: /usr/local/lib/libopencv_imgcodecs.4.8.0.dylib
-main: /usr/local/lib/libopencv_objdetect.4.8.0.dylib
-main: /usr/local/lib/libopencv_calib3d.4.8.0.dylib
-main: /usr/local/lib/libopencv_dnn.4.8.0.dylib
-main: /usr/local/lib/libopencv_features2d.4.8.0.dylib
-main: /usr/local/lib/libopencv_flann.4.8.0.dylib
-main: /usr/local/lib/libopencv_photo.4.8.0.dylib
-main: /usr/local/lib/libopencv_imgproc.4.8.0.dylib
-main: /usr/local/lib/libopencv_core.4.8.0.dylib
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

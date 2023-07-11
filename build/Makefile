@@ -129,29 +129,53 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-src/display/image.o: src/display/image.cpp.o
-.PHONY : src/display/image.o
+src/display/imageManupulation/imageManipulation.o: src/display/imageManupulation/imageManipulation.cpp.o
+.PHONY : src/display/imageManupulation/imageManipulation.o
 
 # target to build an object file
-src/display/image.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/image.cpp.o
-.PHONY : src/display/image.cpp.o
+src/display/imageManupulation/imageManipulation.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o
+.PHONY : src/display/imageManupulation/imageManipulation.cpp.o
 
-src/display/image.i: src/display/image.cpp.i
-.PHONY : src/display/image.i
+src/display/imageManupulation/imageManipulation.i: src/display/imageManupulation/imageManipulation.cpp.i
+.PHONY : src/display/imageManupulation/imageManipulation.i
 
 # target to preprocess a source file
-src/display/image.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/image.cpp.i
-.PHONY : src/display/image.cpp.i
+src/display/imageManupulation/imageManipulation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.i
+.PHONY : src/display/imageManupulation/imageManipulation.cpp.i
 
-src/display/image.s: src/display/image.cpp.s
-.PHONY : src/display/image.s
+src/display/imageManupulation/imageManipulation.s: src/display/imageManupulation/imageManipulation.cpp.s
+.PHONY : src/display/imageManupulation/imageManipulation.s
 
 # target to generate assembly for a file
-src/display/image.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/image.cpp.s
-.PHONY : src/display/image.cpp.s
+src/display/imageManupulation/imageManipulation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.s
+.PHONY : src/display/imageManupulation/imageManipulation.cpp.s
+
+src/display/userInterface/userInterface.o: src/display/userInterface/userInterface.cpp.o
+.PHONY : src/display/userInterface/userInterface.o
+
+# target to build an object file
+src/display/userInterface/userInterface.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o
+.PHONY : src/display/userInterface/userInterface.cpp.o
+
+src/display/userInterface/userInterface.i: src/display/userInterface/userInterface.cpp.i
+.PHONY : src/display/userInterface/userInterface.i
+
+# target to preprocess a source file
+src/display/userInterface/userInterface.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.i
+.PHONY : src/display/userInterface/userInterface.cpp.i
+
+src/display/userInterface/userInterface.s: src/display/userInterface/userInterface.cpp.s
+.PHONY : src/display/userInterface/userInterface.s
+
+# target to generate assembly for a file
+src/display/userInterface/userInterface.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.s
+.PHONY : src/display/userInterface/userInterface.cpp.s
 
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
@@ -186,9 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... src/display/image.o"
-	@echo "... src/display/image.i"
-	@echo "... src/display/image.s"
+	@echo "... src/display/imageManupulation/imageManipulation.o"
+	@echo "... src/display/imageManupulation/imageManipulation.i"
+	@echo "... src/display/imageManupulation/imageManipulation.s"
+	@echo "... src/display/userInterface/userInterface.o"
+	@echo "... src/display/userInterface/userInterface.i"
+	@echo "... src/display/userInterface/userInterface.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

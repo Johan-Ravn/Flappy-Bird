@@ -1,8 +1,8 @@
+#include "imageManipulation.hpp"
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "include/stb_image/stb_image_write.h"
-#include "include/stb_image/stb_image.h"
-#include "imageManipulation.hpp"
+#include "../include/stb_image_headers/stb_image.h"
+#include "../include/stb_image_headers/stb_image_write.h"
 
 Image::Image(const char *filename) : filename(filename)
 {

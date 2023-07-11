@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/image.cpp" "CMakeFiles/main.dir/src/display/image.cpp.o" "gcc" "CMakeFiles/main.dir/src/display/image.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/imageManupulation/imageManipulation.cpp" "CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o" "gcc" "CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o.d"
+  "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/display/userInterface/userInterface.cpp" "CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o" "gcc" "CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o.d"
   "/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/src/main.cpp" "CMakeFiles/main.dir/src/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/main.cpp.o.d"
   )
 
