@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qtwebchannel/">
-    <file alias="qwebchannel.js">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtwebchannel/src/webchannel/../../examples/webchannel/shared/qwebchannel.js</file>
-  </qresource>
-</RCC>
-

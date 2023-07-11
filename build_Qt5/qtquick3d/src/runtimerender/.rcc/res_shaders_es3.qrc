@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="res/rhishaders/cubeshadowblurx.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/cubeshadowblurx.vert.qsb</file>
-    <file alias="res/rhishaders/cubeshadowblurx.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/cubeshadowblurx.frag.qsb</file>
-    <file alias="res/rhishaders/cubeshadowblury.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/cubeshadowblury.vert.qsb</file>
-    <file alias="res/rhishaders/cubeshadowblury.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/cubeshadowblury.frag.qsb</file>
-  </qresource>
-</RCC>
-

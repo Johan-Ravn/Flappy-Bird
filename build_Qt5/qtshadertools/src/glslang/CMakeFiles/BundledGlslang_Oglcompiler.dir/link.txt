@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../../qtbase/lib/libQt6BundledGlslang_Oglcompiler_debug.a CMakeFiles/BundledGlslang_Oglcompiler.dir/BundledGlslang_Oglcompiler_autogen/mocs_compilation.cpp.o CMakeFiles/BundledGlslang_Oglcompiler.dir/__/3rdparty/glslang/OGLCompilersDLL/InitializeDll.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../../qtbase/lib/libQt6BundledGlslang_Oglcompiler_debug.a

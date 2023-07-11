@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qpdf/">
-    <file alias="sRGB2014.icc">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/gui/../3rdparty/icc/sRGB2014.icc</file>
-    <file alias="qpdfa_metadata.xml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtbase/src/gui/painting/qpdfa_metadata.xml</file>
-  </qresource>
-</RCC>
-

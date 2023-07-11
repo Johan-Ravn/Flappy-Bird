@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/qquickwidget">
-    <file alias="images/qquickwidget.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/plugins/qquickwidget/images/qquickwidget.png</file>
-  </qresource>
-</RCC>
-

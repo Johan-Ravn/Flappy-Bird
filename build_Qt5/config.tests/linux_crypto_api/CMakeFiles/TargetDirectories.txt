@@ -1,3 +1,0 @@
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/linux_crypto_api/CMakeFiles/config_test_linux_crypto_api.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/linux_crypto_api/CMakeFiles/edit_cache.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/config.tests/linux_crypto_api/CMakeFiles/rebuild_cache.dir

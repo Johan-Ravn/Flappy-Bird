@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/axis">
-    <file alias="AxisLabel">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/AxisLabel.qml</file>
-    <file alias="GridLine">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/GridLine.qml</file>
-    <file alias="ItemLabel">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/ItemLabel.qml</file>
-    <file alias="TitleLabel">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtgraphs/src/graphs/qml/resources/TitleLabel.qml</file>
-  </qresource>
-</RCC>
-

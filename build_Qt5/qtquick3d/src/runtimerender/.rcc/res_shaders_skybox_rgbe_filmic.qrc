@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="res/rhishaders/skybox_rgbe_filmic.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/skybox_rgbe_filmic.vert.qsb</file>
-    <file alias="res/rhishaders/skybox_rgbe_filmic.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/skybox_rgbe_filmic.frag.qsb</file>
-  </qresource>
-</RCC>
-

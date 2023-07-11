@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="particleresources/fuzzydot.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/particles/particleresources/fuzzydot.png</file>
-    <file alias="particleresources/glowdot.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/particles/particleresources/glowdot.png</file>
-    <file alias="particleresources/noise.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/particles/particleresources/noise.png</file>
-    <file alias="particleresources/star.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/particles/particleresources/star.png</file>
-  </qresource>
-</RCC>
-

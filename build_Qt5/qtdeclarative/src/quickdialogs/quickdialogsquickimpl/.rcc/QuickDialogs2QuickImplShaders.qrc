@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/imports/QtQuick/Dialogs/quickimpl">
-    <file alias="shaders/SaturationLightness.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickdialogs/quickdialogsquickimpl/.qsb/shaders/SaturationLightness.frag.qsb</file>
-  </qresource>
-</RCC>
-

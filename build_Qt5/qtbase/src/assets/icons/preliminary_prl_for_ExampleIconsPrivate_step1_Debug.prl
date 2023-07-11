@@ -1,7 +1,0 @@
-RCC_OBJECTS = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/assets/icons/CMakeFiles/ExampleIconsPrivate_resources_1.dir/.rcc/qrc_example_icons.cpp.o
-QMAKE_PRL_TARGET = libQt6ExampleIcons_debug.a
-QMAKE_PRL_TARGET_PATH_FOR_CMAKE = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6ExampleIcons_debug.a
-QMAKE_PRL_CONFIG = static
-QMAKE_PRL_VERSION = 6.7.0
-QMAKE_PRL_LIBS_FOR_CMAKE = 
-

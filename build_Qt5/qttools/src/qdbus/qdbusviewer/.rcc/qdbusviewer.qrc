@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/qdbusviewer">
-    <file alias="images/qdbusviewer-128.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/qdbus/qdbusviewer/images/qdbusviewer-128.png</file>
-    <file alias="images/qdbusviewer.png">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/qdbus/qdbusviewer/images/qdbusviewer.png</file>
-  </qresource>
-</RCC>
-

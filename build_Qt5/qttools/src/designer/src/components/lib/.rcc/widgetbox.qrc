@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/widgetbox">
-    <file alias="widgetbox.xml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/components/lib/../widgetbox/widgetbox.xml</file>
-  </qresource>
-</RCC>
-

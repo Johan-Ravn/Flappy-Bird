@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="res/rhishaders/lineparticlesvlightanimated.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lineparticlesvlightanimated.vert.qsb</file>
-    <file alias="res/rhishaders/lineparticlesvlightanimated.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lineparticlesvlightanimated.frag.qsb</file>
-  </qresource>
-</RCC>
-

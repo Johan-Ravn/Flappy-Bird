@@ -1,3 +1,0 @@
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/tools/syncqt/configure_time_bins/CMakeFiles/syncqt.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/tools/syncqt/configure_time_bins/CMakeFiles/edit_cache.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/src/tools/syncqt/configure_time_bins/CMakeFiles/rebuild_cache.dir

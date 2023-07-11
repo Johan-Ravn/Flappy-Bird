@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="res/rhishaders/particlesnolightmapped.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/particlesnolightmapped.vert.qsb</file>
-    <file alias="res/rhishaders/particlesnolightmapped.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/particlesnolightmapped.frag.qsb</file>
-  </qresource>
-</RCC>
-

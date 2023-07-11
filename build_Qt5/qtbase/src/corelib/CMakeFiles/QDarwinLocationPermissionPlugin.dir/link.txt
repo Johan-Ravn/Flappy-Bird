@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../plugins/permissions/libqdarwinlocationpermission_debug.a CMakeFiles/QDarwinLocationPermissionPlugin.dir/QDarwinLocationPermissionPlugin_autogen/mocs_compilation.cpp.o CMakeFiles/QDarwinLocationPermissionPlugin.dir/platform/darwin/qdarwinpermissionplugin_location.mm.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../plugins/permissions/libqdarwinlocationpermission_debug.a

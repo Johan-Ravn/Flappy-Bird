@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="res/rhishaders/lineparticlesmapped.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lineparticlesmapped.vert.qsb</file>
-    <file alias="res/rhishaders/lineparticlesmapped.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtquick3d/src/runtimerender/.qsb/res/rhishaders/lineparticlesmapped.frag.qsb</file>
-  </qresource>
-</RCC>
-

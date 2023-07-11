@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/Material">
-    <file alias="shaders/RectangularGlow.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtdeclarative/src/quickcontrols/material/.qsb/shaders/RectangularGlow.frag.qsb</file>
-  </qresource>
-</RCC>
-

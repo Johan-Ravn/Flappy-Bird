@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../../lib/libQt6DeviceDiscoverySupport_debug.a CMakeFiles/DeviceDiscoverySupportPrivate.dir/DeviceDiscoverySupportPrivate_autogen/mocs_compilation.cpp.o CMakeFiles/DeviceDiscoverySupportPrivate.dir/qdevicediscovery_dummy.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../../lib/libQt6DeviceDiscoverySupport_debug.a

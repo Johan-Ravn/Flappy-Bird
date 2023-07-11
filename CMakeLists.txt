@@ -7,7 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(SOURCES
     "src/main.cpp"
     "src/display/image.cpp"
-    "src/display/display.cpp"
     "src/display/userInterface.cpp"
 )
 
@@ -21,12 +20,3 @@ target_include_directories(main PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 if(CMAKE_C_COMPILER_ID MATCHES "GNU|Clang")
     add_compile_options(-Wno-deprecated-declarations)
 endif()
-
-# Opencv
-find_package(OpenCV REQUIRED)
-target_include_directories(main PUBLIC ${OpenCV_INCLUDE_DIRS})
-target_link_libraries(main PUBLIC ${OpenCV_LIBS})
-
-# QT
-find_package(Qt5 REQUIRED COMPONENTS Widgets)
-target_link_libraries(main PUBLIC Qt5::Widgets)

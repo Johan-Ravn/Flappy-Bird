@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qmake/override_features">
-    <file alias="exclusive_builds.prf">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/linguist/lprodump/../shared/exclusive_builds.prf</file>
-  </qresource>
-</RCC>
-

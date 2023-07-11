@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/skins">
-    <file alias="ClamshellPhone.skin">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qttools/src/designer/src/lib/../../../shared/deviceskin/skins/ClamshellPhone.skin</file>
-  </qresource>
-</RCC>
-

@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="Button.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qmleasing/Button.qml</file>
-    <file alias="preview.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/tools/qmleasing/preview.qml</file>
-  </qresource>
-</RCC>
-

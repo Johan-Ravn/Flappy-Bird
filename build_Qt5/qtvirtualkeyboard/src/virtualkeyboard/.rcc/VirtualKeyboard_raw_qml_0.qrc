@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/imports/QtQuick/VirtualKeyboard/">
-    <file alias="HandwritingInputPanel.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/virtualkeyboard/HandwritingInputPanel.qml</file>
-    <file alias="InputPanel.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/virtualkeyboard/InputPanel.qml</file>
-    <file alias="EnterKey.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/virtualkeyboard/EnterKey.qml</file>
-  </qresource>
-</RCC>
-

@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/imports/QtQuick/VirtualKeyboard">
-    <file alias="3rdparty/tcime/data/qt/dict_cangjie.dat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/data/qt/dict_cangjie.dat</file>
-    <file alias="3rdparty/tcime/data/qt/dict_phrases.dat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/data/qt/dict_phrases.dat</file>
-    <file alias="3rdparty/tcime/data/qt/dict_zhuyin.dat">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtvirtualkeyboard/src/plugins/tcime/3rdparty/tcime/data/qt/dict_zhuyin.dat</file>
-  </qresource>
-</RCC>
-

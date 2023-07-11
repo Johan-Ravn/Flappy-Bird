@@ -1,3 +1,0 @@
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/config.tests/arch/CMakeFiles/architecture_test.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/config.tests/arch/CMakeFiles/edit_cache.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/config.tests/arch/CMakeFiles/rebuild_cache.dir

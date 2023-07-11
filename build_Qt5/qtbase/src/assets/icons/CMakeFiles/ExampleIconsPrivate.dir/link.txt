@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qcS ../../../lib/libQt6ExampleIcons_debug.a CMakeFiles/ExampleIconsPrivate.dir/ExampleIconsPrivate_autogen/mocs_compilation.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib -no_warning_for_no_symbols ../../../lib/libQt6ExampleIcons_debug.a

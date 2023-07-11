@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/assimpimporter">
-    <file alias="options.json">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtquick3d/src/plugins/assetimporters/assimp/options.json</file>
-  </qresource>
-</RCC>
-

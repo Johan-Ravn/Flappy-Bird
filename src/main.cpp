@@ -1,4 +1,4 @@
-#include "../src/display/image.hpp"
+#include "display/imageManupulation/image.hpp"
 
 int main() {
     const char* pathToImage = "../src/img/stockphoto.png";

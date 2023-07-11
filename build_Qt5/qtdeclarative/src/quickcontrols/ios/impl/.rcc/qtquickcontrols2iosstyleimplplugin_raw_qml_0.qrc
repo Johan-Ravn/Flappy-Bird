@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qt-project.org/imports/QtQuick/Controls/iOS/impl/">
-    <file alias="CursorDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/ios/impl/CursorDelegate.qml</file>
-    <file alias="DialogButtonBoxDelegate.qml">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qtdeclarative/src/quickcontrols/ios/impl/DialogButtonBoxDelegate.qml</file>
-  </qresource>
-</RCC>
-

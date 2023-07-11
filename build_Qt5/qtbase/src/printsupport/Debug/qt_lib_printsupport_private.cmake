@@ -1,5 +1,0 @@
-list(APPEND known_libs CUPS)
-set(QMAKE_LIBS_CUPS_DEBUG "/Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/lib/libcups.tbd")
-set(QMAKE_LIBDIR_CUPS_DEBUG "")
-set(QMAKE_INCDIR_CUPS_DEBUG "")
-set(QMAKE_DEFINES_CUPS_DEBUG "")

@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="shaders/scene3dmaterial.vert.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/quick3d/imports/scene3d/shaders/scene3dmaterial.vert.qsb</file>
-    <file alias="shaders/scene3dmaterial.frag.qsb">/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/qt5/qt3d/src/quick3d/imports/scene3d/shaders/scene3dmaterial.frag.qsb</file>
-  </qresource>
-</RCC>
-

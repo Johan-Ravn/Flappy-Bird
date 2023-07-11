@@ -1,1 +1,0 @@
-FINAL_PRL_FILE_PATH = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build_Qt5/qtbase/lib/libQt6Multimedia_debug.prl
