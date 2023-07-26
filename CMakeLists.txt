@@ -13,17 +13,18 @@ file(GLOB SOURCEFILES
 # Main executable
 add_executable(main ${SOURCEFILES})
 
+# Submodules
+add_subdirectory(dependencies/glfw)
+
 # Directories
 target_include_directories(main 
     PRIVATE
         ${CMAKE_CURRENT_SOURCE_DIR}/dependencies
-        ${CMAKE_CURRENT_SOURCE_DIR}/dependencies/glfw
 )
 
 # Libraries
 target_link_libraries(main 
     PRIVATE
-        glfw
 )
 
 # Compiler options
