@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PhotoshopLite.dir/src/display/userInterface.cpp.o"
-  "CMakeFiles/PhotoshopLite.dir/src/display/userInterface.cpp.o.d"
-  "CMakeFiles/PhotoshopLite.dir/src/display/windowConfig.cpp.o"
-  "CMakeFiles/PhotoshopLite.dir/src/display/windowConfig.cpp.o.d"
+  "CMakeFiles/PhotoshopLite.dir/src/main.cpp.o"
+  "CMakeFiles/PhotoshopLite.dir/src/main.cpp.o.d"
   "PhotoshopLite"
   "PhotoshopLite.pdb"
 )

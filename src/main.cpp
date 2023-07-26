@@ -1,14 +1,6 @@
-#include "display/imageManupulation/imageManipulation.hpp"
+#include <iostream>
 
 int main() {
-    const char* pathToImage = "../img/stockphoto.png";
-    Image test(pathToImage);
-    test.greyScale_average();
-    test.write("../img/grayscaled_average.jpg");
-
-    Image test2(pathToImage);
-    test2.greyScale_lumen();
-    test2.write("../img/grayscaled_lum.jpg");
-    
+    std::cout << "Hello, world!" << std::endl;
     return 0;
 }

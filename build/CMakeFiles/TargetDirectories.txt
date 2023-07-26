@@ -1,3 +1,3 @@
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles/main.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles/edit_cache.dir
-/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles/rebuild_cache.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles/PhotoshopLite.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles/edit_cache.dir
+/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles/rebuild_cache.dir

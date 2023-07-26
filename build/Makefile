@@ -57,10 +57,10 @@ RM = /usr/local/Cellar/cmake/3.26.4/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite
+CMAKE_SOURCE_DIR = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build
+CMAKE_BINARY_DIR = /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,72 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named main
+# Target rules for targets named PhotoshopLite
 
 # Build rule for target.
-main: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 main
-.PHONY : main
+PhotoshopLite: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 PhotoshopLite
+.PHONY : PhotoshopLite
 
 # fast build rule for target.
-main/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
-.PHONY : main/fast
-
-src/display/imageManupulation/imageManipulation.o: src/display/imageManupulation/imageManipulation.cpp.o
-.PHONY : src/display/imageManupulation/imageManipulation.o
-
-# target to build an object file
-src/display/imageManupulation/imageManipulation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.o
-.PHONY : src/display/imageManupulation/imageManipulation.cpp.o
-
-src/display/imageManupulation/imageManipulation.i: src/display/imageManupulation/imageManipulation.cpp.i
-.PHONY : src/display/imageManupulation/imageManipulation.i
-
-# target to preprocess a source file
-src/display/imageManupulation/imageManipulation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.i
-.PHONY : src/display/imageManupulation/imageManipulation.cpp.i
-
-src/display/imageManupulation/imageManipulation.s: src/display/imageManupulation/imageManipulation.cpp.s
-.PHONY : src/display/imageManupulation/imageManipulation.s
-
-# target to generate assembly for a file
-src/display/imageManupulation/imageManipulation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/imageManupulation/imageManipulation.cpp.s
-.PHONY : src/display/imageManupulation/imageManipulation.cpp.s
-
-src/display/userInterface/userInterface.o: src/display/userInterface/userInterface.cpp.o
-.PHONY : src/display/userInterface/userInterface.o
-
-# target to build an object file
-src/display/userInterface/userInterface.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.o
-.PHONY : src/display/userInterface/userInterface.cpp.o
-
-src/display/userInterface/userInterface.i: src/display/userInterface/userInterface.cpp.i
-.PHONY : src/display/userInterface/userInterface.i
-
-# target to preprocess a source file
-src/display/userInterface/userInterface.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.i
-.PHONY : src/display/userInterface/userInterface.cpp.i
-
-src/display/userInterface/userInterface.s: src/display/userInterface/userInterface.cpp.s
-.PHONY : src/display/userInterface/userInterface.s
-
-# target to generate assembly for a file
-src/display/userInterface/userInterface.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/display/userInterface/userInterface.cpp.s
-.PHONY : src/display/userInterface/userInterface.cpp.s
+PhotoshopLite/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/build
+.PHONY : PhotoshopLite/fast
 
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
 # target to build an object file
 src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/main.cpp.o
 .PHONY : src/main.cpp.o
 
 src/main.i: src/main.cpp.i
@@ -190,7 +142,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -198,7 +150,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -209,13 +161,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... main"
-	@echo "... src/display/imageManupulation/imageManipulation.o"
-	@echo "... src/display/imageManupulation/imageManipulation.i"
-	@echo "... src/display/imageManupulation/imageManipulation.s"
-	@echo "... src/display/userInterface/userInterface.o"
-	@echo "... src/display/userInterface/userInterface.i"
-	@echo "... src/display/userInterface/userInterface.s"
+	@echo "... PhotoshopLite"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

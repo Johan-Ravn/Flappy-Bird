@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/local/Cellar/sdl2/2.28.1/include -isystem /usr/local/Cellar/sdl2/2.28.1/include/SDL2
+CXX_INCLUDES = -I/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/include
 
 CXX_FLAGS = -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
 
