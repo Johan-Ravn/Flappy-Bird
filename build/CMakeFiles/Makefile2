@@ -64,15 +64,49 @@ CMAKE_BINARY_DIR = /Users/johanravnandersen/Desktop/Universitet/Software/Project
 
 # The main recursive "all" target.
 all: CMakeFiles/PhotoshopLite.dir/all
+all: include/glfw/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
-preinstall:
+preinstall: include/glfw/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/PhotoshopLite.dir/clean
+clean: include/glfw/clean
 .PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory include/glfw
+
+# Recursive "all" directory target.
+include/glfw/all: include/glfw/src/all
+.PHONY : include/glfw/all
+
+# Recursive "preinstall" directory target.
+include/glfw/preinstall: include/glfw/src/preinstall
+.PHONY : include/glfw/preinstall
+
+# Recursive "clean" directory target.
+include/glfw/clean: include/glfw/CMakeFiles/uninstall.dir/clean
+include/glfw/clean: include/glfw/src/clean
+.PHONY : include/glfw/clean
+
+#=============================================================================
+# Directory level rules for directory include/glfw/src
+
+# Recursive "all" directory target.
+include/glfw/src/all: include/glfw/src/CMakeFiles/glfw.dir/all
+.PHONY : include/glfw/src/all
+
+# Recursive "preinstall" directory target.
+include/glfw/src/preinstall:
+.PHONY : include/glfw/src/preinstall
+
+# Recursive "clean" directory target.
+include/glfw/src/clean: include/glfw/src/CMakeFiles/glfw.dir/clean
+include/glfw/src/clean: include/glfw/src/CMakeFiles/update_mappings.dir/clean
+.PHONY : include/glfw/src/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/PhotoshopLite.dir
@@ -99,6 +133,84 @@ PhotoshopLite: CMakeFiles/PhotoshopLite.dir/rule
 CMakeFiles/PhotoshopLite.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PhotoshopLite.dir/build.make CMakeFiles/PhotoshopLite.dir/clean
 .PHONY : CMakeFiles/PhotoshopLite.dir/clean
+
+#=============================================================================
+# Target rules for target include/glfw/CMakeFiles/uninstall.dir
+
+# All Build rule for target.
+include/glfw/CMakeFiles/uninstall.dir/all:
+	$(MAKE) $(MAKESILENT) -f include/glfw/CMakeFiles/uninstall.dir/build.make include/glfw/CMakeFiles/uninstall.dir/depend
+	$(MAKE) $(MAKESILENT) -f include/glfw/CMakeFiles/uninstall.dir/build.make include/glfw/CMakeFiles/uninstall.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles --progress-num= "Built target uninstall"
+.PHONY : include/glfw/CMakeFiles/uninstall.dir/all
+
+# Build rule for subdir invocation for target.
+include/glfw/CMakeFiles/uninstall.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 include/glfw/CMakeFiles/uninstall.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 0
+.PHONY : include/glfw/CMakeFiles/uninstall.dir/rule
+
+# Convenience name for target.
+uninstall: include/glfw/CMakeFiles/uninstall.dir/rule
+.PHONY : uninstall
+
+# clean rule for target.
+include/glfw/CMakeFiles/uninstall.dir/clean:
+	$(MAKE) $(MAKESILENT) -f include/glfw/CMakeFiles/uninstall.dir/build.make include/glfw/CMakeFiles/uninstall.dir/clean
+.PHONY : include/glfw/CMakeFiles/uninstall.dir/clean
+
+#=============================================================================
+# Target rules for target include/glfw/src/CMakeFiles/glfw.dir
+
+# All Build rule for target.
+include/glfw/src/CMakeFiles/glfw.dir/all:
+	$(MAKE) $(MAKESILENT) -f include/glfw/src/CMakeFiles/glfw.dir/build.make include/glfw/src/CMakeFiles/glfw.dir/depend
+	$(MAKE) $(MAKESILENT) -f include/glfw/src/CMakeFiles/glfw.dir/build.make include/glfw/src/CMakeFiles/glfw.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 "Built target glfw"
+.PHONY : include/glfw/src/CMakeFiles/glfw.dir/all
+
+# Build rule for subdir invocation for target.
+include/glfw/src/CMakeFiles/glfw.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 22
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 include/glfw/src/CMakeFiles/glfw.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 0
+.PHONY : include/glfw/src/CMakeFiles/glfw.dir/rule
+
+# Convenience name for target.
+glfw: include/glfw/src/CMakeFiles/glfw.dir/rule
+.PHONY : glfw
+
+# clean rule for target.
+include/glfw/src/CMakeFiles/glfw.dir/clean:
+	$(MAKE) $(MAKESILENT) -f include/glfw/src/CMakeFiles/glfw.dir/build.make include/glfw/src/CMakeFiles/glfw.dir/clean
+.PHONY : include/glfw/src/CMakeFiles/glfw.dir/clean
+
+#=============================================================================
+# Target rules for target include/glfw/src/CMakeFiles/update_mappings.dir
+
+# All Build rule for target.
+include/glfw/src/CMakeFiles/update_mappings.dir/all:
+	$(MAKE) $(MAKESILENT) -f include/glfw/src/CMakeFiles/update_mappings.dir/build.make include/glfw/src/CMakeFiles/update_mappings.dir/depend
+	$(MAKE) $(MAKESILENT) -f include/glfw/src/CMakeFiles/update_mappings.dir/build.make include/glfw/src/CMakeFiles/update_mappings.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles --progress-num=25 "Built target update_mappings"
+.PHONY : include/glfw/src/CMakeFiles/update_mappings.dir/all
+
+# Build rule for subdir invocation for target.
+include/glfw/src/CMakeFiles/update_mappings.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 include/glfw/src/CMakeFiles/update_mappings.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/johanravnandersen/Desktop/Universitet/Software/Projects-skeleton/PhotoshopLite-1/build/CMakeFiles 0
+.PHONY : include/glfw/src/CMakeFiles/update_mappings.dir/rule
+
+# Convenience name for target.
+update_mappings: include/glfw/src/CMakeFiles/update_mappings.dir/rule
+.PHONY : update_mappings
+
+# clean rule for target.
+include/glfw/src/CMakeFiles/update_mappings.dir/clean:
+	$(MAKE) $(MAKESILENT) -f include/glfw/src/CMakeFiles/update_mappings.dir/build.make include/glfw/src/CMakeFiles/update_mappings.dir/clean
+.PHONY : include/glfw/src/CMakeFiles/update_mappings.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
