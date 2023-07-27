@@ -1,2 +1,0 @@
-# PhotoshopLite
-An image manipulator
