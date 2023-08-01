@@ -1,2 +1,1 @@
-# PhotoshopLite
-An image manipulator
+Flappy bird
